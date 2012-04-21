@@ -26,4 +26,5 @@
 ;;recompile modules directory
 (add-hook 'kill-emacs-hook
           (lambda ()
-            (byte-recompile-directory prelude-modules-dir)))
+            (byte-recompile-directory prelude-modules-dir)
+            (byte-recompile-file (concat user-emacs-directory "init.el"))))
