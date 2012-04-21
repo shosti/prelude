@@ -3,6 +3,7 @@
 
 (defun set-up-cc-mode ()
   (google-set-c-style)
+  (c-turn-on-eldoc-mode)
   (electric-indent-mode 1)
   (c-toggle-auto-hungry-state 1)
   (c-toggle-auto-newline 0)

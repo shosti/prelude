@@ -7,7 +7,8 @@
   (append personal-prelude-modules
           '(ac-slime ace-jump-mode ascope auto-complete bitlbee buffer-move
                      elscreen gnuplot google-c-style highlight-parentheses
-                     js-comint parenface pretty-mode rvm smex undo-tree))
+                     js-comint parenface pretty-mode rvm smex undo-tree
+                     c-eldoc))
   "A list of packages to ensure are installed at launch.")
 
 (defun personal-packages-installed-p ()
