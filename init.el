@@ -70,6 +70,9 @@ ELPA (or MELPA).")
 ;; config changes made through the customize UI will be store here
 (setq custom-file (concat prelude-personal-dir "custom.el"))
 
+;; add personal dir to load path so that dependencies are possible
+(add-to-list 'load-path prelude-personal-dir)
+
 ;; load the personal settings (this includes `custom-file')
 (when (file-exists-p prelude-personal-dir)
   (mapc 'load (directory-files prelude-personal-dir 't "^[^#].*el$")))

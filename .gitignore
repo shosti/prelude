@@ -10,3 +10,4 @@ semanticdb
 url
 ede-projects.el
 .DS_Store
+/ac-comphist.dat
