@@ -1,7 +1,7 @@
 (require 'personal-packages)
 
 (require 'pretty-mode)
-(global-pretty-mode 1)
+
 (setq pretty-patterns
   (let* ((lispy '(scheme emacs-lisp lisp clojure))
          (mley '(tuareg haskell sml))
@@ -97,3 +97,8 @@
 ;;;        ("\\<not\\>"     lisp emacs-lisp scheme haskell sml))
 
        ))))
+
+(defun pretty-mode-on ()
+  (pretty-mode 1))
+
+(add-hook 'prelude-prog-mode-hook 'pretty-mode-on)
