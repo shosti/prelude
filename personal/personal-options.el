@@ -1,5 +1,8 @@
 (require 'personal-packages)
 
+;; I like my arrow keys occasionally!
+(prelude-restore-arrow-keys)
+
 (setq visible-bell t)
 (setq disabled-command-function nil)
 
