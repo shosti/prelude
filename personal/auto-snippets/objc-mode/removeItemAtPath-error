@@ -1,0 +1,5 @@
+#name : removeItemAtPath:error
+#group : NSFileManager
+#key : removeItemAtPath:error
+# --
+removeItemAtPath:${1:(NSString *)path} error:${2:(NSError **)error}

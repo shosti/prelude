@@ -1,0 +1,5 @@
+#name : convertCoordinate:toPointToView
+#group : MKMapView
+#key : convertCoordinate:toPointToView
+# --
+convertCoordinate:${1:(CLLocationCoordinate2D)coordinate} toPointToView:${2:(UIView *)view}

@@ -1,0 +1,5 @@
+#name : setAnimationStartDate
+#group : UIView
+#key : setAnimationStartDate
+# --
+setAnimationStartDate:${1:(NSDate *)startDate}

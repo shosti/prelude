@@ -1,0 +1,5 @@
+#name : requestAccessToAccountsWithType
+#group : ACAccountStore
+#key : requestAccessToAccountsWithType
+# --
+requestAccessToAccountsWithType:${1:(ACAccountType *)accountType}

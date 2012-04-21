@@ -1,0 +1,5 @@
+#name : addObserver:forKeyPath:options:context
+#group : NSKeyValueObserving
+#key : addObserver:forKeyPath:options:context
+# --
+addObserver:${1:(NSObject *)observer} forKeyPath:${2:(NSString *)keyPath} options:${3:(NSKeyValueObservingOptions)options} context:${4:(void *)context}

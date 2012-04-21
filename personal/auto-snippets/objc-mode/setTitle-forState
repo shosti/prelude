@@ -1,0 +1,5 @@
+#name : setTitle:forState
+#group : UIButton
+#key : setTitle:forState
+# --
+setTitle:${1:(NSString *)title} forState:${2:(UIControlState)state}

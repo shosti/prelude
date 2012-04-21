@@ -1,0 +1,5 @@
+#name : netServiceWillResolve
+#group : NSNetServices
+#key : netServiceWillResolve
+# --
+netServiceWillResolve:${1:(NSNetService *)sender}

@@ -1,0 +1,5 @@
+#name : dateFromComponents
+#group : NSCalendar
+#key : dateFromComponents
+# --
+dateFromComponents:${1:(NSDateComponents *)comps}

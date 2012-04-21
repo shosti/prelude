@@ -1,0 +1,5 @@
+#name : application:didFailToRegisterForRemoteNotificationsWithError
+#group : UIApplication
+#key : application:didFailToRegisterForRemoteNotificationsWithError
+# --
+application:${1:(UIApplication *)application} didFailToRegisterForRemoteNotificationsWithError:${2:(NSError *)error}

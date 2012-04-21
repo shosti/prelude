@@ -1,0 +1,5 @@
+#name : backgroundImageForState:barMetrics
+#group : UISegmentedControl
+#key : backgroundImageForState:barMetrics
+# --
+backgroundImageForState:${1:(UIControlState)state} barMetrics:${2:(UIBarMetrics)barMetrics}

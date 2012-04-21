@@ -1,0 +1,5 @@
+#name : initWithContentsOfFile
+#group : UIImage
+#key : initWithContentsOfFile
+# --
+initWithContentsOfFile:${1:(NSString *)path}

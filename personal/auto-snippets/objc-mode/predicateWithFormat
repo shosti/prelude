@@ -1,0 +1,5 @@
+#name : predicateWithFormat
+#group : NSPredicate
+#key : predicateWithFormat
+# --
+predicateWithFormat:${1:(NSString *)predicateFormat}

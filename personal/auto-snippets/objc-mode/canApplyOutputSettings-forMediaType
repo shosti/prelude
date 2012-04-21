@@ -1,0 +1,5 @@
+#name : canApplyOutputSettings:forMediaType
+#group : AVAssetWriter
+#key : canApplyOutputSettings:forMediaType
+# --
+canApplyOutputSettings:${1:(NSDictionary *)outputSettings} forMediaType:${2:(NSString *)mediaType}

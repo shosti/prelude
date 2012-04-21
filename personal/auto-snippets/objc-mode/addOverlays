@@ -1,0 +1,5 @@
+#name : addOverlays
+#group : MKMapView
+#key : addOverlays
+# --
+addOverlays:${1:(NSArray *)overlays}

@@ -1,0 +1,5 @@
+#name : apply
+#group : CIFilter
+#key : apply
+# --
+apply:${1:(CIKernel *)k}

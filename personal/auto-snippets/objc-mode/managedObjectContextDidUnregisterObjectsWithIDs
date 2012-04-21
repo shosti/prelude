@@ -1,0 +1,5 @@
+#name : managedObjectContextDidUnregisterObjectsWithIDs
+#group : NSIncrementalStore
+#key : managedObjectContextDidUnregisterObjectsWithIDs
+# --
+managedObjectContextDidUnregisterObjectsWithIDs:${1:(NSArray*)objectIDs}

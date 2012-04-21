@@ -1,0 +1,5 @@
+#name : cache:willEvictObject
+#group : NSCache
+#key : cache:willEvictObject
+# --
+cache:${1:(NSCache *)cache} willEvictObject:${2:(id)obj}

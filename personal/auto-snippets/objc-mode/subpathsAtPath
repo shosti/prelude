@@ -1,0 +1,5 @@
+#name : subpathsAtPath
+#group : NSFileManager
+#key : subpathsAtPath
+# --
+subpathsAtPath:${1:(NSString *)path}

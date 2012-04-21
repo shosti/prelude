@@ -1,0 +1,5 @@
+#name : setCurrencyDecimalSeparator
+#group : NSNumberFormatter
+#key : setCurrencyDecimalSeparator
+# --
+setCurrencyDecimalSeparator:${1:(NSString *)string}

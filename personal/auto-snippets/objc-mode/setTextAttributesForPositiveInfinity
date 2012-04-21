@@ -1,0 +1,5 @@
+#name : setTextAttributesForPositiveInfinity
+#group : NSNumberFormatter
+#key : setTextAttributesForPositiveInfinity
+# --
+setTextAttributesForPositiveInfinity:${1:(NSDictionary *)newAttributes}

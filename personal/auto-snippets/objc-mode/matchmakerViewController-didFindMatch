@@ -1,0 +1,5 @@
+#name : matchmakerViewController:didFindMatch
+#group : GKMatchmakerViewController
+#key : matchmakerViewController:didFindMatch
+# --
+matchmakerViewController:${1:(GKMatchmakerViewController *)viewController} didFindMatch:${2:(GKMatch *)match}

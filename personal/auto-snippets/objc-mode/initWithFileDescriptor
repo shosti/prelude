@@ -1,0 +1,5 @@
+#name : initWithFileDescriptor
+#group : NSFileHandle
+#key : initWithFileDescriptor
+# --
+initWithFileDescriptor:${1:(int)fd}

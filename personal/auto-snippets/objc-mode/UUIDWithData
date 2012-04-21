@@ -1,0 +1,5 @@
+#name : UUIDWithData
+#group : CBUUID
+#key : UUIDWithData
+# --
+UUIDWithData:${1:(NSData *)theData}

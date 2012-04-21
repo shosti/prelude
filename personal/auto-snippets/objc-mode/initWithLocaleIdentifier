@@ -1,0 +1,5 @@
+#name : initWithLocaleIdentifier
+#group : NSLocale
+#key : initWithLocaleIdentifier
+# --
+initWithLocaleIdentifier:${1:(NSString *)string}

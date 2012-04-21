@@ -1,0 +1,5 @@
+#name : peersWithConnectionState
+#group : GKSession
+#key : peersWithConnectionState
+# --
+peersWithConnectionState:${1:(GKPeerConnectionState)state}

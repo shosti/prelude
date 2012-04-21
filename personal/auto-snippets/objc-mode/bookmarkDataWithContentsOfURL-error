@@ -1,0 +1,5 @@
+#name : bookmarkDataWithContentsOfURL:error
+#group : NSURL
+#key : bookmarkDataWithContentsOfURL:error
+# --
+bookmarkDataWithContentsOfURL:${1:(NSURL *)bookmarkFileURL} error:${2:(NSError **)error}

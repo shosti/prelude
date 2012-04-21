@@ -1,0 +1,5 @@
+#name : documentInteractionController:didEndSendingToApplication
+#group : UIDocumentInteractionController
+#key : documentInteractionController:didEndSendingToApplication
+# --
+documentInteractionController:${1:(UIDocumentInteractionController *)controller} didEndSendingToApplication:${2:(NSString *)application}

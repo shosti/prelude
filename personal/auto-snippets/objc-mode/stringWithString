@@ -1,0 +1,5 @@
+#name : stringWithString
+#group : NSString
+#key : stringWithString
+# --
+stringWithString:${1:(NSString *)string}

@@ -1,0 +1,5 @@
+#name : dateWithTimeInterval:sinceDate
+#group : NSDate
+#key : dateWithTimeInterval:sinceDate
+# --
+dateWithTimeInterval:${1:(NSTimeInterval)ti} sinceDate:${2:(NSDate *)date}

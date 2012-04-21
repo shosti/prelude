@@ -1,0 +1,5 @@
+#name : printFormattersForPageAtIndex
+#group : UIPrintPageRenderer
+#key : printFormattersForPageAtIndex
+# --
+printFormattersForPageAtIndex:${1:(NSInteger)pageIndex}

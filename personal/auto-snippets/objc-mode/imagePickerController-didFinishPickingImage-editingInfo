@@ -1,0 +1,5 @@
+#name : imagePickerController:didFinishPickingImage:editingInfo
+#group : UIImagePickerController
+#key : imagePickerController:didFinishPickingImage:editingInfo
+# --
+imagePickerController:${1:(UIImagePickerController *)picker} didFinishPickingImage:${2:(UIImage *)image} editingInfo:${3:(NSDictionary *)editingInfo}

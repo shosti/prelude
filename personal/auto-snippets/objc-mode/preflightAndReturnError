@@ -1,0 +1,5 @@
+#name : preflightAndReturnError
+#group : NSBundle
+#key : preflightAndReturnError
+# --
+preflightAndReturnError:${1:(NSError **)error}

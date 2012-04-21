@@ -1,0 +1,5 @@
+#name : initWithDouble
+#group : NSValue
+#key : initWithDouble
+# --
+initWithDouble:${1:(double)value}

@@ -1,0 +1,5 @@
+#name : setAnimationDelegate
+#group : UIView
+#key : setAnimationDelegate
+# --
+setAnimationDelegate:${1:(id)delegate}

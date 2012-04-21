@@ -1,0 +1,5 @@
+#name : prepareForDrawingPages
+#group : UIPrintPageRenderer
+#key : prepareForDrawingPages
+# --
+prepareForDrawingPages:${1:(NSRange)range}

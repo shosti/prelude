@@ -1,0 +1,5 @@
+#name : registerDefaults
+#group : NSUserDefaults
+#key : registerDefaults
+# --
+registerDefaults:${1:(NSDictionary *)registrationDictionary}

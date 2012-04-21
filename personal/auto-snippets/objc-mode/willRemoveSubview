@@ -1,0 +1,5 @@
+#name : willRemoveSubview
+#group : UIView
+#key : willRemoveSubview
+# --
+willRemoveSubview:${1:(UIView *)subview}

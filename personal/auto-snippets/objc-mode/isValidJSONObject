@@ -1,0 +1,5 @@
+#name : isValidJSONObject
+#group : NSJSONSerialization
+#key : isValidJSONObject
+# --
+isValidJSONObject:${1:(id)obj}

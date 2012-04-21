@@ -1,0 +1,5 @@
+#name : setResourceValues:error
+#group : NSURL
+#key : setResourceValues:error
+# --
+setResourceValues:${1:(NSDictionary *)keyedValues} error:${2:(NSError **)error}

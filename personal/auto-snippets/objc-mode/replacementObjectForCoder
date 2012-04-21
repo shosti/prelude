@@ -1,0 +1,5 @@
+#name : replacementObjectForCoder
+#group : NSObject
+#key : replacementObjectForCoder
+# --
+replacementObjectForCoder:${1:(NSCoder *)aCoder}

@@ -1,0 +1,5 @@
+#name : parser:foundProcessingInstructionWithTarget:data
+#group : NSXMLParser
+#key : parser:foundProcessingInstructionWithTarget:data
+# --
+parser:${1:(NSXMLParser *)parser} foundProcessingInstructionWithTarget:${2:(NSString *)target} data:${3:(NSString *)data}

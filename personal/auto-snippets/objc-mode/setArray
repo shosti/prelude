@@ -1,0 +1,5 @@
+#name : setArray
+#group : NSArray
+#key : setArray
+# --
+setArray:${1:(NSArray *)otherArray}

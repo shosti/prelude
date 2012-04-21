@@ -1,0 +1,5 @@
+#name : archiveRootObject:toFile
+#group : NSKeyedArchiver
+#key : archiveRootObject:toFile
+# --
+archiveRootObject:${1:(id)rootObject} toFile:${2:(NSString *)path}

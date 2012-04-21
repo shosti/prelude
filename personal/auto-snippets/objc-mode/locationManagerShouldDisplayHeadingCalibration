@@ -1,0 +1,5 @@
+#name : locationManagerShouldDisplayHeadingCalibration
+#group : CLLocationManagerDelegate
+#key : locationManagerShouldDisplayHeadingCalibration
+# --
+locationManagerShouldDisplayHeadingCalibration:${1:(CLLocationManager *)manager}

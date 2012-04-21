@@ -1,0 +1,5 @@
+#name : matchmakerViewController:didFindPlayers
+#group : GKMatchmakerViewController
+#key : matchmakerViewController:didFindPlayers
+# --
+matchmakerViewController:${1:(GKMatchmakerViewController *)viewController} didFindPlayers:${2:(NSArray *)playerIDs}

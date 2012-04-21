@@ -1,0 +1,5 @@
+#name : sectionForSectionIndexTitleAtIndex
+#group : UILocalizedIndexedCollation
+#key : sectionForSectionIndexTitleAtIndex
+# --
+sectionForSectionIndexTitleAtIndex:${1:(NSInteger)indexTitleIndex}

@@ -1,0 +1,5 @@
+#name : strokeWithBlendMode:alpha
+#group : UIBezierPath
+#key : strokeWithBlendMode:alpha
+# --
+strokeWithBlendMode:${1:(CGBlendMode)blendMode} alpha:${2:(CGFloat)alpha}

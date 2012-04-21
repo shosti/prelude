@@ -1,0 +1,5 @@
+#name : setAttributeMappings
+#group : NSEntityMapping
+#key : setAttributeMappings
+# --
+setAttributeMappings:${1:(NSArray *)mappings}

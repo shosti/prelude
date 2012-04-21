@@ -1,0 +1,5 @@
+#name : performSelector
+#group : NSObject
+#key : performSelector
+# --
+performSelector:${1:(SEL)aSelector}

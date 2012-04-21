@@ -1,0 +1,5 @@
+#name : tableView:performAction:forRowAtIndexPath:withSender
+#group : UITableView
+#key : tableView:performAction:forRowAtIndexPath:withSender
+# --
+tableView:${1:(UITableView *)tableView} performAction:${2:(SEL)action} forRowAtIndexPath:${3:(NSIndexPath *)indexPath} withSender:${4:(id)sender}

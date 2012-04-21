@@ -1,0 +1,5 @@
+#name : applicationDidFinishLaunching
+#group : UIApplication
+#key : applicationDidFinishLaunching
+# --
+applicationDidFinishLaunching:${1:(UIApplication *)application}

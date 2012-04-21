@@ -1,0 +1,5 @@
+#name : connectPeripheral:options
+#group : CBCentralManager
+#key : connectPeripheral:options
+# --
+connectPeripheral:${1:(CBPeripheral *)peripheral} options:${2:(NSDictionary *)options}

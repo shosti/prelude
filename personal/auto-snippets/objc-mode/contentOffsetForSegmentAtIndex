@@ -1,0 +1,5 @@
+#name : contentOffsetForSegmentAtIndex
+#group : UISegmentedControl
+#key : contentOffsetForSegmentAtIndex
+# --
+contentOffsetForSegmentAtIndex:${1:(NSUInteger)segment}

@@ -1,0 +1,5 @@
+#name : scrollToRect
+#group : CAScrollLayer
+#key : scrollToRect
+# --
+scrollToRect:${1:(CGRect)r}

@@ -1,0 +1,5 @@
+#name : backButtonBackgroundVerticalPositionAdjustmentForBarMetrics
+#group : UIBarButtonItem
+#key : backButtonBackgroundVerticalPositionAdjustmentForBarMetrics
+# --
+backButtonBackgroundVerticalPositionAdjustmentForBarMetrics:${1:(UIBarMetrics)barMetrics}

@@ -1,0 +1,5 @@
+#name : presentedSubitemAtURL:didLoseVersion
+#group : NSFilePresenter
+#key : presentedSubitemAtURL:didLoseVersion
+# --
+presentedSubitemAtURL:${1:(NSURL *)url} didLoseVersion:${2:(NSFileVersion *)version}

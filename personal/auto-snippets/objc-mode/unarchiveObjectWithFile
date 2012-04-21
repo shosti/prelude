@@ -1,0 +1,5 @@
+#name : unarchiveObjectWithFile
+#group : NSKeyedArchiver
+#key : unarchiveObjectWithFile
+# --
+unarchiveObjectWithFile:${1:(NSString *)path}

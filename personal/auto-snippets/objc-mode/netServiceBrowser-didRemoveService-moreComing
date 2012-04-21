@@ -1,0 +1,5 @@
+#name : netServiceBrowser:didRemoveService:moreComing
+#group : NSNetServices
+#key : netServiceBrowser:didRemoveService:moreComing
+# --
+netServiceBrowser:${1:(NSNetServiceBrowser *)aNetServiceBrowser} didRemoveService:${2:(NSNetService *)aNetService} moreComing:${3:(BOOL)moreComing}

@@ -1,0 +1,5 @@
+#name : filterNamesInCategory
+#group : CIFilter
+#key : filterNamesInCategory
+# --
+filterNamesInCategory:${1:(NSString *)category}

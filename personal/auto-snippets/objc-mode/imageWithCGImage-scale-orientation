@@ -1,0 +1,5 @@
+#name : imageWithCGImage:scale:orientation
+#group : UIImage
+#key : imageWithCGImage:scale:orientation
+# --
+imageWithCGImage:${1:(CGImageRef)cgImage} scale:${2:(CGFloat)scale} orientation:${3:(UIImageOrientation)orientation}

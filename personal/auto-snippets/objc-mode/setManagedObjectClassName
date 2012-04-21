@@ -1,0 +1,5 @@
+#name : setManagedObjectClassName
+#group : NSEntityDescription
+#key : setManagedObjectClassName
+# --
+setManagedObjectClassName:${1:(NSString *)name}

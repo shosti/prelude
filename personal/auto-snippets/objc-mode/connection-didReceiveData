@@ -1,0 +1,5 @@
+#name : connection:didReceiveData
+#group : NSURLConnection
+#key : connection:didReceiveData
+# --
+connection:${1:(NSURLConnection *)connection} didReceiveData:${2:(NSData *)data}

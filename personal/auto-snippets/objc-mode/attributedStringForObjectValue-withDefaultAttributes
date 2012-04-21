@@ -1,0 +1,5 @@
+#name : attributedStringForObjectValue:withDefaultAttributes
+#group : NSFormatter
+#key : attributedStringForObjectValue:withDefaultAttributes
+# --
+attributedStringForObjectValue:${1:(id)obj} withDefaultAttributes:${2:(NSDictionary *)attrs}

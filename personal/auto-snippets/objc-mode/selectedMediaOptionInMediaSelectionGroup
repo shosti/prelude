@@ -1,0 +1,5 @@
+#name : selectedMediaOptionInMediaSelectionGroup
+#group : AVPlayerItem
+#key : selectedMediaOptionInMediaSelectionGroup
+# --
+selectedMediaOptionInMediaSelectionGroup:${1:(AVMediaSelectionGroup *)mediaSelectionGroup}

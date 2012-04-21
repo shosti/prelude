@@ -1,0 +1,5 @@
+#name : tableView:shouldShowMenuForRowAtIndexPath
+#group : UITableView
+#key : tableView:shouldShowMenuForRowAtIndexPath
+# --
+tableView:${1:(UITableView *)tableView} shouldShowMenuForRowAtIndexPath:${2:(NSIndexPath *)indexPath}

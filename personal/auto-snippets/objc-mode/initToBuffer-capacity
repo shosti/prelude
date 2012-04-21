@@ -1,0 +1,5 @@
+#name : initToBuffer:capacity
+#group : NSStream
+#key : initToBuffer:capacity
+# --
+initToBuffer:${1:(uint8_t *)buffer} capacity:${2:(NSUInteger)capacity}

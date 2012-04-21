@@ -1,0 +1,5 @@
+#name : decodeInt64ForKey
+#group : NSKeyedArchiver
+#key : decodeInt64ForKey
+# --
+decodeInt64ForKey:${1:(NSString *)key}

@@ -1,0 +1,5 @@
+#name : dismissModalViewControllerAnimated
+#group : UIViewController
+#key : dismissModalViewControllerAnimated
+# --
+dismissModalViewControllerAnimated:${1:(BOOL)animated}

@@ -1,0 +1,5 @@
+#name : matchmakerViewControllerWasCancelled
+#group : GKMatchmakerViewController
+#key : matchmakerViewControllerWasCancelled
+# --
+matchmakerViewControllerWasCancelled:${1:(GKMatchmakerViewController *)viewController}

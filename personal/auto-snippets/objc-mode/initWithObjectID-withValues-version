@@ -1,0 +1,5 @@
+#name : initWithObjectID:withValues:version
+#group : NSIncrementalStoreNode
+#key : initWithObjectID:withValues:version
+# --
+initWithObjectID:${1:(NSManagedObjectID*)objectID} withValues:${2:(NSDictionary*)values} version:${3:(uint64_t)version}

@@ -1,0 +1,5 @@
+#name : sendAction:to:forEvent
+#group : UIControl
+#key : sendAction:to:forEvent
+# --
+sendAction:${1:(SEL)action} to:${2:(id)target} forEvent:${3:(UIEvent *)event}

@@ -1,0 +1,5 @@
+#name : convertRect:toWindow
+#group : UIWindow
+#key : convertRect:toWindow
+# --
+convertRect:${1:(CGRect)rect} toWindow:${2:(UIWindow *)window}

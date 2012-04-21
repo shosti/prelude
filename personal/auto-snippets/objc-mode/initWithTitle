@@ -1,0 +1,5 @@
+#name : initWithTitle
+#group : UINavigationBar
+#key : initWithTitle
+# --
+initWithTitle:${1:(NSString *)title}

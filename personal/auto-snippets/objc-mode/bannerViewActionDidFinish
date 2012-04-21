@@ -1,0 +1,5 @@
+#name : bannerViewActionDidFinish
+#group : ADBannerView
+#key : bannerViewActionDidFinish
+# --
+bannerViewActionDidFinish:${1:(ADBannerView *)banner}

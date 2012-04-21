@@ -1,0 +1,5 @@
+#name : keyPathsForValuesAffectingValueForKey
+#group : NSKeyValueObserving
+#key : keyPathsForValuesAffectingValueForKey
+# --
+keyPathsForValuesAffectingValueForKey:${1:(NSString *)key}

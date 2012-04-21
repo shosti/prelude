@@ -1,0 +1,5 @@
+#name : URLsForResourcesWithExtension:subdirectory:localization
+#group : NSBundle
+#key : URLsForResourcesWithExtension:subdirectory:localization
+# --
+URLsForResourcesWithExtension:${1:(NSString *)ext} subdirectory:${2:(NSString *)subpath} localization:${3:(NSString *)localizationName}

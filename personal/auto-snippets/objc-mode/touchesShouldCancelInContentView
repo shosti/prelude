@@ -1,0 +1,5 @@
+#name : touchesShouldCancelInContentView
+#group : UIScrollView
+#key : touchesShouldCancelInContentView
+# --
+touchesShouldCancelInContentView:${1:(UIView *)view}

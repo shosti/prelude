@@ -1,0 +1,5 @@
+#name : isFlashModeSupported
+#group : AVCaptureDevice
+#key : isFlashModeSupported
+# --
+isFlashModeSupported:${1:(AVCaptureFlashMode)flashMode}

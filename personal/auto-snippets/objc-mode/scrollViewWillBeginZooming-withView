@@ -1,0 +1,5 @@
+#name : scrollViewWillBeginZooming:withView
+#group : UIScrollView
+#key : scrollViewWillBeginZooming:withView
+# --
+scrollViewWillBeginZooming:${1:(UIScrollView *)scrollView} withView:${2:(UIView *)view}

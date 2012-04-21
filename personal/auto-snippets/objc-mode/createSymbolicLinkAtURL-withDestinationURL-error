@@ -1,0 +1,5 @@
+#name : createSymbolicLinkAtURL:withDestinationURL:error
+#group : NSFileManager
+#key : createSymbolicLinkAtURL:withDestinationURL:error
+# --
+createSymbolicLinkAtURL:${1:(NSURL *)url} withDestinationURL:${2:(NSURL *)destURL} error:${3:(NSError **)error}

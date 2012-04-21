@@ -1,0 +1,5 @@
+#name : applicationSignificantTimeChange
+#group : UIApplication
+#key : applicationSignificantTimeChange
+# --
+applicationSignificantTimeChange:${1:(UIApplication *)application}

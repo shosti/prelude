@@ -1,0 +1,5 @@
+#name : fileManager:shouldProceedAfterError:linkingItemAtURL:toURL
+#group : NSFileManager
+#key : fileManager:shouldProceedAfterError:linkingItemAtURL:toURL
+# --
+fileManager:${1:(NSFileManager *)fileManager} shouldProceedAfterError:${2:(NSError *)error} linkingItemAtURL:${3:(NSURL *)srcURL} toURL:${4:(NSURL *)dstURL}

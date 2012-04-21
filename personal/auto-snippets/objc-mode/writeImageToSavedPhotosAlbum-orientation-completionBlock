@@ -1,0 +1,5 @@
+#name : writeImageToSavedPhotosAlbum:orientation:completionBlock
+#group : ALAssetsLibrary
+#key : writeImageToSavedPhotosAlbum:orientation:completionBlock
+# --
+writeImageToSavedPhotosAlbum:${1:(CGImageRef)imageRef} orientation:${2:(ALAssetOrientation)orientation} completionBlock:${3:(ALAssetsLibraryWriteImageCompletionBlock)completionBlock}

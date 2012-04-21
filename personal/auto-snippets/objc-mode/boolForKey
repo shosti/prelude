@@ -1,0 +1,5 @@
+#name : boolForKey
+#group : NSUserDefaults
+#key : boolForKey
+# --
+boolForKey:${1:(NSString *)defaultName}

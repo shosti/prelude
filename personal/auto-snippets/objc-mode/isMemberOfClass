@@ -1,0 +1,5 @@
+#name : isMemberOfClass
+#group : NSObject
+#key : isMemberOfClass
+# --
+isMemberOfClass:${1:(Class)aClass}

@@ -1,0 +1,5 @@
+#name : setRightBarButtonItems:animated
+#group : UINavigationBar
+#key : setRightBarButtonItems:animated
+# --
+setRightBarButtonItems:${1:(NSArray *)items} animated:${2:(BOOL)animated}

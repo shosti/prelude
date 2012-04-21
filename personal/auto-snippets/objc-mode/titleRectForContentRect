@@ -1,0 +1,5 @@
+#name : titleRectForContentRect
+#group : UIButton
+#key : titleRectForContentRect
+# --
+titleRectForContentRect:${1:(CGRect)contentRect}

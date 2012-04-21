@@ -1,0 +1,5 @@
+#name : doubleForKey
+#group : NSUserDefaults
+#key : doubleForKey
+# --
+doubleForKey:${1:(NSString *)defaultName}

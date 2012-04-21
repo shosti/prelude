@@ -1,0 +1,5 @@
+#name : endMatchInTurnWithMatchData
+#group : GKTurnBasedMatch
+#key : endMatchInTurnWithMatchData
+# --
+endMatchInTurnWithMatchData:${1:(NSData*)matchData}

@@ -1,0 +1,5 @@
+#name : supportsAVCaptureSessionPreset
+#group : AVCaptureDevice
+#key : supportsAVCaptureSessionPreset
+# --
+supportsAVCaptureSessionPreset:${1:(NSString *)preset}

@@ -1,0 +1,5 @@
+#name : documentInteractionController:willBeginSendingToApplication
+#group : UIDocumentInteractionController
+#key : documentInteractionController:willBeginSendingToApplication
+# --
+documentInteractionController:${1:(UIDocumentInteractionController *)controller} willBeginSendingToApplication:${2:(NSString *)application}

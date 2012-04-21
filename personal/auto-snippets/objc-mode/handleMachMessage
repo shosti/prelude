@@ -1,0 +1,5 @@
+#name : handleMachMessage
+#group : NSPort
+#key : handleMachMessage
+# --
+handleMachMessage:${1:(void *)msg}

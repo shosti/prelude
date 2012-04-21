@@ -1,0 +1,5 @@
+#name : valueForKeyPath
+#group : NSKeyValueCoding
+#key : valueForKeyPath
+# --
+valueForKeyPath:${1:(NSString *)keyPath}

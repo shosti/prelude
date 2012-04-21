@@ -1,0 +1,5 @@
+#name : setWeekdayOrdinal
+#group : NSCalendar
+#key : setWeekdayOrdinal
+# --
+setWeekdayOrdinal:${1:(NSInteger)v}

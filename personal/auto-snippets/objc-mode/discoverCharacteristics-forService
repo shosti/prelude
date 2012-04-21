@@ -1,0 +1,5 @@
+#name : discoverCharacteristics:forService
+#group : CBPeripheral
+#key : discoverCharacteristics:forService
+# --
+discoverCharacteristics:${1:(NSArray *)characteristicUUIDs} forService:${2:(CBService *)service}

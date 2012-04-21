@@ -1,0 +1,5 @@
+#name : getBytes:fromOffset:length:error
+#group : ALAssetRepresentation
+#key : getBytes:fromOffset:length:error
+# --
+getBytes:${1:(uint8_t *)buffer} fromOffset:${2:(long long)offset} length:${3:(NSUInteger)length} error:${4:(NSError **)error}

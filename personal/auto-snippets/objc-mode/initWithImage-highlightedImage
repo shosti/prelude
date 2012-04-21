@@ -1,0 +1,5 @@
+#name : initWithImage:highlightedImage
+#group : UIImageView
+#key : initWithImage:highlightedImage
+# --
+initWithImage:${1:(UIImage *)image} highlightedImage:${2:(UIImage *)highlightedImage}

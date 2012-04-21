@@ -1,0 +1,5 @@
+#name : preferredLocalizationsFromArray
+#group : NSBundle
+#key : preferredLocalizationsFromArray
+# --
+preferredLocalizationsFromArray:${1:(NSArray *)localizationsArray}

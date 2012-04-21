@@ -1,0 +1,5 @@
+#name : URLResourceDidCancelLoading
+#group : NSURL
+#key : URLResourceDidCancelLoading
+# --
+URLResourceDidCancelLoading:${1:(NSURL *)sender}

@@ -1,0 +1,5 @@
+#name : runActionForKey:object
+#group : CALayer
+#key : runActionForKey:object
+# --
+runActionForKey:${1:(NSString *)event} object:${2:(id)anObject}

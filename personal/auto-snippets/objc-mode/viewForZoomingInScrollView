@@ -1,0 +1,5 @@
+#name : viewForZoomingInScrollView
+#group : UIScrollView
+#key : viewForZoomingInScrollView
+# --
+viewForZoomingInScrollView:${1:(UIScrollView *)scrollView}

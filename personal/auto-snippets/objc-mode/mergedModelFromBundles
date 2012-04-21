@@ -1,0 +1,5 @@
+#name : mergedModelFromBundles
+#group : NSManagedObjectModel
+#key : mergedModelFromBundles
+# --
+mergedModelFromBundles:${1:(NSArray *)bundles}

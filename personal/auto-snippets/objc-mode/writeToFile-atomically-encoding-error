@@ -1,0 +1,5 @@
+#name : writeToFile:atomically:encoding:error
+#group : NSString
+#key : writeToFile:atomically:encoding:error
+# --
+writeToFile:${1:(NSString *)path} atomically:${2:(BOOL)useAuxiliaryFile} encoding:${3:(NSStringEncoding)enc} error:${4:(NSError **)error}

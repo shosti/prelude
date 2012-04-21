@@ -1,0 +1,5 @@
+#name : setCookieAcceptPolicy
+#group : NSHTTPCookieStorage
+#key : setCookieAcceptPolicy
+# --
+setCookieAcceptPolicy:${1:(NSHTTPCookieAcceptPolicy)cookieAcceptPolicy}

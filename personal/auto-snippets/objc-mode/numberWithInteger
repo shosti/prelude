@@ -1,0 +1,5 @@
+#name : numberWithInteger
+#group : NSValue
+#key : numberWithInteger
+# --
+numberWithInteger:${1:(NSInteger)value}

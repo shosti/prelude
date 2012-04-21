@@ -1,0 +1,5 @@
+#name : cacheNodeForObjectID
+#group : NSAtomicStore
+#key : cacheNodeForObjectID
+# --
+cacheNodeForObjectID:${1:(NSManagedObjectID *)objectID}

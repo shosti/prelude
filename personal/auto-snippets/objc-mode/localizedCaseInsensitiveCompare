@@ -1,0 +1,5 @@
+#name : localizedCaseInsensitiveCompare
+#group : NSString
+#key : localizedCaseInsensitiveCompare
+# --
+localizedCaseInsensitiveCompare:${1:(NSString *)string}

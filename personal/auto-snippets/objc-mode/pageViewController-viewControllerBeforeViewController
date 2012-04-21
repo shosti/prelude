@@ -1,0 +1,5 @@
+#name : pageViewController:viewControllerBeforeViewController
+#group : UIPageViewController
+#key : pageViewController:viewControllerBeforeViewController
+# --
+pageViewController:${1:(UIPageViewController *)pageViewController} viewControllerBeforeViewController:${2:(UIViewController *)viewController}

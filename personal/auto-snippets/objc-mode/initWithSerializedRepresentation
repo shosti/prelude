@@ -1,0 +1,5 @@
+#name : initWithSerializedRepresentation
+#group : NSFileWrapper
+#key : initWithSerializedRepresentation
+# --
+initWithSerializedRepresentation:${1:(NSData *)serializeRepresentation}

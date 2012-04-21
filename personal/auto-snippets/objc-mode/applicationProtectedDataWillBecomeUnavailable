@@ -1,0 +1,5 @@
+#name : applicationProtectedDataWillBecomeUnavailable
+#group : UIApplication
+#key : applicationProtectedDataWillBecomeUnavailable
+# --
+applicationProtectedDataWillBecomeUnavailable:${1:(UIApplication *)application}

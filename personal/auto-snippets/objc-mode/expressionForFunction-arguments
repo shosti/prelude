@@ -1,0 +1,5 @@
+#name : expressionForFunction:arguments
+#group : NSExpression
+#key : expressionForFunction:arguments
+# --
+expressionForFunction:${1:(NSString *)name} arguments:${2:(NSArray *)parameters}

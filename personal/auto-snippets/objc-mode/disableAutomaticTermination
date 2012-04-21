@@ -1,0 +1,5 @@
+#name : disableAutomaticTermination
+#group : NSProcessInfo
+#key : disableAutomaticTermination
+# --
+disableAutomaticTermination:${1:(NSString *)reason}

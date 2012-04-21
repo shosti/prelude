@@ -1,0 +1,5 @@
+#name : setNotANumberSymbol
+#group : NSNumberFormatter
+#key : setNotANumberSymbol
+# --
+setNotANumberSymbol:${1:(NSString *)string}

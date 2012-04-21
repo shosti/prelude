@@ -1,0 +1,5 @@
+#name : titleForSegmentAtIndex
+#group : UISegmentedControl
+#key : titleForSegmentAtIndex
+# --
+titleForSegmentAtIndex:${1:(NSUInteger)segment}

@@ -1,0 +1,5 @@
+#name : fontWithSize
+#group : UIFont
+#key : fontWithSize
+# --
+fontWithSize:${1:(CGFloat)fontSize}

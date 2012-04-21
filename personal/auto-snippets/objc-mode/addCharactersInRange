@@ -1,0 +1,5 @@
+#name : addCharactersInRange
+#group : NSCharacterSet
+#key : addCharactersInRange
+# --
+addCharactersInRange:${1:(NSRange)aRange}

@@ -1,0 +1,5 @@
+#name : scanDecimal
+#group : NSDecimalNumber
+#key : scanDecimal
+# --
+scanDecimal:${1:(NSDecimal *)dcm}

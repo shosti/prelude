@@ -1,0 +1,5 @@
+#name : performSelectorInBackground:withObject
+#group : NSThread
+#key : performSelectorInBackground:withObject
+# --
+performSelectorInBackground:${1:(SEL)aSelector} withObject:${2:(id)arg}

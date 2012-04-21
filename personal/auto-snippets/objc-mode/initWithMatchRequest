@@ -1,0 +1,5 @@
+#name : initWithMatchRequest
+#group : GKTurnBasedMatchmakerViewController
+#key : initWithMatchRequest
+# --
+initWithMatchRequest:${1:(GKMatchRequest *)request}

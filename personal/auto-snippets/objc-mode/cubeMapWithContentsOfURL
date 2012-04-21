@@ -1,0 +1,5 @@
+#name : cubeMapWithContentsOfURL
+#group : GLKTextureLoader
+#key : cubeMapWithContentsOfURL
+# --
+cubeMapWithContentsOfURL:${1:(NSURL *)url}

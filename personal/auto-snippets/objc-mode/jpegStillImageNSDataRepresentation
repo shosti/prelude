@@ -1,0 +1,5 @@
+#name : jpegStillImageNSDataRepresentation
+#group : AVCaptureOutput
+#key : jpegStillImageNSDataRepresentation
+# --
+jpegStillImageNSDataRepresentation:${1:(CMSampleBufferRef)jpegSampleBuffer}

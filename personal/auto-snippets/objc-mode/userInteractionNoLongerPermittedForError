@@ -1,0 +1,5 @@
+#name : userInteractionNoLongerPermittedForError
+#group : UIDocument
+#key : userInteractionNoLongerPermittedForError
+# --
+userInteractionNoLongerPermittedForError:${1:(NSError *)error}

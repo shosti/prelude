@@ -1,0 +1,5 @@
+#name : expressionForSubquery:usingIteratorVariable:predicate
+#group : NSExpression
+#key : expressionForSubquery:usingIteratorVariable:predicate
+# --
+expressionForSubquery:${1:(NSExpression *)expression} usingIteratorVariable:${2:(NSString *)variable} predicate:${3:(id)predicate}

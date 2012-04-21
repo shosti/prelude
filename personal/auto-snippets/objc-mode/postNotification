@@ -1,0 +1,5 @@
+#name : postNotification
+#group : NSNotification
+#key : postNotification
+# --
+postNotification:${1:(NSNotification *)notification}

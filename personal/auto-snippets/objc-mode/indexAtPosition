@@ -1,0 +1,5 @@
+#name : indexAtPosition
+#group : NSIndexPath
+#key : indexAtPosition
+# --
+indexAtPosition:${1:(NSUInteger)position}

@@ -1,0 +1,5 @@
+#name : localizedCompare
+#group : NSString
+#key : localizedCompare
+# --
+localizedCompare:${1:(NSString *)string}

@@ -1,0 +1,5 @@
+#name : setShortQuarterSymbols
+#group : NSDateFormatter
+#key : setShortQuarterSymbols
+# --
+setShortQuarterSymbols:${1:(NSArray *)array}

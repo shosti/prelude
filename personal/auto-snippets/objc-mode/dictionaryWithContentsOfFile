@@ -1,0 +1,5 @@
+#name : dictionaryWithContentsOfFile
+#group : NSDictionary
+#key : dictionaryWithContentsOfFile
+# --
+dictionaryWithContentsOfFile:${1:(NSString *)path}

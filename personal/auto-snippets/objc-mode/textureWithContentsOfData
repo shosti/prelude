@@ -1,0 +1,5 @@
+#name : textureWithContentsOfData
+#group : GLKTextureLoader
+#key : textureWithContentsOfData
+# --
+textureWithContentsOfData:${1:(NSData *)data}

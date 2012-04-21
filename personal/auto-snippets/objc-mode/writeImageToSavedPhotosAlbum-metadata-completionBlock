@@ -1,0 +1,5 @@
+#name : writeImageToSavedPhotosAlbum:metadata:completionBlock
+#group : ALAssetsLibrary
+#key : writeImageToSavedPhotosAlbum:metadata:completionBlock
+# --
+writeImageToSavedPhotosAlbum:${1:(CGImageRef)imageRef} metadata:${2:(NSDictionary *)metadata} completionBlock:${3:(ALAssetsLibraryWriteImageCompletionBlock)completionBlock}

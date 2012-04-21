@@ -1,0 +1,5 @@
+#name : completionsForPartialWordRange:inString:language
+#group : UITextChecker
+#key : completionsForPartialWordRange:inString:language
+# --
+completionsForPartialWordRange:${1:(NSRange)range} inString:${2:(NSString *)string} language:${3:(NSString *)language}

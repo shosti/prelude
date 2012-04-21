@@ -1,0 +1,5 @@
+#name : shouldAutorotateToInterfaceOrientation
+#group : UIViewController
+#key : shouldAutorotateToInterfaceOrientation
+# --
+shouldAutorotateToInterfaceOrientation:${1:(UIInterfaceOrientation)toInterfaceOrientation}

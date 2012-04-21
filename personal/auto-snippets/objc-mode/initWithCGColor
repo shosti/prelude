@@ -1,0 +1,5 @@
+#name : initWithCGColor
+#group : UIColor
+#key : initWithCGColor
+# --
+initWithCGColor:${1:(CGColorRef)cgColor}

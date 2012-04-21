@@ -1,0 +1,5 @@
+#name : getFileSystemRepresentation:maxLength
+#group : NSPathUtilities
+#key : getFileSystemRepresentation:maxLength
+# --
+getFileSystemRepresentation:${1:(char *)cname} maxLength:${2:(NSUInteger)max}

@@ -1,0 +1,5 @@
+#name : assignObject:toPersistentStore
+#group : NSManagedObjectContext
+#key : assignObject:toPersistentStore
+# --
+assignObject:${1:(id)object} toPersistentStore:${2:(NSPersistentStore *)store}

@@ -1,0 +1,5 @@
+#name : setBaseWritingDirection:forRange
+#group : UITextInput
+#key : setBaseWritingDirection:forRange
+# --
+setBaseWritingDirection:${1:(UITextWritingDirection)writingDirection} forRange:${2:(UITextRange *)range}

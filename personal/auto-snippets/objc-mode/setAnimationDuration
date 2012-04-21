@@ -1,0 +1,5 @@
+#name : setAnimationDuration
+#group : UIView
+#key : setAnimationDuration
+# --
+setAnimationDuration:${1:(NSTimeInterval)duration}

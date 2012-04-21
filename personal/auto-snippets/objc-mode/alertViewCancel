@@ -1,0 +1,5 @@
+#name : alertViewCancel
+#group : UIAlertView
+#key : alertViewCancel
+# --
+alertViewCancel:${1:(UIAlertView *)alertView}

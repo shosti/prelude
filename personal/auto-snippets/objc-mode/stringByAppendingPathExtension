@@ -1,0 +1,5 @@
+#name : stringByAppendingPathExtension
+#group : NSPathUtilities
+#key : stringByAppendingPathExtension
+# --
+stringByAppendingPathExtension:${1:(NSString *)str}

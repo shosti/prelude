@@ -1,0 +1,5 @@
+#name : setShouldResolveExternalEntities
+#group : NSXMLParser
+#key : setShouldResolveExternalEntities
+# --
+setShouldResolveExternalEntities:${1:(BOOL)shouldResolveExternalEntities}

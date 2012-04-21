@@ -1,0 +1,5 @@
+#name : canPrintData
+#group : UIPrintInteractionController
+#key : canPrintData
+# --
+canPrintData:${1:(NSData *)data}

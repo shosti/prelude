@@ -1,0 +1,5 @@
+#name : setMinimumSignificantDigits
+#group : NSNumberFormatter
+#key : setMinimumSignificantDigits
+# --
+setMinimumSignificantDigits:${1:(NSUInteger)number}

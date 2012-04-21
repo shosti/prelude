@@ -1,0 +1,5 @@
+#name : setDateFormat
+#group : NSDateFormatter
+#key : setDateFormat
+# --
+setDateFormat:${1:(NSString *)string}

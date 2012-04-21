@@ -1,0 +1,5 @@
+#name : netService:didNotResolve
+#group : NSNetServices
+#key : netService:didNotResolve
+# --
+netService:${1:(NSNetService *)sender} didNotResolve:${2:(NSDictionary *)errorDict}

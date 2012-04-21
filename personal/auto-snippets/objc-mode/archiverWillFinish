@@ -1,0 +1,5 @@
+#name : archiverWillFinish
+#group : NSKeyedArchiver
+#key : archiverWillFinish
+# --
+archiverWillFinish:${1:(NSKeyedArchiver *)archiver}

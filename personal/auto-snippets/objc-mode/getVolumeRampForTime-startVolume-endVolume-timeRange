@@ -1,0 +1,5 @@
+#name : getVolumeRampForTime:startVolume:endVolume:timeRange
+#group : AVAudioMix
+#key : getVolumeRampForTime:startVolume:endVolume:timeRange
+# --
+getVolumeRampForTime:${1:(CMTime)time} startVolume:${2:(float *)startVolume} endVolume:${3:(float *)endVolume} timeRange:${4:(CMTimeRange *)timeRange}

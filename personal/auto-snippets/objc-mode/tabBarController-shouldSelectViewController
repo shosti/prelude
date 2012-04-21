@@ -1,0 +1,5 @@
+#name : tabBarController:shouldSelectViewController
+#group : UITabBarController
+#key : tabBarController:shouldSelectViewController
+# --
+tabBarController:${1:(UITabBarController *)tabBarController} shouldSelectViewController:${2:(UIViewController *)viewController}

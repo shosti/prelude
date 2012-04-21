@@ -1,0 +1,5 @@
+#name : attributesOfFileSystemForPath:error
+#group : NSFileManager
+#key : attributesOfFileSystemForPath:error
+# --
+attributesOfFileSystemForPath:${1:(NSString *)path} error:${2:(NSError **)error}

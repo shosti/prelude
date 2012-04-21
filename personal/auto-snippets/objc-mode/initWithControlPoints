@@ -1,0 +1,5 @@
+#name : initWithControlPoints
+#group : CAMediaTimingFunction
+#key : initWithControlPoints
+# --
+initWithControlPoints:${1:(float)c1x}

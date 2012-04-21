@@ -1,0 +1,5 @@
+#name : setData
+#group : NSData
+#key : setData
+# --
+setData:${1:(NSData *)data}

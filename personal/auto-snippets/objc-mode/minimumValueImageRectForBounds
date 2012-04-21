@@ -1,0 +1,5 @@
+#name : minimumValueImageRectForBounds
+#group : UISlider
+#key : minimumValueImageRectForBounds
+# --
+minimumValueImageRectForBounds:${1:(CGRect)bounds}

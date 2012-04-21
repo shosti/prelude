@@ -1,0 +1,5 @@
+#name : indexPathWithIndexes:length
+#group : NSIndexPath
+#key : indexPathWithIndexes:length
+# --
+indexPathWithIndexes:${1:(NSUInteger *)indexes} length:${2:(NSUInteger)length}

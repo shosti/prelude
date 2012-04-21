@@ -1,0 +1,5 @@
+#name : scanFloat
+#group : NSScanner
+#key : scanFloat
+# --
+scanFloat:${1:(float *)value}

@@ -1,0 +1,5 @@
+#name : initWithIOSurface:options
+#group : CIImage
+#key : initWithIOSurface:options
+# --
+initWithIOSurface:${1:(IOSurfaceRef)surface} options:${2:(NSDictionary *)d}

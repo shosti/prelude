@@ -1,0 +1,5 @@
+#name : persistentStoreForURL
+#group : NSPersistentStoreCoordinator
+#key : persistentStoreForURL
+# --
+persistentStoreForURL:${1:(NSURL *)URL}

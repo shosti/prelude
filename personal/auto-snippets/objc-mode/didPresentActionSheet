@@ -1,0 +1,5 @@
+#name : didPresentActionSheet
+#group : UIActionSheet
+#key : didPresentActionSheet
+# --
+didPresentActionSheet:${1:(UIActionSheet *)actionSheet}

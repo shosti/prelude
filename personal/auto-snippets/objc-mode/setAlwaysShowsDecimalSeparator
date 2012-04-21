@@ -1,0 +1,5 @@
+#name : setAlwaysShowsDecimalSeparator
+#group : NSNumberFormatter
+#key : setAlwaysShowsDecimalSeparator
+# --
+setAlwaysShowsDecimalSeparator:${1:(BOOL)b}

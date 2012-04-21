@@ -1,0 +1,5 @@
+#name : characterDirectionForLanguage
+#group : NSLocale
+#key : characterDirectionForLanguage
+# --
+characterDirectionForLanguage:${1:(NSString *)isoLangCode}

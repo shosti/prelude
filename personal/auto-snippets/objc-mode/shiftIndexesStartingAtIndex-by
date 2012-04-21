@@ -1,0 +1,5 @@
+#name : shiftIndexesStartingAtIndex:by
+#group : NSIndexSet
+#key : shiftIndexesStartingAtIndex:by
+# --
+shiftIndexesStartingAtIndex:${1:(NSUInteger)index} by:${2:(NSInteger)delta}

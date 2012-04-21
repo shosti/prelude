@@ -1,0 +1,5 @@
+#name : newValueForRelationship:forObjectWithID:withContext:error
+#group : NSIncrementalStore
+#key : newValueForRelationship:forObjectWithID:withContext:error
+# --
+newValueForRelationship:${1:(NSRelationshipDescription*)relationship} forObjectWithID:${2:(NSManagedObjectID*)objectID} withContext:${3:(NSManagedObjectContext *)context} error:${4:(NSError **)error}

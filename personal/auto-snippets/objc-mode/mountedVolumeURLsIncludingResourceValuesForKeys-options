@@ -1,0 +1,5 @@
+#name : mountedVolumeURLsIncludingResourceValuesForKeys:options
+#group : NSFileManager
+#key : mountedVolumeURLsIncludingResourceValuesForKeys:options
+# --
+mountedVolumeURLsIncludingResourceValuesForKeys:${1:(NSArray *)propertyKeys} options:${2:(NSVolumeEnumerationOptions)options}

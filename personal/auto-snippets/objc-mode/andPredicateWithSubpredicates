@@ -1,0 +1,5 @@
+#name : andPredicateWithSubpredicates
+#group : NSCompoundPredicate
+#key : andPredicateWithSubpredicates
+# --
+andPredicateWithSubpredicates:${1:(NSArray *)subpredicates}

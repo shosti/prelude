@@ -1,0 +1,5 @@
+#name : gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer
+#group : UIGestureRecognizer
+#key : gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer
+# --
+gestureRecognizer:${1:(UIGestureRecognizer *)gestureRecognizer} shouldRecognizeSimultaneouslyWithGestureRecognizer:${2:(UIGestureRecognizer *)otherGestureRecognizer}

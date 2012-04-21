@@ -1,0 +1,5 @@
+#name : encodeValuesOfObjCTypes
+#group : NSCoder
+#key : encodeValuesOfObjCTypes
+# --
+encodeValuesOfObjCTypes:${1:(const char *)types}

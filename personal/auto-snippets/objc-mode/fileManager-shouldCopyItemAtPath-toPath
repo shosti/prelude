@@ -1,0 +1,5 @@
+#name : fileManager:shouldCopyItemAtPath:toPath
+#group : NSFileManager
+#key : fileManager:shouldCopyItemAtPath:toPath
+# --
+fileManager:${1:(NSFileManager *)fileManager} shouldCopyItemAtPath:${2:(NSString *)srcPath} toPath:${3:(NSString *)dstPath}

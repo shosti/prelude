@@ -1,0 +1,5 @@
+#name : setLongLong:forKey
+#group : NSUbiquitousKeyValueStore
+#key : setLongLong:forKey
+# --
+setLongLong:${1:(long long)value} forKey:${2:(NSString *)aKey}

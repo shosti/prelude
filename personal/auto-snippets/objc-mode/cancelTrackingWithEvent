@@ -1,0 +1,5 @@
+#name : cancelTrackingWithEvent
+#group : UIControl
+#key : cancelTrackingWithEvent
+# --
+cancelTrackingWithEvent:${1:(UIEvent *)event}

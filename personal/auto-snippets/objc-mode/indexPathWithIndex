@@ -1,0 +1,5 @@
+#name : indexPathWithIndex
+#group : NSIndexPath
+#key : indexPathWithIndex
+# --
+indexPathWithIndex:${1:(NSUInteger)index}

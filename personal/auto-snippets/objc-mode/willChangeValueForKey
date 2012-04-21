@@ -1,0 +1,5 @@
+#name : willChangeValueForKey
+#group : NSKeyValueObserving
+#key : willChangeValueForKey
+# --
+willChangeValueForKey:${1:(NSString *)key}

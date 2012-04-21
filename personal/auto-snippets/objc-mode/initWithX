@@ -1,0 +1,5 @@
+#name : initWithX
+#group : CIVector
+#key : initWithX
+# --
+initWithX:${1:(CGFloat)x}

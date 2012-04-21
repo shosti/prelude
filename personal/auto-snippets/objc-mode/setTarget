@@ -1,0 +1,5 @@
+#name : setTarget
+#group : NSInvocation
+#key : setTarget
+# --
+setTarget:${1:(id)target}

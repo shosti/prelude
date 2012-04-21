@@ -1,0 +1,5 @@
+#name : makeTextWritingDirectionLeftToRight
+#group : UIResponder
+#key : makeTextWritingDirectionLeftToRight
+# --
+makeTextWritingDirectionLeftToRight:${1:(id)sender}

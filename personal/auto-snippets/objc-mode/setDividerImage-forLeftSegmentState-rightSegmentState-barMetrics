@@ -1,0 +1,5 @@
+#name : setDividerImage:forLeftSegmentState:rightSegmentState:barMetrics
+#group : UISegmentedControl
+#key : setDividerImage:forLeftSegmentState:rightSegmentState:barMetrics
+# --
+setDividerImage:${1:(UIImage *)dividerImage} forLeftSegmentState:${2:(UIControlState)leftState} rightSegmentState:${3:(UIControlState)rightState} barMetrics:${4:(UIBarMetrics)barMetrics}

@@ -1,0 +1,5 @@
+#name : drawTextInRect
+#group : UITextField
+#key : drawTextInRect
+# --
+drawTextInRect:${1:(CGRect)rect}

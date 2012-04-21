@@ -1,0 +1,5 @@
+#name : didPresentAlertView
+#group : UIAlertView
+#key : didPresentAlertView
+# --
+didPresentAlertView:${1:(UIAlertView *)alertView}

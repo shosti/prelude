@@ -1,0 +1,5 @@
+#name : writeToFile:atomically
+#group : NSString
+#key : writeToFile:atomically
+# --
+writeToFile:${1:(NSString *)path} atomically:${2:(BOOL)useAuxiliaryFile}

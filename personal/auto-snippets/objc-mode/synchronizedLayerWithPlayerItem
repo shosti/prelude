@@ -1,0 +1,5 @@
+#name : synchronizedLayerWithPlayerItem
+#group : AVSynchronizedLayer
+#key : synchronizedLayerWithPlayerItem
+# --
+synchronizedLayerWithPlayerItem:${1:(AVPlayerItem *)playerItem}

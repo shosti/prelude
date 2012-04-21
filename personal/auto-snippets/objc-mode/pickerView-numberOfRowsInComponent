@@ -1,0 +1,5 @@
+#name : pickerView:numberOfRowsInComponent
+#group : UIPickerView
+#key : pickerView:numberOfRowsInComponent
+# --
+pickerView:${1:(UIPickerView *)pickerView} numberOfRowsInComponent:${2:(NSInteger)component}

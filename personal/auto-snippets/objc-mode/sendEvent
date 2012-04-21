@@ -1,0 +1,5 @@
+#name : sendEvent
+#group : UIWindow
+#key : sendEvent
+# --
+sendEvent:${1:(UIEvent *)event}

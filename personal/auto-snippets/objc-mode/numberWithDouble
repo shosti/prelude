@@ -1,0 +1,5 @@
+#name : numberWithDouble
+#group : NSValue
+#key : numberWithDouble
+# --
+numberWithDouble:${1:(double)value}

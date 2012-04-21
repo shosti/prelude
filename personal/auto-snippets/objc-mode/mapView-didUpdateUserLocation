@@ -1,0 +1,5 @@
+#name : mapView:didUpdateUserLocation
+#group : MKMapView
+#key : mapView:didUpdateUserLocation
+# --
+mapView:${1:(MKMapView *)mapView} didUpdateUserLocation:${2:(MKUserLocation *)userLocation}

@@ -1,0 +1,5 @@
+#name : initWithBitmapData:bytesPerRow:size
+#group : CIImage
+#key : initWithBitmapData:bytesPerRow:size
+# --
+initWithBitmapData:${1:(NSData *)d} bytesPerRow:${2:(size_t)bpr} size:${3:(CGSize)size}

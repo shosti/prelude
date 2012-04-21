@@ -1,0 +1,5 @@
+#name : initWithEntityName
+#group : NSFetchRequest
+#key : initWithEntityName
+# --
+initWithEntityName:${1:(NSString*)entityName}

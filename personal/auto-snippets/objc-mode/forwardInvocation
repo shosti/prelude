@@ -1,0 +1,5 @@
+#name : forwardInvocation
+#group : NSProxy
+#key : forwardInvocation
+# --
+forwardInvocation:${1:(NSInvocation *)invocation}

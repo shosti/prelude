@@ -1,0 +1,5 @@
+#name : sectionForSectionIndexTitle:atIndex
+#group : NSFetchedResultsController
+#key : sectionForSectionIndexTitle:atIndex
+# --
+sectionForSectionIndexTitle:${1:(NSString *)title} atIndex:${2:(NSInteger)sectionIndex}

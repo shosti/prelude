@@ -1,0 +1,5 @@
+#name : setName
+#group : NSThread
+#key : setName
+# --
+setName:${1:(NSString *)n}

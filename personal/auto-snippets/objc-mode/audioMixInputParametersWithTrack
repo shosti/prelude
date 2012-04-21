@@ -1,0 +1,5 @@
+#name : audioMixInputParametersWithTrack
+#group : AVAudioMix
+#key : audioMixInputParametersWithTrack
+# --
+audioMixInputParametersWithTrack:${1:(AVAssetTrack *)track}

@@ -1,0 +1,5 @@
+#name : searchDisplayControllerDidBeginSearch
+#group : UISearchDisplayController
+#key : searchDisplayControllerDidBeginSearch
+# --
+searchDisplayControllerDidBeginSearch:${1:(UISearchDisplayController *)controller}

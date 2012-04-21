@@ -1,0 +1,5 @@
+#name : positionWithinRange:atCharacterOffset
+#group : UITextInput
+#key : positionWithinRange:atCharacterOffset
+# --
+positionWithinRange:${1:(UITextRange *)range} atCharacterOffset:${2:(NSInteger)offset}

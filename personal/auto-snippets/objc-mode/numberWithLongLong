@@ -1,0 +1,5 @@
+#name : numberWithLongLong
+#group : NSValue
+#key : numberWithLongLong
+# --
+numberWithLongLong:${1:(long long)value}

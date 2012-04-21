@@ -1,0 +1,5 @@
+#name : setSearchScopes
+#group : NSMetadata
+#key : setSearchScopes
+# --
+setSearchScopes:${1:(NSArray *)scopes}

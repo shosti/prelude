@@ -1,0 +1,5 @@
+#name : addPort:forMode
+#group : NSRunLoop
+#key : addPort:forMode
+# --
+addPort:${1:(NSPort *)aPort} forMode:${2:(NSString *)mode}

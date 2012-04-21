@@ -1,0 +1,5 @@
+#name : bundleWithPath
+#group : NSBundle
+#key : bundleWithPath
+# --
+bundleWithPath:${1:(NSString *)path}

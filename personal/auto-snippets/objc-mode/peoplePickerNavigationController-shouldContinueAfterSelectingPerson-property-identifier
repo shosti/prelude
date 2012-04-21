@@ -1,0 +1,5 @@
+#name : peoplePickerNavigationController:shouldContinueAfterSelectingPerson:property:identifier
+#group : ABPeoplePickerNavigationController
+#key : peoplePickerNavigationController:shouldContinueAfterSelectingPerson:property:identifier
+# --
+peoplePickerNavigationController:${1:(ABPeoplePickerNavigationController *)peoplePicker} shouldContinueAfterSelectingPerson:${2:(ABRecordRef)person} property:${3:(ABPropertyID)property} identifier:${4:(ABMultiValueIdentifier)identifier}

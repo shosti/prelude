@@ -1,0 +1,5 @@
+#name : parser:parseErrorOccurred
+#group : NSXMLParser
+#key : parser:parseErrorOccurred
+# --
+parser:${1:(NSXMLParser *)parser} parseErrorOccurred:${2:(NSError *)parseError}

@@ -1,0 +1,5 @@
+#name : friendRequestComposeViewControllerDidFinish
+#group : GKFriendRequestComposeViewController
+#key : friendRequestComposeViewControllerDidFinish
+# --
+friendRequestComposeViewControllerDidFinish:${1:(GKFriendRequestComposeViewController *)viewController}

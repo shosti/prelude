@@ -1,0 +1,5 @@
+#name : localizedStringFromNumber:numberStyle
+#group : NSNumberFormatter
+#key : localizedStringFromNumber:numberStyle
+# --
+localizedStringFromNumber:${1:(NSNumber *)num} numberStyle:${2:(NSNumberFormatterStyle)nstyle}

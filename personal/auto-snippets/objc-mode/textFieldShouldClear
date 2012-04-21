@@ -1,0 +1,5 @@
+#name : textFieldShouldClear
+#group : UITextField
+#key : textFieldShouldClear
+# --
+textFieldShouldClear:${1:(UITextField *)textField}

@@ -1,0 +1,5 @@
+#name : initWithURL:fileType:error
+#group : AVAssetWriter
+#key : initWithURL:fileType:error
+# --
+initWithURL:${1:(NSURL *)outputURL} fileType:${2:(NSString *)outputFileType} error:${3:(NSError **)outError}

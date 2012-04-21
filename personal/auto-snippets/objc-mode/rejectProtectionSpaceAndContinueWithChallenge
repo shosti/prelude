@@ -1,0 +1,5 @@
+#name : rejectProtectionSpaceAndContinueWithChallenge
+#group : NSURLAuthenticationChallenge
+#key : rejectProtectionSpaceAndContinueWithChallenge
+# --
+rejectProtectionSpaceAndContinueWithChallenge:${1:(NSURLAuthenticationChallenge *)challenge}

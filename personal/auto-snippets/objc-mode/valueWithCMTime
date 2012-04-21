@@ -1,0 +1,5 @@
+#name : valueWithCMTime
+#group : AVTime
+#key : valueWithCMTime
+# --
+valueWithCMTime:${1:(CMTime)time}

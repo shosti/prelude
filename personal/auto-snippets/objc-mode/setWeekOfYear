@@ -1,0 +1,5 @@
+#name : setWeekOfYear
+#group : NSCalendar
+#key : setWeekOfYear
+# --
+setWeekOfYear:${1:(NSInteger)w}

@@ -1,0 +1,5 @@
+#name : findMatchForRequest
+#group : GKTurnBasedMatch
+#key : findMatchForRequest
+# --
+findMatchForRequest:${1:(GKMatchRequest *)request}

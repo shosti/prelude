@@ -1,0 +1,5 @@
+#name : handleError:userInteractionPermitted
+#group : UIDocument
+#key : handleError:userInteractionPermitted
+# --
+handleError:${1:(NSError *)error} userInteractionPermitted:${2:(BOOL)userInteractionPermitted}

@@ -1,0 +1,5 @@
+#name : assetWriterWithURL:fileType:error
+#group : AVAssetWriter
+#key : assetWriterWithURL:fileType:error
+# --
+assetWriterWithURL:${1:(NSURL *)outputURL} fileType:${2:(NSString *)outputFileType} error:${3:(NSError **)outError}

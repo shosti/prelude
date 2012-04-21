@@ -1,0 +1,5 @@
+#name : viewWillAppear
+#group : UIViewController
+#key : viewWillAppear
+# --
+viewWillAppear:${1:(BOOL)animated}

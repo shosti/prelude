@@ -1,0 +1,5 @@
+#name : setReturnsObjectsAsFaults
+#group : NSFetchRequest
+#key : setReturnsObjectsAsFaults
+# --
+setReturnsObjectsAsFaults:${1:(BOOL)yesNo}

@@ -1,0 +1,5 @@
+#name : configurePersistentStoreCoordinatorForURL:ofType:modelConfiguration:storeOptions:error
+#group : UIManagedDocument
+#key : configurePersistentStoreCoordinatorForURL:ofType:modelConfiguration:storeOptions:error
+# --
+configurePersistentStoreCoordinatorForURL:${1:(NSURL *)storeURL} ofType:${2:(NSString *)fileType} modelConfiguration:${3:(NSString *)configuration} storeOptions:${4:(NSDictionary *)storeOptions} error:${5:(NSError **)error}

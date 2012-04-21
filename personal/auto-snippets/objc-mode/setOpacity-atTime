@@ -1,0 +1,5 @@
+#name : setOpacity:atTime
+#group : AVVideoComposition
+#key : setOpacity:atTime
+# --
+setOpacity:${1:(float)opacity} atTime:${2:(CMTime)time}

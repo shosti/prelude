@@ -1,0 +1,5 @@
+#name : decimalNumberWithString
+#group : NSDecimalNumber
+#key : decimalNumberWithString
+# --
+decimalNumberWithString:${1:(NSString *)numberValue}

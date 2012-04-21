@@ -1,0 +1,5 @@
+#name : textViewShouldBeginEditing
+#group : UITextView
+#key : textViewShouldBeginEditing
+# --
+textViewShouldBeginEditing:${1:(UITextView *)textView}

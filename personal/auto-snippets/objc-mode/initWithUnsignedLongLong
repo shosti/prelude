@@ -1,0 +1,5 @@
+#name : initWithUnsignedLongLong
+#group : NSValue
+#key : initWithUnsignedLongLong
+# --
+initWithUnsignedLongLong:${1:(unsigned long long)value}

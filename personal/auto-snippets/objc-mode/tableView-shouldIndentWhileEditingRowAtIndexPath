@@ -1,0 +1,5 @@
+#name : tableView:shouldIndentWhileEditingRowAtIndexPath
+#group : UITableView
+#key : tableView:shouldIndentWhileEditingRowAtIndexPath
+# --
+tableView:${1:(UITableView *)tableView} shouldIndentWhileEditingRowAtIndexPath:${2:(NSIndexPath *)indexPath}

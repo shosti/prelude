@@ -1,0 +1,5 @@
+#name : maximumLengthOfBytesUsingEncoding
+#group : NSString
+#key : maximumLengthOfBytesUsingEncoding
+# --
+maximumLengthOfBytesUsingEncoding:${1:(NSStringEncoding)enc}

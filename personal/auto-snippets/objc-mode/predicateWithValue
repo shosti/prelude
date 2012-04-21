@@ -1,0 +1,5 @@
+#name : predicateWithValue
+#group : NSPredicate
+#key : predicateWithValue
+# --
+predicateWithValue:${1:(BOOL)value}

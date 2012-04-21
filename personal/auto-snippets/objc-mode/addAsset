@@ -1,0 +1,5 @@
+#name : addAsset
+#group : ALAssetsGroup
+#key : addAsset
+# --
+addAsset:${1:(ALAsset *)asset}

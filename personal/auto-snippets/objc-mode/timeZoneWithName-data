@@ -1,0 +1,5 @@
+#name : timeZoneWithName:data
+#group : NSTimeZone
+#key : timeZoneWithName:data
+# --
+timeZoneWithName:${1:(NSString *)tzName} data:${2:(NSData *)aData}

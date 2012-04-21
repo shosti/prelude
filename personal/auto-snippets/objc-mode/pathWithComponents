@@ -1,0 +1,5 @@
+#name : pathWithComponents
+#group : NSPathUtilities
+#key : pathWithComponents
+# --
+pathWithComponents:${1:(NSArray *)components}

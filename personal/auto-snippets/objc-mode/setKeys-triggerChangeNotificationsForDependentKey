@@ -1,0 +1,5 @@
+#name : setKeys:triggerChangeNotificationsForDependentKey
+#group : NSKeyValueObserving
+#key : setKeys:triggerChangeNotificationsForDependentKey
+# --
+setKeys:${1:(NSArray *)keys} triggerChangeNotificationsForDependentKey:${2:(NSString *)dependentKey}

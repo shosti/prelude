@@ -1,0 +1,5 @@
+#name : stringByAppendingFormat
+#group : NSString
+#key : stringByAppendingFormat
+# --
+stringByAppendingFormat:${1:(NSString *)format}

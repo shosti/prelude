@@ -1,0 +1,5 @@
+#name : match:didReceiveData:fromPlayer
+#group : GKMatch
+#key : match:didReceiveData:fromPlayer
+# --
+match:${1:(GKMatch *)match} didReceiveData:${2:(NSData *)data} fromPlayer:${3:(NSString *)playerID}

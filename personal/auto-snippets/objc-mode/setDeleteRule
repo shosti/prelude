@@ -1,0 +1,5 @@
+#name : setDeleteRule
+#group : NSRelationshipDescription
+#key : setDeleteRule
+# --
+setDeleteRule:${1:(NSDeleteRule)rule}

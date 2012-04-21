@@ -1,0 +1,5 @@
+#name : dataWithContentsOfFile
+#group : NSData
+#key : dataWithContentsOfFile
+# --
+dataWithContentsOfFile:${1:(NSString *)path}

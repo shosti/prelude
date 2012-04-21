@@ -1,0 +1,5 @@
+#name : floatForKey
+#group : NSUserDefaults
+#key : floatForKey
+# --
+floatForKey:${1:(NSString *)defaultName}

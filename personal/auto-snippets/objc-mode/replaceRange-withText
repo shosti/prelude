@@ -1,0 +1,5 @@
+#name : replaceRange:withText
+#group : UITextInput
+#key : replaceRange:withText
+# --
+replaceRange:${1:(UITextRange *)range} withText:${2:(NSString *)text}

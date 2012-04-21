@@ -1,0 +1,5 @@
+#name : addLineToPoint
+#group : UIBezierPath
+#key : addLineToPoint
+# --
+addLineToPoint:${1:(CGPoint)point}

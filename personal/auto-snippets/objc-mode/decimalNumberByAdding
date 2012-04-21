@@ -1,0 +1,5 @@
+#name : decimalNumberByAdding
+#group : NSDecimalNumber
+#key : decimalNumberByAdding
+# --
+decimalNumberByAdding:${1:(NSDecimalNumber *)decimalNumber}

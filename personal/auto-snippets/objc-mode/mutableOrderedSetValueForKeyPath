@@ -1,0 +1,5 @@
+#name : mutableOrderedSetValueForKeyPath
+#group : NSKeyValueCoding
+#key : mutableOrderedSetValueForKeyPath
+# --
+mutableOrderedSetValueForKeyPath:${1:(NSString *)keyPath}

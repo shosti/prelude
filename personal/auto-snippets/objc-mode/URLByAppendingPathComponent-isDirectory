@@ -1,0 +1,5 @@
+#name : URLByAppendingPathComponent:isDirectory
+#group : NSURL
+#key : URLByAppendingPathComponent:isDirectory
+# --
+URLByAppendingPathComponent:${1:(NSString *)pathComponent} isDirectory:${2:(BOOL)isDirectory}

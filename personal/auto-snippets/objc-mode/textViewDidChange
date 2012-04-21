@@ -1,0 +1,5 @@
+#name : textViewDidChange
+#group : UITextView
+#key : textViewDidChange
+# --
+textViewDidChange:${1:(UITextView *)textView}

@@ -1,0 +1,5 @@
+#name : isWhiteBalanceModeSupported
+#group : AVCaptureDevice
+#key : isWhiteBalanceModeSupported
+# --
+isWhiteBalanceModeSupported:${1:(AVCaptureWhiteBalanceMode)whiteBalanceMode}

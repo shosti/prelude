@@ -1,0 +1,5 @@
+#name : initWithResponse:data:userInfo:storagePolicy
+#group : NSURLCache
+#key : initWithResponse:data:userInfo:storagePolicy
+# --
+initWithResponse:${1:(NSURLResponse *)response} data:${2:(NSData *)data} userInfo:${3:(NSDictionary *)userInfo} storagePolicy:${4:(NSURLCacheStoragePolicy)storagePolicy}

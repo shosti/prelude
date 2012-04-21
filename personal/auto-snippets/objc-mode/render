@@ -1,0 +1,5 @@
+#name : render
+#group : CIContext
+#key : render
+# --
+render:${1:(CIImage *)image}

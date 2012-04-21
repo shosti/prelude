@@ -1,0 +1,5 @@
+#name : vectorWithString
+#group : CIVector
+#key : vectorWithString
+# --
+vectorWithString:${1:(NSString *)representation}

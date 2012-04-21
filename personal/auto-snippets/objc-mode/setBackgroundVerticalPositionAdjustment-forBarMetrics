@@ -1,0 +1,5 @@
+#name : setBackgroundVerticalPositionAdjustment:forBarMetrics
+#group : UIBarButtonItem
+#key : setBackgroundVerticalPositionAdjustment:forBarMetrics
+# --
+setBackgroundVerticalPositionAdjustment:${1:(CGFloat)adjustment} forBarMetrics:${2:(UIBarMetrics)barMetrics}

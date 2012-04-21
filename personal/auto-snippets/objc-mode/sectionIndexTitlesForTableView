@@ -1,0 +1,5 @@
+#name : sectionIndexTitlesForTableView
+#group : UITableView
+#key : sectionIndexTitlesForTableView
+# --
+sectionIndexTitlesForTableView:${1:(UITableView *)tableView}

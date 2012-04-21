@@ -1,0 +1,5 @@
+#name : captureOutput:didFinishRecordingToOutputFileAtURL:fromConnections:error
+#group : AVCaptureOutput
+#key : captureOutput:didFinishRecordingToOutputFileAtURL:fromConnections:error
+# --
+captureOutput:${1:(AVCaptureFileOutput *)captureOutput} didFinishRecordingToOutputFileAtURL:${2:(NSURL *)outputFileURL} fromConnections:${3:(NSArray *)connections} error:${4:(NSError *)error}

@@ -1,0 +1,5 @@
+#name : tableView:willBeginEditingRowAtIndexPath
+#group : UITableView
+#key : tableView:willBeginEditingRowAtIndexPath
+# --
+tableView:${1:(UITableView*)tableView} willBeginEditingRowAtIndexPath:${2:(NSIndexPath *)indexPath}

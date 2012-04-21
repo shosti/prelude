@@ -1,0 +1,5 @@
+#name : exceptionDuringOperation:error:leftOperand:rightOperand
+#group : NSDecimalNumber
+#key : exceptionDuringOperation:error:leftOperand:rightOperand
+# --
+exceptionDuringOperation:${1:(SEL)operation} error:${2:(NSCalculationError)error} leftOperand:${3:(NSDecimalNumber *)leftOperand} rightOperand:${4:(NSDecimalNumber *)rightOperand}

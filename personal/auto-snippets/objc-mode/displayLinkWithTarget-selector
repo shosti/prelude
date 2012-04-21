@@ -1,0 +1,5 @@
+#name : displayLinkWithTarget:selector
+#group : UIScreen
+#key : displayLinkWithTarget:selector
+# --
+displayLinkWithTarget:${1:(id)target} selector:${2:(SEL)sel}

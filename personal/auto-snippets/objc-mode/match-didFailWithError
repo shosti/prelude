@@ -1,0 +1,5 @@
+#name : match:didFailWithError
+#group : GKMatch
+#key : match:didFailWithError
+# --
+match:${1:(GKMatch *)match} didFailWithError:${2:(NSError *)error}

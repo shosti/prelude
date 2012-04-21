@@ -1,0 +1,5 @@
+#name : value:withObjCType
+#group : NSValue
+#key : value:withObjCType
+# --
+value:${1:(const void *)value} withObjCType:${2:(const char *)type}

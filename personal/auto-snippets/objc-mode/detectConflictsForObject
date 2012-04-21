@@ -1,0 +1,5 @@
+#name : detectConflictsForObject
+#group : NSManagedObjectContext
+#key : detectConflictsForObject
+# --
+detectConflictsForObject:${1:(NSManagedObject *)object}

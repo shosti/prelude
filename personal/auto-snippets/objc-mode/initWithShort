@@ -1,0 +1,5 @@
+#name : initWithShort
+#group : NSValue
+#key : initWithShort
+# --
+initWithShort:${1:(short)value}

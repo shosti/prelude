@@ -1,0 +1,5 @@
+#name : setHTTPShouldUsePipelining
+#group : NSURLRequest
+#key : setHTTPShouldUsePipelining
+# --
+setHTTPShouldUsePipelining:${1:(BOOL)shouldUsePipelining}

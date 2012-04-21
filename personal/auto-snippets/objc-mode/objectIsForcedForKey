@@ -1,0 +1,5 @@
+#name : objectIsForcedForKey
+#group : NSUserDefaults
+#key : objectIsForcedForKey
+# --
+objectIsForcedForKey:${1:(NSString *)key}

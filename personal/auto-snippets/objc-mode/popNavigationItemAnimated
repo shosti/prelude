@@ -1,0 +1,5 @@
+#name : popNavigationItemAnimated
+#group : UINavigationBar
+#key : popNavigationItemAnimated
+# --
+popNavigationItemAnimated:${1:(BOOL)animated}

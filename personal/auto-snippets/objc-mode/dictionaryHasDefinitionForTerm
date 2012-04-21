@@ -1,0 +1,5 @@
+#name : dictionaryHasDefinitionForTerm
+#group : UIReferenceLibraryViewController
+#key : dictionaryHasDefinitionForTerm
+# --
+dictionaryHasDefinitionForTerm:${1:(NSString *)term}

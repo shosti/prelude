@@ -1,0 +1,5 @@
+#name : contentRectForBounds
+#group : UIButton
+#key : contentRectForBounds
+# --
+contentRectForBounds:${1:(CGRect)bounds}

@@ -1,0 +1,5 @@
+#name : initToFileAtPath:append
+#group : NSStream
+#key : initToFileAtPath:append
+# --
+initToFileAtPath:${1:(NSString *)path} append:${2:(BOOL)shouldAppend}

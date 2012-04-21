@@ -1,0 +1,5 @@
+#name : getCharacters
+#group : NSString
+#key : getCharacters
+# --
+getCharacters:${1:(unichar *)buffer}

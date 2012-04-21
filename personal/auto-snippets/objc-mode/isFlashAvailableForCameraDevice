@@ -1,0 +1,5 @@
+#name : isFlashAvailableForCameraDevice
+#group : UIImagePickerController
+#key : isFlashAvailableForCameraDevice
+# --
+isFlashAvailableForCameraDevice:${1:(UIImagePickerControllerCameraDevice)cameraDevice}

@@ -1,0 +1,5 @@
+#name : initWithTitle:action
+#group : UIMenuController
+#key : initWithTitle:action
+# --
+initWithTitle:${1:(NSString *)title} action:${2:(SEL)action}

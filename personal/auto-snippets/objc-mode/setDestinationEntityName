@@ -1,0 +1,5 @@
+#name : setDestinationEntityName
+#group : NSEntityMapping
+#key : setDestinationEntityName
+# --
+setDestinationEntityName:${1:(NSString *)name}

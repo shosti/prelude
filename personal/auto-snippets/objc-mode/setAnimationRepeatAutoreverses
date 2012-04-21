@@ -1,0 +1,5 @@
+#name : setAnimationRepeatAutoreverses
+#group : UIView
+#key : setAnimationRepeatAutoreverses
+# --
+setAnimationRepeatAutoreverses:${1:(BOOL)repeatAutoreverses}

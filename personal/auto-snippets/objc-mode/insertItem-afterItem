@@ -1,0 +1,5 @@
+#name : insertItem:afterItem
+#group : AVPlayer
+#key : insertItem:afterItem
+# --
+insertItem:${1:(AVPlayerItem *)item} afterItem:${2:(AVPlayerItem *)afterItem}

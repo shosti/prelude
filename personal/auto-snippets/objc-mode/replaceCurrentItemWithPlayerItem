@@ -1,0 +1,5 @@
+#name : replaceCurrentItemWithPlayerItem
+#group : AVPlayer
+#key : replaceCurrentItemWithPlayerItem
+# --
+replaceCurrentItemWithPlayerItem:${1:(AVPlayerItem *)item}

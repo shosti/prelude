@@ -1,0 +1,5 @@
+#name : connection:needNewBodyStream
+#group : NSURLConnection
+#key : connection:needNewBodyStream
+# --
+connection:${1:(NSURLConnection *)connection} needNewBodyStream:${2:(NSURLRequest *)request}

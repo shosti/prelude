@@ -1,0 +1,5 @@
+#name : applicationDidReceiveMemoryWarning
+#group : UIApplication
+#key : applicationDidReceiveMemoryWarning
+# --
+applicationDidReceiveMemoryWarning:${1:(UIApplication *)application}

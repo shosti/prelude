@@ -1,0 +1,5 @@
+#name : removePropertyForKey:inRequest
+#group : NSURLProtocol
+#key : removePropertyForKey:inRequest
+# --
+removePropertyForKey:${1:(NSString *)key} inRequest:${2:(NSMutableURLRequest *)request}

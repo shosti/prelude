@@ -1,0 +1,5 @@
+#name : cStringUsingEncoding
+#group : NSString
+#key : cStringUsingEncoding
+# --
+cStringUsingEncoding:${1:(NSStringEncoding)encoding}

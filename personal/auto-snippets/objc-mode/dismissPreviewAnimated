@@ -1,0 +1,5 @@
+#name : dismissPreviewAnimated
+#group : UIDocumentInteractionController
+#key : dismissPreviewAnimated
+# --
+dismissPreviewAnimated:${1:(BOOL)animated}

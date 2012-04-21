@@ -1,0 +1,5 @@
+#name : appendString
+#group : NSString
+#key : appendString
+# --
+appendString:${1:(NSString *)aString}

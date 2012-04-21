@@ -1,0 +1,5 @@
+#name : writeModifiedVideoAtPathToSavedPhotosAlbum:completionBlock
+#group : ALAsset
+#key : writeModifiedVideoAtPathToSavedPhotosAlbum:completionBlock
+# --
+writeModifiedVideoAtPathToSavedPhotosAlbum:${1:(NSURL *)videoPathURL} completionBlock:${2:(ALAssetsLibraryWriteVideoCompletionBlock)completionBlock}

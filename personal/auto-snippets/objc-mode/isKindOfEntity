@@ -1,0 +1,5 @@
+#name : isKindOfEntity
+#group : NSEntityDescription
+#key : isKindOfEntity
+# --
+isKindOfEntity:${1:(NSEntityDescription *)entity}

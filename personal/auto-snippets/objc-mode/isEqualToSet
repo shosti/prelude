@@ -1,0 +1,5 @@
+#name : isEqualToSet
+#group : NSSet
+#key : isEqualToSet
+# --
+isEqualToSet:${1:(NSSet *)otherSet}

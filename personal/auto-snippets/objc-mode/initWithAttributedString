@@ -1,0 +1,5 @@
+#name : initWithAttributedString
+#group : NSAttributedString
+#key : initWithAttributedString
+# --
+initWithAttributedString:${1:(NSAttributedString *)attrStr}

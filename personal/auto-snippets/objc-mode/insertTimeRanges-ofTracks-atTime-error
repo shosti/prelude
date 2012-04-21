@@ -1,0 +1,5 @@
+#name : insertTimeRanges:ofTracks:atTime:error
+#group : AVCompositionTrack
+#key : insertTimeRanges:ofTracks:atTime:error
+# --
+insertTimeRanges:${1:(NSArray *)timeRanges} ofTracks:${2:(NSArray *)tracks} atTime:${3:(CMTime)startTime} error:${4:(NSError **)error}

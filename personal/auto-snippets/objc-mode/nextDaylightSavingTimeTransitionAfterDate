@@ -1,0 +1,5 @@
+#name : nextDaylightSavingTimeTransitionAfterDate
+#group : NSTimeZone
+#key : nextDaylightSavingTimeTransitionAfterDate
+# --
+nextDaylightSavingTimeTransitionAfterDate:${1:(NSDate *)aDate}

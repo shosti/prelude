@@ -1,0 +1,5 @@
+#name : sourceWithIdentifier
+#group : EKEventStore
+#key : sourceWithIdentifier
+# --
+sourceWithIdentifier:${1:(NSString *)identifier}

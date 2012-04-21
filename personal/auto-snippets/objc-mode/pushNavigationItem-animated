@@ -1,0 +1,5 @@
+#name : pushNavigationItem:animated
+#group : UINavigationBar
+#key : pushNavigationItem:animated
+# --
+pushNavigationItem:${1:(UINavigationItem *)item} animated:${2:(BOOL)animated}

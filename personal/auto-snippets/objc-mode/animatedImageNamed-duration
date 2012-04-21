@@ -1,0 +1,5 @@
+#name : animatedImageNamed:duration
+#group : UIImage
+#key : animatedImageNamed:duration
+# --
+animatedImageNamed:${1:(NSString *)name} duration:${2:(NSTimeInterval)duration}

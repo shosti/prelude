@@ -1,0 +1,5 @@
+#name : setCachePolicy
+#group : NSURLRequest
+#key : setCachePolicy
+# --
+setCachePolicy:${1:(NSURLRequestCachePolicy)policy}

@@ -1,0 +1,5 @@
+#name : stringByTrimmingCharactersInSet
+#group : NSString
+#key : stringByTrimmingCharactersInSet
+# --
+stringByTrimmingCharactersInSet:${1:(NSCharacterSet *)set}

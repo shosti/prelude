@@ -1,0 +1,5 @@
+#name : initWithObjects:forKeys
+#group : NSDictionary
+#key : initWithObjects:forKeys
+# --
+initWithObjects:${1:(NSArray *)objects} forKeys:${2:(NSArray *)keys}

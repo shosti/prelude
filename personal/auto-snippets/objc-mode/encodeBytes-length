@@ -1,0 +1,5 @@
+#name : encodeBytes:length
+#group : NSCoder
+#key : encodeBytes:length
+# --
+encodeBytes:${1:(const void *)byteaddr} length:${2:(NSUInteger)length}

@@ -1,0 +1,5 @@
+#name : valueAtIndex
+#group : CIVector
+#key : valueAtIndex
+# --
+valueAtIndex:${1:(size_t)index}

@@ -1,0 +1,5 @@
+#name : needsDisplayForKey
+#group : CALayer
+#key : needsDisplayForKey
+# --
+needsDisplayForKey:${1:(NSString *)key}

@@ -1,0 +1,5 @@
+#name : setPrimitiveValue:forKey
+#group : NSManagedObject
+#key : setPrimitiveValue:forKey
+# --
+setPrimitiveValue:${1:(id)value} forKey:${2:(NSString *)key}

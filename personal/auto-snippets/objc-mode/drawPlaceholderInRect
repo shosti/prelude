@@ -1,0 +1,5 @@
+#name : drawPlaceholderInRect
+#group : UITextField
+#key : drawPlaceholderInRect
+# --
+drawPlaceholderInRect:${1:(CGRect)rect}

@@ -1,0 +1,5 @@
+#name : connection:didFailWithError
+#group : NSURLConnection
+#key : connection:didFailWithError
+# --
+connection:${1:(NSURLConnection *)connection} didFailWithError:${2:(NSError *)error}

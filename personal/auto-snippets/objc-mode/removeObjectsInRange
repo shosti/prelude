@@ -1,0 +1,5 @@
+#name : removeObjectsInRange
+#group : NSOrderedSet
+#key : removeObjectsInRange
+# --
+removeObjectsInRange:${1:(NSRange)range}

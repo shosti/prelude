@@ -1,0 +1,5 @@
+#name : poseAsClass
+#group : NSObject
+#key : poseAsClass
+# --
+poseAsClass:${1:(Class)aClass}

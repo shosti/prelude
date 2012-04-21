@@ -1,0 +1,5 @@
+#name : setBackButtonTitlePositionAdjustment:forBarMetrics
+#group : UIBarButtonItem
+#key : setBackButtonTitlePositionAdjustment:forBarMetrics
+# --
+setBackButtonTitlePositionAdjustment:${1:(UIOffset)adjustment} forBarMetrics:${2:(UIBarMetrics)barMetrics}

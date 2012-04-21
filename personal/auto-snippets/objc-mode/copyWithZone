@@ -1,0 +1,5 @@
+#name : copyWithZone
+#group : NSObject
+#key : copyWithZone
+# --
+copyWithZone:${1:(NSZone *)zone}

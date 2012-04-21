@@ -1,0 +1,5 @@
+#name : initWithObjectsAndKeys
+#group : NSDictionary
+#key : initWithObjectsAndKeys
+# --
+initWithObjectsAndKeys:${1:(id)firstObject}

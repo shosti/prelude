@@ -1,0 +1,5 @@
+#name : prepareWithInvocationTarget
+#group : NSUndoManager
+#key : prepareWithInvocationTarget
+# --
+prepareWithInvocationTarget:${1:(id)target}

@@ -1,0 +1,5 @@
+#name : removeContact
+#group : MIDINetworkSession
+#key : removeContact
+# --
+removeContact:${1:(MIDINetworkHost *)contact}

@@ -1,0 +1,5 @@
+#name : initWithCharactersNoCopy:length:freeWhenDone
+#group : NSString
+#key : initWithCharactersNoCopy:length:freeWhenDone
+# --
+initWithCharactersNoCopy:${1:(unichar *)characters} length:${2:(NSUInteger)length} freeWhenDone:${3:(BOOL)freeBuffer}

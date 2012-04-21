@@ -1,0 +1,5 @@
+#name : denyCallID
+#group : GKVoiceChatService
+#key : denyCallID
+# --
+denyCallID:${1:(NSInteger)callID}

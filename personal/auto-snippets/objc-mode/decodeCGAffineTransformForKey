@@ -1,0 +1,5 @@
+#name : decodeCGAffineTransformForKey
+#group : UIGeometry
+#key : decodeCGAffineTransformForKey
+# --
+decodeCGAffineTransformForKey:${1:(NSString *)key}

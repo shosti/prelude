@@ -1,0 +1,5 @@
+#name : initWithTimeIntervalSince1970
+#group : NSDate
+#key : initWithTimeIntervalSince1970
+# --
+initWithTimeIntervalSince1970:${1:(NSTimeInterval)ti}

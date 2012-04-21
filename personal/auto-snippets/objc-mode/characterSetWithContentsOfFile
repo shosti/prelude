@@ -1,0 +1,5 @@
+#name : characterSetWithContentsOfFile
+#group : NSCharacterSet
+#key : characterSetWithContentsOfFile
+# --
+characterSetWithContentsOfFile:${1:(NSString *)fName}

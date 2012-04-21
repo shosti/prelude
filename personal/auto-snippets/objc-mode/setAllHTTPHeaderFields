@@ -1,0 +1,5 @@
+#name : setAllHTTPHeaderFields
+#group : NSURLRequest
+#key : setAllHTTPHeaderFields
+# --
+setAllHTTPHeaderFields:${1:(NSDictionary *)headerFields}

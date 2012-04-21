@@ -1,0 +1,5 @@
+#name : tableView:didEndEditingRowAtIndexPath
+#group : UITableView
+#key : tableView:didEndEditingRowAtIndexPath
+# --
+tableView:${1:(UITableView*)tableView} didEndEditingRowAtIndexPath:${2:(NSIndexPath *)indexPath}

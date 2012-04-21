@@ -1,0 +1,5 @@
+#name : writeToURL:options:error
+#group : NSData
+#key : writeToURL:options:error
+# --
+writeToURL:${1:(NSURL *)url} options:${2:(NSDataWritingOptions)writeOptionsMask} error:${3:(NSError **)errorPtr}

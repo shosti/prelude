@@ -1,0 +1,5 @@
+#name : setSourceEntityName
+#group : NSEntityMapping
+#key : setSourceEntityName
+# --
+setSourceEntityName:${1:(NSString *)name}

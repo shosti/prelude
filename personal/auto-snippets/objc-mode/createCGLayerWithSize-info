@@ -1,0 +1,5 @@
+#name : createCGLayerWithSize:info
+#group : CIContext
+#key : createCGLayerWithSize:info
+# --
+createCGLayerWithSize:${1:(CGSize)size} info:${2:(CFDictionaryRef)d}

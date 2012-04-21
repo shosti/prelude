@@ -1,0 +1,5 @@
+#name : setLocale
+#group : NSScanner
+#key : setLocale
+# --
+setLocale:${1:(id)locale}

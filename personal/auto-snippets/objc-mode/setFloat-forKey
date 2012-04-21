@@ -1,0 +1,5 @@
+#name : setFloat:forKey
+#group : NSUserDefaults
+#key : setFloat:forKey
+# --
+setFloat:${1:(float)value} forKey:${2:(NSString *)defaultName}

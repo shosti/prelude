@@ -1,0 +1,5 @@
+#name : canInitWithRequest
+#group : NSURLProtocol
+#key : canInitWithRequest
+# --
+canInitWithRequest:${1:(NSURLRequest *)request}

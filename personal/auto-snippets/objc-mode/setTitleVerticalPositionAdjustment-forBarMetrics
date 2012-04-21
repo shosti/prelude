@@ -1,0 +1,5 @@
+#name : setTitleVerticalPositionAdjustment:forBarMetrics
+#group : UINavigationBar
+#key : setTitleVerticalPositionAdjustment:forBarMetrics
+# --
+setTitleVerticalPositionAdjustment:${1:(CGFloat)adjustment} forBarMetrics:${2:(UIBarMetrics)barMetrics}

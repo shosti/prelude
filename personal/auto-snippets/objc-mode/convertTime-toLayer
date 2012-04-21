@@ -1,0 +1,5 @@
+#name : convertTime:toLayer
+#group : CALayer
+#key : convertTime:toLayer
+# --
+convertTime:${1:(CFTimeInterval)t} toLayer:${2:(CALayer *)l}

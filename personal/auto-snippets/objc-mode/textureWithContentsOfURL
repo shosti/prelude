@@ -1,0 +1,5 @@
+#name : textureWithContentsOfURL
+#group : GLKTextureLoader
+#key : textureWithContentsOfURL
+# --
+textureWithContentsOfURL:${1:(NSURL *)url}

@@ -1,0 +1,5 @@
+#name : scanHexDouble
+#group : NSScanner
+#key : scanHexDouble
+# --
+scanHexDouble:${1:(double *)result}

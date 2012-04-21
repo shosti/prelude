@@ -1,0 +1,5 @@
+#name : destinationInstancesForEntityMappingNamed:sourceInstances
+#group : NSMigrationManager
+#key : destinationInstancesForEntityMappingNamed:sourceInstances
+# --
+destinationInstancesForEntityMappingNamed:${1:(NSString *)mappingName} sourceInstances:${2:(NSArray*)sourceInstances}

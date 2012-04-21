@@ -1,0 +1,5 @@
+#name : isEnabledForSegmentAtIndex
+#group : UISegmentedControl
+#key : isEnabledForSegmentAtIndex
+# --
+isEnabledForSegmentAtIndex:${1:(NSUInteger)segment}

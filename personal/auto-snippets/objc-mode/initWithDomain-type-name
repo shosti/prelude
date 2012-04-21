@@ -1,0 +1,5 @@
+#name : initWithDomain:type:name
+#group : NSNetServices
+#key : initWithDomain:type:name
+# --
+initWithDomain:${1:(NSString *)domain} type:${2:(NSString *)type} name:${3:(NSString *)name}

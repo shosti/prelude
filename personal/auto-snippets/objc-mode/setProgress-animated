@@ -1,0 +1,5 @@
+#name : setProgress:animated
+#group : UIProgressView
+#key : setProgress:animated
+# --
+setProgress:${1:(float)progress} animated:${2:(BOOL)animated}

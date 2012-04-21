@@ -1,0 +1,5 @@
+#name : minusOrderedSet
+#group : NSOrderedSet
+#key : minusOrderedSet
+# --
+minusOrderedSet:${1:(NSOrderedSet *)other}

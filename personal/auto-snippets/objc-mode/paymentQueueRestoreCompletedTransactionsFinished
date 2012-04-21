@@ -1,0 +1,5 @@
+#name : paymentQueueRestoreCompletedTransactionsFinished
+#group : SKPaymentQueue
+#key : paymentQueueRestoreCompletedTransactionsFinished
+# --
+paymentQueueRestoreCompletedTransactionsFinished:${1:(SKPaymentQueue *)queue}

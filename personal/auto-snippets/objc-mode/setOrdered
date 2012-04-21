@@ -1,0 +1,5 @@
+#name : setOrdered
+#group : NSRelationshipDescription
+#key : setOrdered
+# --
+setOrdered:${1:(BOOL)flag}

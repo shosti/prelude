@@ -1,0 +1,5 @@
+#name : setWithSet
+#group : NSSet
+#key : setWithSet
+# --
+setWithSet:${1:(NSSet *)set}

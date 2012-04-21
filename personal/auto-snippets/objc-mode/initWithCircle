@@ -1,0 +1,5 @@
+#name : initWithCircle
+#group : MKCircleView
+#key : initWithCircle
+# --
+initWithCircle:${1:(MKCircle *)circle}

@@ -1,0 +1,5 @@
+#name : rangeOfComposedCharacterSequenceAtIndex
+#group : NSString
+#key : rangeOfComposedCharacterSequenceAtIndex
+# --
+rangeOfComposedCharacterSequenceAtIndex:${1:(NSUInteger)index}

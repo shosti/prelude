@@ -1,0 +1,5 @@
+#name : initWithAPI
+#group : EAGL
+#key : initWithAPI
+# --
+initWithAPI:${1:(EAGLRenderingAPI)api}

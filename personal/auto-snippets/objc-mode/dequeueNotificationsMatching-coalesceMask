@@ -1,0 +1,5 @@
+#name : dequeueNotificationsMatching:coalesceMask
+#group : NSNotificationQueue
+#key : dequeueNotificationsMatching:coalesceMask
+# --
+dequeueNotificationsMatching:${1:(NSNotification *)notification} coalesceMask:${2:(NSUInteger)coalesceMask}

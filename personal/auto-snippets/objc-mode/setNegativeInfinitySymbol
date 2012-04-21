@@ -1,0 +1,5 @@
+#name : setNegativeInfinitySymbol
+#group : NSNumberFormatter
+#key : setNegativeInfinitySymbol
+# --
+setNegativeInfinitySymbol:${1:(NSString *)string}

@@ -1,0 +1,5 @@
+#name : addRecurrenceRule
+#group : EKCalendarItem
+#key : addRecurrenceRule
+# --
+addRecurrenceRule:${1:(EKRecurrenceRule *)rule}

@@ -1,0 +1,5 @@
+#name : dateByAddingTimeInterval
+#group : NSDate
+#key : dateByAddingTimeInterval
+# --
+dateByAddingTimeInterval:${1:(NSTimeInterval)ti}

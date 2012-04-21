@@ -1,0 +1,5 @@
+#name : popoverControllerDidDismissPopover
+#group : UIPopoverController
+#key : popoverControllerDidDismissPopover
+# --
+popoverControllerDidDismissPopover:${1:(UIPopoverController *)popoverController}

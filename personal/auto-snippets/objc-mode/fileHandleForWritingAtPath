@@ -1,0 +1,5 @@
+#name : fileHandleForWritingAtPath
+#group : NSFileHandle
+#key : fileHandleForWritingAtPath
+# --
+fileHandleForWritingAtPath:${1:(NSString *)path}

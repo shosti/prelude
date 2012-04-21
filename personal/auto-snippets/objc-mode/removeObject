@@ -1,0 +1,5 @@
+#name : removeObject
+#group : NSSet
+#key : removeObject
+# --
+removeObject:${1:(id)object}

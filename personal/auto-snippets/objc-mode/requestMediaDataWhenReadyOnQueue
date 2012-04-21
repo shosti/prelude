@@ -1,0 +1,5 @@
+#name : requestMediaDataWhenReadyOnQueue
+#group : AVAssetWriterInput
+#key : requestMediaDataWhenReadyOnQueue
+# --
+requestMediaDataWhenReadyOnQueue:${1:(dispatch_queue_t)queue}

@@ -1,0 +1,5 @@
+#name : classForClassName
+#group : NSKeyedArchiver
+#key : classForClassName
+# --
+classForClassName:${1:(NSString *)codedName}

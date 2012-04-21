@@ -1,0 +1,5 @@
+#name : tableView:willDeselectRowAtIndexPath
+#group : UITableView
+#key : tableView:willDeselectRowAtIndexPath
+# --
+tableView:${1:(UITableView *)tableView} willDeselectRowAtIndexPath:${2:(NSIndexPath *)indexPath}

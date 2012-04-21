@@ -1,0 +1,5 @@
+#name : maximumValueImageRectForBounds
+#group : UISlider
+#key : maximumValueImageRectForBounds
+# --
+maximumValueImageRectForBounds:${1:(CGRect)bounds}

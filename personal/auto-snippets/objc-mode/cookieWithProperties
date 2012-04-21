@@ -1,0 +1,5 @@
+#name : cookieWithProperties
+#group : NSHTTPCookie
+#key : cookieWithProperties
+# --
+cookieWithProperties:${1:(NSDictionary *)properties}

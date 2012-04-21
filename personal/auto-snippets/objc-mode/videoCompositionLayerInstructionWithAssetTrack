@@ -1,0 +1,5 @@
+#name : videoCompositionLayerInstructionWithAssetTrack
+#group : AVVideoComposition
+#key : videoCompositionLayerInstructionWithAssetTrack
+# --
+videoCompositionLayerInstructionWithAssetTrack:${1:(AVAssetTrack *)track}

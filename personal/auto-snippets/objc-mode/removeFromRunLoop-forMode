@@ -1,0 +1,5 @@
+#name : removeFromRunLoop:forMode
+#group : CADisplayLink
+#key : removeFromRunLoop:forMode
+# --
+removeFromRunLoop:${1:(NSRunLoop *)runloop} forMode:${2:(NSString *)mode}

@@ -1,0 +1,5 @@
+#name : removeObjectIdenticalTo
+#group : NSArray
+#key : removeObjectIdenticalTo
+# --
+removeObjectIdenticalTo:${1:(id)anObject}

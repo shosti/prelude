@@ -1,0 +1,5 @@
+#name : initWithActivityIndicatorStyle
+#group : UIActivityIndicatorView
+#key : initWithActivityIndicatorStyle
+# --
+initWithActivityIndicatorStyle:${1:(UIActivityIndicatorViewStyle)style}

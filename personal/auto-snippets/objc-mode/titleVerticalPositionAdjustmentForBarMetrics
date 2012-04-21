@@ -1,0 +1,5 @@
+#name : titleVerticalPositionAdjustmentForBarMetrics
+#group : UINavigationBar
+#key : titleVerticalPositionAdjustmentForBarMetrics
+# --
+titleVerticalPositionAdjustmentForBarMetrics:${1:(UIBarMetrics)barMetrics}

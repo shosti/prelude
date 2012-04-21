@@ -1,0 +1,5 @@
+#name : decodeCGRectForKey
+#group : UIGeometry
+#key : decodeCGRectForKey
+# --
+decodeCGRectForKey:${1:(NSString *)key}

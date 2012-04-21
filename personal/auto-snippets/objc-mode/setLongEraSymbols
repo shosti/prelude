@@ -1,0 +1,5 @@
+#name : setLongEraSymbols
+#group : NSDateFormatter
+#key : setLongEraSymbols
+# --
+setLongEraSymbols:${1:(NSArray *)array}

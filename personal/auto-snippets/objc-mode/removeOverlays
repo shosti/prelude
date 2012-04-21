@@ -1,0 +1,5 @@
+#name : removeOverlays
+#group : MKMapView
+#key : removeOverlays
+# --
+removeOverlays:${1:(NSArray *)overlays}

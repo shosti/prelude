@@ -1,0 +1,5 @@
+#name : pathsForResourcesOfType:inDirectory:forLocalization
+#group : NSBundle
+#key : pathsForResourcesOfType:inDirectory:forLocalization
+# --
+pathsForResourcesOfType:${1:(NSString *)ext} inDirectory:${2:(NSString *)subpath} forLocalization:${3:(NSString *)localizationName}

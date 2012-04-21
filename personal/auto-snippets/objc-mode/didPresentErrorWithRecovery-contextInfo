@@ -1,0 +1,5 @@
+#name : didPresentErrorWithRecovery:contextInfo
+#group : NSError
+#key : didPresentErrorWithRecovery:contextInfo
+# --
+didPresentErrorWithRecovery:${1:(BOOL)didRecover} contextInfo:${2:(void *)contextInfo}

@@ -1,0 +1,5 @@
+#name : colorWithCIColor
+#group : UIColor
+#key : colorWithCIColor
+# --
+colorWithCIColor:${1:(CIColor *)ciColor}

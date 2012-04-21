@@ -1,0 +1,5 @@
+#name : enumeratorAtURL:includingPropertiesForKeys:options
+#group : NSFileManager
+#key : enumeratorAtURL:includingPropertiesForKeys:options
+# --
+enumeratorAtURL:${1:(NSURL *)url} includingPropertiesForKeys:${2:(NSArray *)keys} options:${3:(NSDirectoryEnumerationOptions)mask}

@@ -1,0 +1,5 @@
+#name : centralManager:didFailToConnectPeripheral:error
+#group : CBCentralManager
+#key : centralManager:didFailToConnectPeripheral:error
+# --
+centralManager:${1:(CBCentralManager *)central} didFailToConnectPeripheral:${2:(CBPeripheral *)peripheral} error:${3:(NSError *)error}

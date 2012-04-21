@@ -1,0 +1,5 @@
+#name : participantQuitInTurnWithOutcome:nextParticipant:matchData
+#group : GKTurnBasedMatch
+#key : participantQuitInTurnWithOutcome:nextParticipant:matchData
+# --
+participantQuitInTurnWithOutcome:${1:(GKTurnBasedMatchOutcome)matchOutcome} nextParticipant:${2:(GKTurnBasedParticipant *)nextParticipant} matchData:${3:(NSData*)matchData}

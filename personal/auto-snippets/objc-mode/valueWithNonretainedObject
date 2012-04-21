@@ -1,0 +1,5 @@
+#name : valueWithNonretainedObject
+#group : NSValue
+#key : valueWithNonretainedObject
+# --
+valueWithNonretainedObject:${1:(id)anObject}

@@ -1,0 +1,5 @@
+#name : peripheral:didUpdateNotificationStateForCharacteristic:error
+#group : CBPeripheral
+#key : peripheral:didUpdateNotificationStateForCharacteristic:error
+# --
+peripheral:${1:(CBPeripheral *)peripheral} didUpdateNotificationStateForCharacteristic:${2:(CBCharacteristic *)characteristic} error:${3:(NSError *)error}

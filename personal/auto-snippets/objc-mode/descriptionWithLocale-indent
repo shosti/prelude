@@ -1,0 +1,5 @@
+#name : descriptionWithLocale:indent
+#group : NSOrderedSet
+#key : descriptionWithLocale:indent
+# --
+descriptionWithLocale:${1:(id)locale} indent:${2:(NSUInteger)level}

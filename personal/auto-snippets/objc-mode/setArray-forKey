@@ -1,0 +1,5 @@
+#name : setArray:forKey
+#group : NSUbiquitousKeyValueStore
+#key : setArray:forKey
+# --
+setArray:${1:(NSArray *)anArray} forKey:${2:(NSString *)aKey}

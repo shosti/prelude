@@ -1,0 +1,5 @@
+#name : setTitleTextAttributes:forState
+#group : UISegmentedControl
+#key : setTitleTextAttributes:forState
+# --
+setTitleTextAttributes:${1:(NSDictionary *)attributes} forState:${2:(UIControlState)state}

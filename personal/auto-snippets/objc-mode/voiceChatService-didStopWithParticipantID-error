@@ -1,0 +1,5 @@
+#name : voiceChatService:didStopWithParticipantID:error
+#group : GKPublicProtocols
+#key : voiceChatService:didStopWithParticipantID:error
+# --
+voiceChatService:${1:(GKVoiceChatService *)voiceChatService} didStopWithParticipantID:${2:(NSString *)participantID} error:${3:(NSError *)error}

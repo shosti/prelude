@@ -1,0 +1,5 @@
+#name : beginCustomizingItems
+#group : UITabBar
+#key : beginCustomizingItems
+# --
+beginCustomizingItems:${1:(NSArray *)items}

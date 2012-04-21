@@ -1,0 +1,5 @@
+#name : firstObjectCommonWithArray
+#group : NSArray
+#key : firstObjectCommonWithArray
+# --
+firstObjectCommonWithArray:${1:(NSArray *)otherArray}

@@ -1,0 +1,5 @@
+#name : setMonth
+#group : NSCalendar
+#key : setMonth
+# --
+setMonth:${1:(NSInteger)v}

@@ -1,0 +1,5 @@
+#name : scanHexInt
+#group : NSScanner
+#key : scanHexInt
+# --
+scanHexInt:${1:(unsigned *)value}

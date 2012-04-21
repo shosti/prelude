@@ -1,0 +1,5 @@
+#name : registerForRemoteNotificationTypes
+#group : UIApplication
+#key : registerForRemoteNotificationTypes
+# --
+registerForRemoteNotificationTypes:${1:(UIRemoteNotificationType)types}

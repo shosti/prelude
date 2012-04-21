@@ -1,0 +1,5 @@
+#name : replaceObjectsInRange
+#group : NSOrderedSet
+#key : replaceObjectsInRange
+# --
+replaceObjectsInRange:${1:(NSRange)range}

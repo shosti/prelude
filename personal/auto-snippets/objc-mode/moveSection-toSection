@@ -1,0 +1,5 @@
+#name : moveSection:toSection
+#group : UITableView
+#key : moveSection:toSection
+# --
+moveSection:${1:(NSInteger)section} toSection:${2:(NSInteger)newSection}

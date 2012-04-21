@@ -1,0 +1,5 @@
+#name : stretchableImageWithLeftCapWidth:topCapHeight
+#group : UIImage
+#key : stretchableImageWithLeftCapWidth:topCapHeight
+# --
+stretchableImageWithLeftCapWidth:${1:(NSInteger)leftCapWidth} topCapHeight:${2:(NSInteger)topCapHeight}

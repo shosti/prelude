@@ -1,0 +1,5 @@
+#name : dateCheckingResultWithRange:date
+#group : NSTextCheckingResult
+#key : dateCheckingResultWithRange:date
+# --
+dateCheckingResultWithRange:${1:(NSRange)range} date:${2:(NSDate *)date}

@@ -1,0 +1,5 @@
+#name : cancelConnectToPeer
+#group : GKSession
+#key : cancelConnectToPeer
+# --
+cancelConnectToPeer:${1:(NSString *)peerID}

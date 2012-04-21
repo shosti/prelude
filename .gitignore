@@ -3,11 +3,12 @@ auto-save-list
 recentf
 savehist
 saveplace
-eshell
+personal/eshell/history
+personal/eshell/lastdir
 elpa
 el-get
 semanticdb
 url
 ede-projects.el
 .DS_Store
-/ac-comphist.dat
+ac-comphist.dat

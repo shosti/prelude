@@ -1,0 +1,5 @@
+#name : encodeValueOfObjCType:at
+#group : NSCoder
+#key : encodeValueOfObjCType:at
+# --
+encodeValueOfObjCType:${1:(const char *)type} at:${2:(const void *)addr}

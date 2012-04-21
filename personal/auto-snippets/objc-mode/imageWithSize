@@ -1,0 +1,5 @@
+#name : imageWithSize
+#group : MPMediaItem
+#key : imageWithSize
+# --
+imageWithSize:${1:(CGSize)size}

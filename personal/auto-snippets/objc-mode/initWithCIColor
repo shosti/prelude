@@ -1,0 +1,5 @@
+#name : initWithCIColor
+#group : UIColor
+#key : initWithCIColor
+# --
+initWithCIColor:${1:(CIColor *)ciColor}

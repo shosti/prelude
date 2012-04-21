@@ -1,0 +1,5 @@
+#name : rangeOfCharacterFromSet
+#group : NSString
+#key : rangeOfCharacterFromSet
+# --
+rangeOfCharacterFromSet:${1:(NSCharacterSet *)aSet}

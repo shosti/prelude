@@ -1,0 +1,5 @@
+#name : encodeCMTime:forKey
+#group : AVTime
+#key : encodeCMTime:forKey
+# --
+encodeCMTime:${1:(CMTime)time} forKey:${2:(NSString *)key}

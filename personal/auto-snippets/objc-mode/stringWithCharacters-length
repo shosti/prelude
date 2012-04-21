@@ -1,0 +1,5 @@
+#name : stringWithCharacters:length
+#group : NSString
+#key : stringWithCharacters:length
+# --
+stringWithCharacters:${1:(const unichar *)characters} length:${2:(NSUInteger)length}

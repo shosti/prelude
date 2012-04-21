@@ -1,0 +1,5 @@
+#name : imageWithCIImage
+#group : UIImage
+#key : imageWithCIImage
+# --
+imageWithCIImage:${1:(CIImage *)ciImage}

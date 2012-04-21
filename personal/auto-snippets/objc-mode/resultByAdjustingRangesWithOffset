@@ -1,0 +1,5 @@
+#name : resultByAdjustingRangesWithOffset
+#group : NSTextCheckingResult
+#key : resultByAdjustingRangesWithOffset
+# --
+resultByAdjustingRangesWithOffset:${1:(NSInteger)offset}

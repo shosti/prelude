@@ -1,0 +1,5 @@
+#name : initWithBytesNoCopy:length
+#group : NSData
+#key : initWithBytesNoCopy:length
+# --
+initWithBytesNoCopy:${1:(void *)bytes} length:${2:(NSUInteger)length}

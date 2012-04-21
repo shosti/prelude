@@ -1,0 +1,5 @@
+#name : setVolume:atTime
+#group : AVAudioMix
+#key : setVolume:atTime
+# --
+setVolume:${1:(float)volume} atTime:${2:(CMTime)time}

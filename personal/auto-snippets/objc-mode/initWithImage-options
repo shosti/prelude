@@ -1,0 +1,5 @@
+#name : initWithImage:options
+#group : UIImage
+#key : initWithImage:options
+# --
+initWithImage:${1:(UIImage *)image} options:${2:(NSDictionary *)options}

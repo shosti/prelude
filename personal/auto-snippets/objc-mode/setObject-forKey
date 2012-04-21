@@ -1,0 +1,5 @@
+#name : setObject:forKey
+#group : NSUserDefaults
+#key : setObject:forKey
+# --
+setObject:${1:(id)value} forKey:${2:(NSString *)defaultName}

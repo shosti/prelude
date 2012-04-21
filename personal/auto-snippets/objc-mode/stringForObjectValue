@@ -1,0 +1,5 @@
+#name : stringForObjectValue
+#group : NSFormatter
+#key : stringForObjectValue
+# --
+stringForObjectValue:${1:(id)obj}

@@ -1,0 +1,5 @@
+#name : setGroupingSeparator
+#group : NSNumberFormatter
+#key : setGroupingSeparator
+# --
+setGroupingSeparator:${1:(NSString *)string}

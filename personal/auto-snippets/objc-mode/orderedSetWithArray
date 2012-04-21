@@ -1,0 +1,5 @@
+#name : orderedSetWithArray
+#group : NSOrderedSet
+#key : orderedSetWithArray
+# --
+orderedSetWithArray:${1:(NSArray *)array}

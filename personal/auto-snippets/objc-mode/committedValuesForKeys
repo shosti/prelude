@@ -1,0 +1,5 @@
+#name : committedValuesForKeys
+#group : NSManagedObject
+#key : committedValuesForKeys
+# --
+committedValuesForKeys:${1:(NSArray *)keys}

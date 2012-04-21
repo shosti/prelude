@@ -1,0 +1,5 @@
+#name : scopeBarButtonTitleTextAttributesForState
+#group : UISearchBar
+#key : scopeBarButtonTitleTextAttributesForState
+# --
+scopeBarButtonTitleTextAttributesForState:${1:(UIControlState)state}

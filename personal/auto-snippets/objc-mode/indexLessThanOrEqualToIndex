@@ -1,0 +1,5 @@
+#name : indexLessThanOrEqualToIndex
+#group : NSIndexSet
+#key : indexLessThanOrEqualToIndex
+# --
+indexLessThanOrEqualToIndex:${1:(NSUInteger)value}

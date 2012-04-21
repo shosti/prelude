@@ -1,0 +1,5 @@
+#name : willMoveToParentViewController
+#group : UIViewController
+#key : willMoveToParentViewController
+# --
+willMoveToParentViewController:${1:(UIViewController *)parent}

@@ -1,0 +1,5 @@
+#name : indexSetWithIndexesInRange
+#group : NSIndexSet
+#key : indexSetWithIndexesInRange
+# --
+indexSetWithIndexesInRange:${1:(NSRange)range}

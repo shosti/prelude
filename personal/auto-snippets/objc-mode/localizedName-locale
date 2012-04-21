@@ -1,0 +1,5 @@
+#name : localizedName:locale
+#group : NSTimeZone
+#key : localizedName:locale
+# --
+localizedName:${1:(NSTimeZoneNameStyle)style} locale:${2:(NSLocale *)locale}

@@ -1,0 +1,5 @@
+#name : tableView:indentationLevelForRowAtIndexPath
+#group : UITableView
+#key : tableView:indentationLevelForRowAtIndexPath
+# --
+tableView:${1:(UITableView *)tableView} indentationLevelForRowAtIndexPath:${2:(NSIndexPath *)indexPath}

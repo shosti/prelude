@@ -1,0 +1,5 @@
+#name : localizedScannerWithString
+#group : NSScanner
+#key : localizedScannerWithString
+# --
+localizedScannerWithString:${1:(NSString *)string}

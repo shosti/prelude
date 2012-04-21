@@ -1,0 +1,5 @@
+#name : setEra
+#group : NSCalendar
+#key : setEra
+# --
+setEra:${1:(NSInteger)v}

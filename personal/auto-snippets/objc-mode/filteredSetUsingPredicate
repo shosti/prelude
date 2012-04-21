@@ -1,0 +1,5 @@
+#name : filteredSetUsingPredicate
+#group : NSPredicate
+#key : filteredSetUsingPredicate
+# --
+filteredSetUsingPredicate:${1:(NSPredicate *)predicate}

@@ -1,0 +1,5 @@
+#name : fileURLWithPath
+#group : NSURL
+#key : fileURLWithPath
+# --
+fileURLWithPath:${1:(NSString *)path}

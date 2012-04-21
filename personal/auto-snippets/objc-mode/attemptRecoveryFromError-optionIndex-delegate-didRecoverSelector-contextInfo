@@ -1,0 +1,5 @@
+#name : attemptRecoveryFromError:optionIndex:delegate:didRecoverSelector:contextInfo
+#group : NSError
+#key : attemptRecoveryFromError:optionIndex:delegate:didRecoverSelector:contextInfo
+# --
+attemptRecoveryFromError:${1:(NSError *)error} optionIndex:${2:(NSUInteger)recoveryOptionIndex} delegate:${3:(id)delegate} didRecoverSelector:${4:(SEL)didRecoverSelector} contextInfo:${5:(void *)contextInfo}

@@ -1,0 +1,5 @@
+#name : dataWithData
+#group : NSData
+#key : dataWithData
+# --
+dataWithData:${1:(NSData *)data}

@@ -1,0 +1,5 @@
+#name : setAnimationTransition:forView:cache
+#group : UIView
+#key : setAnimationTransition:forView:cache
+# --
+setAnimationTransition:${1:(UIViewAnimationTransition)transition} forView:${2:(UIView *)view} cache:${3:(BOOL)cache}

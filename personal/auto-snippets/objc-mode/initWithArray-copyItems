@@ -1,0 +1,5 @@
+#name : initWithArray:copyItems
+#group : NSOrderedSet
+#key : initWithArray:copyItems
+# --
+initWithArray:${1:(NSArray *)set} copyItems:${2:(BOOL)flag}

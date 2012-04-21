@@ -1,0 +1,5 @@
+#name : requestIsCacheEquivalent:toRequest
+#group : NSURLProtocol
+#key : requestIsCacheEquivalent:toRequest
+# --
+requestIsCacheEquivalent:${1:(NSURLRequest *)a} toRequest:${2:(NSURLRequest *)b}

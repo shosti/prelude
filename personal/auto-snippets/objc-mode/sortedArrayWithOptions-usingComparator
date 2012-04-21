@@ -1,0 +1,5 @@
+#name : sortedArrayWithOptions:usingComparator
+#group : NSOrderedSet
+#key : sortedArrayWithOptions:usingComparator
+# --
+sortedArrayWithOptions:${1:(NSSortOptions)opts} usingComparator:${2:(NSComparator)cmptr}

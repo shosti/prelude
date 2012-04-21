@@ -1,0 +1,5 @@
+#name : initWithFrame:context
+#group : GLKView
+#key : initWithFrame:context
+# --
+initWithFrame:${1:(CGRect)frame} context:${2:(EAGLContext *)context}

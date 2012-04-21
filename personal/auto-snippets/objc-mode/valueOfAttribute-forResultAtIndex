@@ -1,0 +1,5 @@
+#name : valueOfAttribute:forResultAtIndex
+#group : NSMetadata
+#key : valueOfAttribute:forResultAtIndex
+# --
+valueOfAttribute:${1:(NSString *)attrName} forResultAtIndex:${2:(NSUInteger)idx}

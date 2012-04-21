@@ -1,0 +1,5 @@
+#name : touchesShouldBegin:withEvent:inContentView
+#group : UIScrollView
+#key : touchesShouldBegin:withEvent:inContentView
+# --
+touchesShouldBegin:${1:(NSSet *)touches} withEvent:${2:(UIEvent *)event} inContentView:${3:(UIView *)view}

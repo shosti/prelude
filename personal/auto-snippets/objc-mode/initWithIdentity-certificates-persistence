@@ -1,0 +1,5 @@
+#name : initWithIdentity:certificates:persistence
+#group : NSURLCredential
+#key : initWithIdentity:certificates:persistence
+# --
+initWithIdentity:${1:(SecIdentityRef)identity} certificates:${2:(NSArray *)certArray} persistence:${3:(NSURLCredentialPersistence)persistence}

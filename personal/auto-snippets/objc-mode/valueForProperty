@@ -1,0 +1,5 @@
+#name : valueForProperty
+#group : MPMediaEntity
+#key : valueForProperty
+# --
+valueForProperty:${1:(NSString *)property}

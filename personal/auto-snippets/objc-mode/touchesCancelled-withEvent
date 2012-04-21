@@ -1,0 +1,5 @@
+#name : touchesCancelled:withEvent
+#group : UIResponder
+#key : touchesCancelled:withEvent
+# --
+touchesCancelled:${1:(NSSet *)touches} withEvent:${2:(UIEvent *)event}

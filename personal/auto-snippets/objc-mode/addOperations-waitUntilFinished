@@ -1,0 +1,5 @@
+#name : addOperations:waitUntilFinished
+#group : NSOperation
+#key : addOperations:waitUntilFinished
+# --
+addOperations:${1:(NSArray *)ops} waitUntilFinished:${2:(BOOL)wait}

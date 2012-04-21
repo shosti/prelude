@@ -1,0 +1,5 @@
+#name : removeTimeRange
+#group : AVCompositionTrack
+#key : removeTimeRange
+# --
+removeTimeRange:${1:(CMTimeRange)timeRange}

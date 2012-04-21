@@ -1,0 +1,5 @@
+#name : handleMatchEnded
+#group : GKTurnBasedMatch
+#key : handleMatchEnded
+# --
+handleMatchEnded:${1:(GKTurnBasedMatch *)match}

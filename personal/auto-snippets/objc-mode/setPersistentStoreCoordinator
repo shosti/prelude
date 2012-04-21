@@ -1,0 +1,5 @@
+#name : setPersistentStoreCoordinator
+#group : NSManagedObjectContext
+#key : setPersistentStoreCoordinator
+# --
+setPersistentStoreCoordinator:${1:(NSPersistentStoreCoordinator *)coordinator}

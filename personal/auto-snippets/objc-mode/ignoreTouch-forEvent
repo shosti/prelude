@@ -1,0 +1,5 @@
+#name : ignoreTouch:forEvent
+#group : UIGestureRecognizerSubclass
+#key : ignoreTouch:forEvent
+# --
+ignoreTouch:${1:(UITouch*)touch} forEvent:${2:(UIEvent*)event}

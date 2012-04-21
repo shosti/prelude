@@ -1,0 +1,5 @@
+#name : backgroundImageForBarMetrics
+#group : UINavigationBar
+#key : backgroundImageForBarMetrics
+# --
+backgroundImageForBarMetrics:${1:(UIBarMetrics)barMetrics}

@@ -1,0 +1,5 @@
+#name : tableView:accessoryButtonTappedForRowWithIndexPath
+#group : UITableView
+#key : tableView:accessoryButtonTappedForRowWithIndexPath
+# --
+tableView:${1:(UITableView *)tableView} accessoryButtonTappedForRowWithIndexPath:${2:(NSIndexPath *)indexPath}

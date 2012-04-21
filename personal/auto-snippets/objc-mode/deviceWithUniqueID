@@ -1,0 +1,5 @@
+#name : deviceWithUniqueID
+#group : AVCaptureDevice
+#key : deviceWithUniqueID
+# --
+deviceWithUniqueID:${1:(NSString *)deviceUniqueID}

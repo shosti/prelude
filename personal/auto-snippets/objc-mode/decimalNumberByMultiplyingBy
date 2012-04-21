@@ -1,0 +1,5 @@
+#name : decimalNumberByMultiplyingBy
+#group : NSDecimalNumber
+#key : decimalNumberByMultiplyingBy
+# --
+decimalNumberByMultiplyingBy:${1:(NSDecimalNumber *)decimalNumber}

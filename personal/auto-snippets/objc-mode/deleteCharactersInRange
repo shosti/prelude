@@ -1,0 +1,5 @@
+#name : deleteCharactersInRange
+#group : NSString
+#key : deleteCharactersInRange
+# --
+deleteCharactersInRange:${1:(NSRange)range}

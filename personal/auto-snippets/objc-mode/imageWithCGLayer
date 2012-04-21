@@ -1,0 +1,5 @@
+#name : imageWithCGLayer
+#group : CIImage
+#key : imageWithCGLayer
+# --
+imageWithCGLayer:${1:(CGLayerRef)layer}

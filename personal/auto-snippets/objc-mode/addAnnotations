@@ -1,0 +1,5 @@
+#name : addAnnotations
+#group : MKMapView
+#key : addAnnotations
+# --
+addAnnotations:${1:(NSArray *)annotations}

@@ -1,0 +1,5 @@
+#name : portWithMachPort
+#group : NSPort
+#key : portWithMachPort
+# --
+portWithMachPort:${1:(uint32_t)machPort}

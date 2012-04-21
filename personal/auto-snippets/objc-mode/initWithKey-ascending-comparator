@@ -1,0 +1,5 @@
+#name : initWithKey:ascending:comparator
+#group : NSSortDescriptor
+#key : initWithKey:ascending:comparator
+# --
+initWithKey:${1:(NSString *)key} ascending:${2:(BOOL)ascending} comparator:${3:(NSComparator)cmptr}

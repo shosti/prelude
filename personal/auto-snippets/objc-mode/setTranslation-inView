@@ -1,0 +1,5 @@
+#name : setTranslation:inView
+#group : UIPanGestureRecognizer
+#key : setTranslation:inView
+# --
+setTranslation:${1:(CGPoint)translation} inView:${2:(UIView *)view}

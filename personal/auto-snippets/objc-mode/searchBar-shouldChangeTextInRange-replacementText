@@ -1,0 +1,5 @@
+#name : searchBar:shouldChangeTextInRange:replacementText
+#group : UISearchBar
+#key : searchBar:shouldChangeTextInRange:replacementText
+# --
+searchBar:${1:(UISearchBar *)searchBar} shouldChangeTextInRange:${2:(NSRange)range} replacementText:${3:(NSString *)text}

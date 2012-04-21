@@ -1,0 +1,5 @@
+#name : indexOfObject
+#group : NSOrderedSet
+#key : indexOfObject
+# --
+indexOfObject:${1:(id)object}

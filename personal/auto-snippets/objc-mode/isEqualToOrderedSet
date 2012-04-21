@@ -1,0 +1,5 @@
+#name : isEqualToOrderedSet
+#group : NSOrderedSet
+#key : isEqualToOrderedSet
+# --
+isEqualToOrderedSet:${1:(NSOrderedSet *)other}

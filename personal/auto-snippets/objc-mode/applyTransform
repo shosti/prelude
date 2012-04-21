@@ -1,0 +1,5 @@
+#name : applyTransform
+#group : UIBezierPath
+#key : applyTransform
+# --
+applyTransform:${1:(CGAffineTransform)transform}

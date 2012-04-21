@@ -1,0 +1,5 @@
+#name : otherVersionsOfItemAtURL
+#group : NSFileVersion
+#key : otherVersionsOfItemAtURL
+# --
+otherVersionsOfItemAtURL:${1:(NSURL *)url}

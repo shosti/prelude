@@ -1,0 +1,5 @@
+#name : insertSections:withRowAnimation
+#group : UITableView
+#key : insertSections:withRowAnimation
+# --
+insertSections:${1:(NSIndexSet *)sections} withRowAnimation:${2:(UITableViewRowAnimation)animation}

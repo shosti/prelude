@@ -1,0 +1,5 @@
+#name : applicationWillResignActive
+#group : UIApplication
+#key : applicationWillResignActive
+# --
+applicationWillResignActive:${1:(UIApplication *)application}

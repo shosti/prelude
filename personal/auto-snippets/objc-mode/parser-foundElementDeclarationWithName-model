@@ -1,0 +1,5 @@
+#name : parser:foundElementDeclarationWithName:model
+#group : NSXMLParser
+#key : parser:foundElementDeclarationWithName:model
+# --
+parser:${1:(NSXMLParser *)parser} foundElementDeclarationWithName:${2:(NSString *)elementName} model:${3:(NSString *)model}

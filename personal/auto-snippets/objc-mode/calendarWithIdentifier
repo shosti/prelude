@@ -1,0 +1,5 @@
+#name : calendarWithIdentifier
+#group : EKEventStore
+#key : calendarWithIdentifier
+# --
+calendarWithIdentifier:${1:(NSString *)identifier}

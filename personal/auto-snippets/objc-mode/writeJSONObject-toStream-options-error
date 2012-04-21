@@ -1,0 +1,5 @@
+#name : writeJSONObject:toStream:options:error
+#group : NSJSONSerialization
+#key : writeJSONObject:toStream:options:error
+# --
+writeJSONObject:${1:(id)obj} toStream:${2:(NSOutputStream *)stream} options:${3:(NSJSONWritingOptions)opt} error:${4:(NSError **)error}

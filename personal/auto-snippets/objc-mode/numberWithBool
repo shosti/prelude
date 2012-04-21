@@ -1,0 +1,5 @@
+#name : numberWithBool
+#group : NSValue
+#key : numberWithBool
+# --
+numberWithBool:${1:(BOOL)value}

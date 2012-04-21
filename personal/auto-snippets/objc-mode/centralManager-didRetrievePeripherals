@@ -1,0 +1,5 @@
+#name : centralManager:didRetrievePeripherals
+#group : CBCentralManager
+#key : centralManager:didRetrievePeripherals
+# --
+centralManager:${1:(CBCentralManager *)central} didRetrievePeripherals:${2:(NSArray *)peripherals}

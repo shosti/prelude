@@ -1,0 +1,5 @@
+#name : setNegativeFormat
+#group : NSNumberFormatter
+#key : setNegativeFormat
+# --
+setNegativeFormat:${1:(NSString *)format}

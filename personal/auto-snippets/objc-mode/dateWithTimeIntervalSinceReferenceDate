@@ -1,0 +1,5 @@
+#name : dateWithTimeIntervalSinceReferenceDate
+#group : NSDate
+#key : dateWithTimeIntervalSinceReferenceDate
+# --
+dateWithTimeIntervalSinceReferenceDate:${1:(NSTimeInterval)secs}

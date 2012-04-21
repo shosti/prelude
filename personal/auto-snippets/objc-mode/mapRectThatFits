@@ -1,0 +1,5 @@
+#name : mapRectThatFits
+#group : MKMapView
+#key : mapRectThatFits
+# --
+mapRectThatFits:${1:(MKMapRect)mapRect}

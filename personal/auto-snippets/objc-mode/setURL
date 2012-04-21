@@ -1,0 +1,5 @@
+#name : setURL
+#group : NSURLRequest
+#key : setURL
+# --
+setURL:${1:(NSURL *)URL}

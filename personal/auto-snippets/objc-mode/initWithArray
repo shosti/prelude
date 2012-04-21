@@ -1,0 +1,5 @@
+#name : initWithArray
+#group : NSSet
+#key : initWithArray
+# --
+initWithArray:${1:(NSArray *)array}

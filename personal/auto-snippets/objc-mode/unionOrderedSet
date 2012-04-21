@@ -1,0 +1,5 @@
+#name : unionOrderedSet
+#group : NSOrderedSet
+#key : unionOrderedSet
+# --
+unionOrderedSet:${1:(NSOrderedSet *)other}

@@ -1,0 +1,5 @@
+#name : italicSystemFontOfSize
+#group : UIFont
+#key : italicSystemFontOfSize
+# --
+italicSystemFontOfSize:${1:(CGFloat)fontSize}

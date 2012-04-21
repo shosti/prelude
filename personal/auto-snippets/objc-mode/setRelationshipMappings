@@ -1,0 +1,5 @@
+#name : setRelationshipMappings
+#group : NSEntityMapping
+#key : setRelationshipMappings
+# --
+setRelationshipMappings:${1:(NSArray *)mappings}

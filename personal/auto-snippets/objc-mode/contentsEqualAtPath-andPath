@@ -1,0 +1,5 @@
+#name : contentsEqualAtPath:andPath
+#group : NSFileManager
+#key : contentsEqualAtPath:andPath
+# --
+contentsEqualAtPath:${1:(NSString *)path1} andPath:${2:(NSString *)path2}

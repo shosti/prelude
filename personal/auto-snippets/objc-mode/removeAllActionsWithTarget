@@ -1,0 +1,5 @@
+#name : removeAllActionsWithTarget
+#group : NSUndoManager
+#key : removeAllActionsWithTarget
+# --
+removeAllActionsWithTarget:${1:(id)target}

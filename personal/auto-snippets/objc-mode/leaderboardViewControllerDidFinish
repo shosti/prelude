@@ -1,0 +1,5 @@
+#name : leaderboardViewControllerDidFinish
+#group : GKLeaderboardViewController
+#key : leaderboardViewControllerDidFinish
+# --
+leaderboardViewControllerDidFinish:${1:(GKLeaderboardViewController *)viewController}

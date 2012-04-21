@@ -1,0 +1,5 @@
+#name : localeIdentifierFromComponents
+#group : NSLocale
+#key : localeIdentifierFromComponents
+# --
+localeIdentifierFromComponents:${1:(NSDictionary *)dict}

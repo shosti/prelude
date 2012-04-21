@@ -1,0 +1,5 @@
+#name : URL:resourceDataDidBecomeAvailable
+#group : NSURL
+#key : URL:resourceDataDidBecomeAvailable
+# --
+URL:${1:(NSURL *)sender} resourceDataDidBecomeAvailable:${2:(NSData *)newBytes}

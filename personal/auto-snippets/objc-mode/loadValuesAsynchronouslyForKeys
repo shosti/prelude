@@ -1,0 +1,5 @@
+#name : loadValuesAsynchronouslyForKeys
+#group : AVMetadataItem
+#key : loadValuesAsynchronouslyForKeys
+# --
+loadValuesAsynchronouslyForKeys:${1:(NSArray *)keys}

@@ -1,0 +1,5 @@
+#name : animationForKey
+#group : CALayer
+#key : animationForKey
+# --
+animationForKey:${1:(NSString *)key}

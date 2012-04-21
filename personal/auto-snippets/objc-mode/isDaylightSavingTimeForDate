@@ -1,0 +1,5 @@
+#name : isDaylightSavingTimeForDate
+#group : NSTimeZone
+#key : isDaylightSavingTimeForDate
+# --
+isDaylightSavingTimeForDate:${1:(NSDate *)aDate}

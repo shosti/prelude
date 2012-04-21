@@ -1,0 +1,5 @@
+#name : interstitialAdDidUnload
+#group : ADInterstitialAd
+#key : interstitialAdDidUnload
+# --
+interstitialAdDidUnload:${1:(ADInterstitialAd *)interstitialAd}

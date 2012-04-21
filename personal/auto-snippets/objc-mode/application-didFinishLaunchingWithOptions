@@ -1,0 +1,5 @@
+#name : application:didFinishLaunchingWithOptions
+#group : UIApplication
+#key : application:didFinishLaunchingWithOptions
+# --
+application:${1:(UIApplication *)application} didFinishLaunchingWithOptions:${2:(NSDictionary *)launchOptions}

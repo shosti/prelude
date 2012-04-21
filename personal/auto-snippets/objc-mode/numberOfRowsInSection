@@ -1,0 +1,5 @@
+#name : numberOfRowsInSection
+#group : UITableView
+#key : numberOfRowsInSection
+# --
+numberOfRowsInSection:${1:(NSInteger)section}

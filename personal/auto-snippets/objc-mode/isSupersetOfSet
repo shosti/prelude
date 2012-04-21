@@ -1,0 +1,5 @@
+#name : isSupersetOfSet
+#group : NSCharacterSet
+#key : isSupersetOfSet
+# --
+isSupersetOfSet:${1:(NSCharacterSet *)theOtherSet}

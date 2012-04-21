@@ -1,0 +1,5 @@
+#name : initWithObjects
+#group : NSSet
+#key : initWithObjects
+# --
+initWithObjects:${1:(id)firstObj}

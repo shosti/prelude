@@ -1,0 +1,5 @@
+#name : setMinute
+#group : NSCalendar
+#key : setMinute
+# --
+setMinute:${1:(NSInteger)v}

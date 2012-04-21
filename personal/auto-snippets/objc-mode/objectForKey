@@ -1,0 +1,5 @@
+#name : objectForKey
+#group : NSUserDefaults
+#key : objectForKey
+# --
+objectForKey:${1:(NSString *)defaultName}

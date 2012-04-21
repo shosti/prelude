@@ -1,0 +1,5 @@
+#name : audioRecorderEndInterruption:withFlags
+#group : AVAudioRecorder
+#key : audioRecorderEndInterruption:withFlags
+# --
+audioRecorderEndInterruption:${1:(AVAudioRecorder *)recorder} withFlags:${2:(NSUInteger)flags}

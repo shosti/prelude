@@ -1,0 +1,5 @@
+#name : fileExistsAtPath
+#group : NSFileManager
+#key : fileExistsAtPath
+# --
+fileExistsAtPath:${1:(NSString *)path}

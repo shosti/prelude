@@ -1,0 +1,5 @@
+#name : characterRangeAtPoint
+#group : UITextInput
+#key : characterRangeAtPoint
+# --
+characterRangeAtPoint:${1:(CGPoint)point}

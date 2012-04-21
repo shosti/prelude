@@ -1,0 +1,5 @@
+#name : initSymbolicLinkWithDestinationURL
+#group : NSFileWrapper
+#key : initSymbolicLinkWithDestinationURL
+# --
+initSymbolicLinkWithDestinationURL:${1:(NSURL *)url}

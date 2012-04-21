@@ -1,0 +1,5 @@
+#name : setValue:forHTTPHeaderField
+#group : NSURLRequest
+#key : setValue:forHTTPHeaderField
+# --
+setValue:${1:(NSString *)value} forHTTPHeaderField:${2:(NSString *)field}

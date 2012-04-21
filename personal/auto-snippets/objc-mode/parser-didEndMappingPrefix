@@ -1,0 +1,5 @@
+#name : parser:didEndMappingPrefix
+#group : NSXMLParser
+#key : parser:didEndMappingPrefix
+# --
+parser:${1:(NSXMLParser *)parser} didEndMappingPrefix:${2:(NSString *)prefix}

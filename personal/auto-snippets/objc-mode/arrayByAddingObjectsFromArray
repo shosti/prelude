@@ -1,0 +1,5 @@
+#name : arrayByAddingObjectsFromArray
+#group : NSArray
+#key : arrayByAddingObjectsFromArray
+# --
+arrayByAddingObjectsFromArray:${1:(NSArray *)otherArray}

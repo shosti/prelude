@@ -1,0 +1,5 @@
+#name : seekToDate
+#group : AVPlayerItem
+#key : seekToDate
+# --
+seekToDate:${1:(NSDate *)date}

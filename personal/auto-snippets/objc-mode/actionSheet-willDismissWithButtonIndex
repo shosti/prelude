@@ -1,0 +1,5 @@
+#name : actionSheet:willDismissWithButtonIndex
+#group : UIActionSheet
+#key : actionSheet:willDismissWithButtonIndex
+# --
+actionSheet:${1:(UIActionSheet *)actionSheet} willDismissWithButtonIndex:${2:(NSInteger)buttonIndex}

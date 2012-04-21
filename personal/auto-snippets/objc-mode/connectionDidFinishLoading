@@ -1,0 +1,5 @@
+#name : connectionDidFinishLoading
+#group : NSURLConnection
+#key : connectionDidFinishLoading
+# --
+connectionDidFinishLoading:${1:(NSURLConnection *)connection}

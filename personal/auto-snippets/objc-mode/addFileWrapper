@@ -1,0 +1,5 @@
+#name : addFileWrapper
+#group : NSFileWrapper
+#key : addFileWrapper
+# --
+addFileWrapper:${1:(NSFileWrapper *)child}

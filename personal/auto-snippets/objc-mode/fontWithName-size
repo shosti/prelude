@@ -1,0 +1,5 @@
+#name : fontWithName:size
+#group : UIFont
+#key : fontWithName:size
+# --
+fontWithName:${1:(NSString *)fontName} size:${2:(CGFloat)fontSize}

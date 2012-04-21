@@ -1,0 +1,5 @@
+#name : calendarWithEventStore
+#group : EKCalendar
+#key : calendarWithEventStore
+# --
+calendarWithEventStore:${1:(EKEventStore *)eventStore}

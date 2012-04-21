@@ -1,0 +1,5 @@
+#name : URLProtocol:didReceiveResponse:cacheStoragePolicy
+#group : NSURLProtocol
+#key : URLProtocol:didReceiveResponse:cacheStoragePolicy
+# --
+URLProtocol:${1:(NSURLProtocol *)protocol} didReceiveResponse:${2:(NSURLResponse *)response} cacheStoragePolicy:${3:(NSURLCacheStoragePolicy)policy}

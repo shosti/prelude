@@ -1,0 +1,5 @@
+#name : eventsMatchingPredicate
+#group : EKEventStore
+#key : eventsMatchingPredicate
+# --
+eventsMatchingPredicate:${1:(NSPredicate *)predicate}

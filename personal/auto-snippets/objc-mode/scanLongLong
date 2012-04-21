@@ -1,0 +1,5 @@
+#name : scanLongLong
+#group : NSScanner
+#key : scanLongLong
+# --
+scanLongLong:${1:(long long *)value}

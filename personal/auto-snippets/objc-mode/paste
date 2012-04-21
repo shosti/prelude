@@ -1,0 +1,5 @@
+#name : paste
+#group : UIResponder
+#key : paste
+# --
+paste:${1:(id)sender}

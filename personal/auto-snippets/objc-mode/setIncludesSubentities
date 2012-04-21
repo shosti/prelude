@@ -1,0 +1,5 @@
+#name : setIncludesSubentities
+#group : NSFetchRequest
+#key : setIncludesSubentities
+# --
+setIncludesSubentities:${1:(BOOL)yesNo}

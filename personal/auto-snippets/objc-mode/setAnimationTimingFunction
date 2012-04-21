@@ -1,0 +1,5 @@
+#name : setAnimationTimingFunction
+#group : CATransaction
+#key : setAnimationTimingFunction
+# --
+setAnimationTimingFunction:${1:(CAMediaTimingFunction *)function}

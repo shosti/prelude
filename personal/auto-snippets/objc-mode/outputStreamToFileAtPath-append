@@ -1,0 +1,5 @@
+#name : outputStreamToFileAtPath:append
+#group : NSStream
+#key : outputStreamToFileAtPath:append
+# --
+outputStreamToFileAtPath:${1:(NSString *)path} append:${2:(BOOL)shouldAppend}

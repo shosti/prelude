@@ -1,0 +1,5 @@
+#name : setRetainsRegisteredObjects
+#group : NSManagedObjectContext
+#key : setRetainsRegisteredObjects
+# --
+setRetainsRegisteredObjects:${1:(BOOL)flag}

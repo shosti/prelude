@@ -1,0 +1,5 @@
+#name : presentRenderbuffer
+#group : EAGLDrawable
+#key : presentRenderbuffer
+# --
+presentRenderbuffer:${1:(NSUInteger)target}

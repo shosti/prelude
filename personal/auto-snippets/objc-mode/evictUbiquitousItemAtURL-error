@@ -1,0 +1,5 @@
+#name : evictUbiquitousItemAtURL:error
+#group : NSFileManager
+#key : evictUbiquitousItemAtURL:error
+# --
+evictUbiquitousItemAtURL:${1:(NSURL *)url} error:${2:(NSError **)error}

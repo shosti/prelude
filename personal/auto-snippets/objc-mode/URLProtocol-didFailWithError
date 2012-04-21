@@ -1,0 +1,5 @@
+#name : URLProtocol:didFailWithError
+#group : NSURLProtocol
+#key : URLProtocol:didFailWithError
+# --
+URLProtocol:${1:(NSURLProtocol *)protocol} didFailWithError:${2:(NSError *)error}

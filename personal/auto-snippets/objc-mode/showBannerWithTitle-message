@@ -1,0 +1,5 @@
+#name : showBannerWithTitle:message
+#group : GKNotificationBanner
+#key : showBannerWithTitle:message
+# --
+showBannerWithTitle:${1:(NSString *)title} message:${2:(NSString *)message}

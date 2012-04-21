@@ -1,0 +1,5 @@
+#name : encodeCGRect:forKey
+#group : UIGeometry
+#key : encodeCGRect:forKey
+# --
+encodeCGRect:${1:(CGRect)rect} forKey:${2:(NSString *)key}

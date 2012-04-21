@@ -1,0 +1,5 @@
+#name : initWithTagSchemes:options
+#group : NSLinguisticTagger
+#key : initWithTagSchemes:options
+# --
+initWithTagSchemes:${1:(NSArray *)tagSchemes} options:${2:(NSUInteger)opts}

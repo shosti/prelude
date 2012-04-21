@@ -1,0 +1,5 @@
+#name : removeObserver
+#group : NSNotification
+#key : removeObserver
+# --
+removeObserver:${1:(id)observer}

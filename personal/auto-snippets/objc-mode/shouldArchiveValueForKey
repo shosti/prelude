@@ -1,0 +1,5 @@
+#name : shouldArchiveValueForKey
+#group : CALayer
+#key : shouldArchiveValueForKey
+# --
+shouldArchiveValueForKey:${1:(NSString *)key}

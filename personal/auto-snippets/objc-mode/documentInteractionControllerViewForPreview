@@ -1,0 +1,5 @@
+#name : documentInteractionControllerViewForPreview
+#group : UIDocumentInteractionController
+#key : documentInteractionControllerViewForPreview
+# --
+documentInteractionControllerViewForPreview:${1:(UIDocumentInteractionController *)controller}

@@ -1,0 +1,5 @@
+#name : setMultiplier
+#group : NSNumberFormatter
+#key : setMultiplier
+# --
+setMultiplier:${1:(NSNumber *)number}

@@ -1,0 +1,5 @@
+#name : initWithCGImage
+#group : UIImage
+#key : initWithCGImage
+# --
+initWithCGImage:${1:(CGImageRef)cgImage}

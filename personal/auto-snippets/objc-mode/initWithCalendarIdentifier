@@ -1,0 +1,5 @@
+#name : initWithCalendarIdentifier
+#group : NSCalendar
+#key : initWithCalendarIdentifier
+# --
+initWithCalendarIdentifier:${1:(NSString *)ident}

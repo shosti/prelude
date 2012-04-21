@@ -1,0 +1,5 @@
+#name : textFieldAtIndex
+#group : UIAlertView
+#key : textFieldAtIndex
+# --
+textFieldAtIndex:${1:(NSInteger)textFieldIndex}

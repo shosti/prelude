@@ -1,0 +1,5 @@
+#name : setMaximumIntegerDigits
+#group : NSNumberFormatter
+#key : setMaximumIntegerDigits
+# --
+setMaximumIntegerDigits:${1:(NSUInteger)number}

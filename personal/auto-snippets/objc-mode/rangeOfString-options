@@ -1,0 +1,5 @@
+#name : rangeOfString:options
+#group : NSString
+#key : rangeOfString:options
+# --
+rangeOfString:${1:(NSString *)aString} options:${2:(NSStringCompareOptions)mask}

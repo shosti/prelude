@@ -1,0 +1,5 @@
+#name : notificationWithName:object:userInfo
+#group : NSNotification
+#key : notificationWithName:object:userInfo
+# --
+notificationWithName:${1:(NSString *)aName} object:${2:(id)anObject} userInfo:${3:(NSDictionary *)aUserInfo}

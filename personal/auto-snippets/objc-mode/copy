@@ -1,0 +1,5 @@
+#name : copy
+#group : UIResponder
+#key : copy
+# --
+copy:${1:(id)sender}

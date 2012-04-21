@@ -1,0 +1,5 @@
+#name : tableView:heightForFooterInSection
+#group : UITableView
+#key : tableView:heightForFooterInSection
+# --
+tableView:${1:(UITableView *)tableView} heightForFooterInSection:${2:(NSInteger)section}

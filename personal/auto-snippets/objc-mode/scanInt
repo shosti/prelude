@@ -1,0 +1,5 @@
+#name : scanInt
+#group : NSScanner
+#key : scanInt
+# --
+scanInt:${1:(int *)value}

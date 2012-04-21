@@ -1,0 +1,5 @@
+#name : setVeryShortStandaloneWeekdaySymbols
+#group : NSDateFormatter
+#key : setVeryShortStandaloneWeekdaySymbols
+# --
+setVeryShortStandaloneWeekdaySymbols:${1:(NSArray *)array}

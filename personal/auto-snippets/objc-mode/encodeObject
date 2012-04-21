@@ -1,0 +1,5 @@
+#name : encodeObject
+#group : NSCoder
+#key : encodeObject
+# --
+encodeObject:${1:(id)object}

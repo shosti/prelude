@@ -1,0 +1,5 @@
+#name : locationManager:didChangeAuthorizationStatus
+#group : CLLocationManagerDelegate
+#key : locationManager:didChangeAuthorizationStatus
+# --
+locationManager:${1:(CLLocationManager *)manager} didChangeAuthorizationStatus:${2:(CLAuthorizationStatus)status}

@@ -1,0 +1,5 @@
+#name : initWithSession
+#group : AVCaptureVideoPreviewLayer
+#key : initWithSession
+# --
+initWithSession:${1:(AVCaptureSession *)session}

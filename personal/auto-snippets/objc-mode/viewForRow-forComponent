@@ -1,0 +1,5 @@
+#name : viewForRow:forComponent
+#group : UIPickerView
+#key : viewForRow:forComponent
+# --
+viewForRow:${1:(NSInteger)row} forComponent:${2:(NSInteger)component}

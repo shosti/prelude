@@ -1,0 +1,5 @@
+#name : encodeCGSize:forKey
+#group : UIGeometry
+#key : encodeCGSize:forKey
+# --
+encodeCGSize:${1:(CGSize)size} forKey:${2:(NSString *)key}

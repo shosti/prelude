@@ -1,0 +1,5 @@
+#name : decodeCMTimeRangeForKey
+#group : AVTime
+#key : decodeCMTimeRangeForKey
+# --
+decodeCMTimeRangeForKey:${1:(NSString *)key}

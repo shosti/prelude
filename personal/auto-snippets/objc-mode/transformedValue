@@ -1,0 +1,5 @@
+#name : transformedValue
+#group : NSValueTransformer
+#key : transformedValue
+# --
+transformedValue:${1:(id)value}

@@ -1,0 +1,5 @@
+#name : documentInteractionControllerWillBeginPreview
+#group : UIDocumentInteractionController
+#key : documentInteractionControllerWillBeginPreview
+# --
+documentInteractionControllerWillBeginPreview:${1:(UIDocumentInteractionController *)controller}

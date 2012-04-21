@@ -1,0 +1,5 @@
+#name : rangeOfData:options:range
+#group : NSData
+#key : rangeOfData:options:range
+# --
+rangeOfData:${1:(NSData *)dataToFind} options:${2:(NSDataSearchOptions)mask} range:${3:(NSRange)searchRange}

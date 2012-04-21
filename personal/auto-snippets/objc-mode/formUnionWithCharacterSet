@@ -1,0 +1,5 @@
+#name : formUnionWithCharacterSet
+#group : NSCharacterSet
+#key : formUnionWithCharacterSet
+# --
+formUnionWithCharacterSet:${1:(NSCharacterSet *)otherSet}

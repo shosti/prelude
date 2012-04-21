@@ -1,0 +1,5 @@
+#name : storyboardWithName:bundle
+#group : UIStoryboard
+#key : storyboardWithName:bundle
+# --
+storyboardWithName:${1:(NSString *)name} bundle:${2:(NSBundle *)storyboardBundleOrNil}

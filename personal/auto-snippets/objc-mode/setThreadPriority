@@ -1,0 +1,5 @@
+#name : setThreadPriority
+#group : NSThread
+#key : setThreadPriority
+# --
+setThreadPriority:${1:(double)p}

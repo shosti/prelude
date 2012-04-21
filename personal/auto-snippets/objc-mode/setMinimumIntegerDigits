@@ -1,0 +1,5 @@
+#name : setMinimumIntegerDigits
+#group : NSNumberFormatter
+#key : setMinimumIntegerDigits
+# --
+setMinimumIntegerDigits:${1:(NSUInteger)number}

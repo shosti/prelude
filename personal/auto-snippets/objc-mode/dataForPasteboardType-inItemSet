@@ -1,0 +1,5 @@
+#name : dataForPasteboardType:inItemSet
+#group : UIPasteboard
+#key : dataForPasteboardType:inItemSet
+# --
+dataForPasteboardType:${1:(NSString *)pasteboardType} inItemSet:${2:(NSIndexSet *)itemSet}

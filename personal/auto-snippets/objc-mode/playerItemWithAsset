@@ -1,0 +1,5 @@
+#name : playerItemWithAsset
+#group : AVPlayerItem
+#key : playerItemWithAsset
+# --
+playerItemWithAsset:${1:(AVAsset *)asset}

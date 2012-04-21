@@ -1,0 +1,5 @@
+#name : setNotificationBatchingInterval
+#group : NSMetadata
+#key : setNotificationBatchingInterval
+# --
+setNotificationBatchingInterval:${1:(NSTimeInterval)ti}

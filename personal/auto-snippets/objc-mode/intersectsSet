@@ -1,0 +1,5 @@
+#name : intersectsSet
+#group : NSSet
+#key : intersectsSet
+# --
+intersectsSet:${1:(NSSet *)otherSet}

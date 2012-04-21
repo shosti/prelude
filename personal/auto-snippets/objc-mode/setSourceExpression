@@ -1,0 +1,5 @@
+#name : setSourceExpression
+#group : NSEntityMapping
+#key : setSourceExpression
+# --
+setSourceExpression:${1:(NSExpression *)source}

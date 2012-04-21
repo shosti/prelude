@@ -1,0 +1,5 @@
+#name : URLProtocol:cachedResponseIsValid
+#group : NSURLProtocol
+#key : URLProtocol:cachedResponseIsValid
+# --
+URLProtocol:${1:(NSURLProtocol *)protocol} cachedResponseIsValid:${2:(NSCachedURLResponse *)cachedResponse}

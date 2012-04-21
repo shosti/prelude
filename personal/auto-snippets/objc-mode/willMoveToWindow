@@ -1,0 +1,5 @@
+#name : willMoveToWindow
+#group : UIView
+#key : willMoveToWindow
+# --
+willMoveToWindow:${1:(UIWindow *)newWindow}

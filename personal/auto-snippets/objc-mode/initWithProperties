@@ -1,0 +1,5 @@
+#name : initWithProperties
+#group : NSHTTPCookie
+#key : initWithProperties
+# --
+initWithProperties:${1:(NSDictionary *)properties}

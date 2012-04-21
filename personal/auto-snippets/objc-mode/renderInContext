@@ -1,0 +1,5 @@
+#name : renderInContext
+#group : CALayer
+#key : renderInContext
+# --
+renderInContext:${1:(CGContextRef)ctx}

@@ -1,0 +1,5 @@
+#name : fileManager:shouldRemoveItemAtPath
+#group : NSFileManager
+#key : fileManager:shouldRemoveItemAtPath
+# --
+fileManager:${1:(NSFileManager *)fileManager} shouldRemoveItemAtPath:${2:(NSString *)path}

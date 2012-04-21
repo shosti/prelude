@@ -1,0 +1,5 @@
+#name : initWithLongLong
+#group : NSValue
+#key : initWithLongLong
+# --
+initWithLongLong:${1:(long long)value}

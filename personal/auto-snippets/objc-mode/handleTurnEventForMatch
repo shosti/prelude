@@ -1,0 +1,5 @@
+#name : handleTurnEventForMatch
+#group : GKTurnBasedMatch
+#key : handleTurnEventForMatch
+# --
+handleTurnEventForMatch:${1:(GKTurnBasedMatch *)match}

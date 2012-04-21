@@ -1,0 +1,5 @@
+#name : newPersonViewController:didCompleteWithNewPerson
+#group : ABNewPersonViewController
+#key : newPersonViewController:didCompleteWithNewPerson
+# --
+newPersonViewController:${1:(ABNewPersonViewController *)newPersonView} didCompleteWithNewPerson:${2:(ABRecordRef)person}

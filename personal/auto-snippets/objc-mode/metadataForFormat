@@ -1,0 +1,5 @@
+#name : metadataForFormat
+#group : AVMediaSelectionGroup
+#key : metadataForFormat
+# --
+metadataForFormat:${1:(NSString *)format}

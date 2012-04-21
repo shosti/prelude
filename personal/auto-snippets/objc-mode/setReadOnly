@@ -1,0 +1,5 @@
+#name : setReadOnly
+#group : NSPersistentStore
+#key : setReadOnly
+# --
+setReadOnly:${1:(BOOL)flag}

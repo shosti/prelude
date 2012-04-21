@@ -1,0 +1,5 @@
+#name : numberOfSectionsInTableView
+#group : UITableView
+#key : numberOfSectionsInTableView
+# --
+numberOfSectionsInTableView:${1:(UITableView *)tableView}

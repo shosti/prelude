@@ -1,0 +1,5 @@
+#name : keysSortedByValueUsingSelector
+#group : NSDictionary
+#key : keysSortedByValueUsingSelector
+# --
+keysSortedByValueUsingSelector:${1:(SEL)comparator}

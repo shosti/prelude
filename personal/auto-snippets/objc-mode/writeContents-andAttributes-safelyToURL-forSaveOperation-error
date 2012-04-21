@@ -1,0 +1,5 @@
+#name : writeContents:andAttributes:safelyToURL:forSaveOperation:error
+#group : UIDocument
+#key : writeContents:andAttributes:safelyToURL:forSaveOperation:error
+# --
+writeContents:${1:(id)contents} andAttributes:${2:(NSDictionary *)additionalFileAttributes} safelyToURL:${3:(NSURL *)url} forSaveOperation:${4:(UIDocumentSaveOperation)saveOperation} error:${5:(NSError **)outError}

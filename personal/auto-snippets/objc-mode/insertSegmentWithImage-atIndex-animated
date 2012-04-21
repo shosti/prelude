@@ -1,0 +1,5 @@
+#name : insertSegmentWithImage:atIndex:animated
+#group : UISegmentedControl
+#key : insertSegmentWithImage:atIndex:animated
+# --
+insertSegmentWithImage:${1:(UIImage *)image} atIndex:${2:(NSUInteger)segment} animated:${3:(BOOL)animated}

@@ -1,0 +1,5 @@
+#name : circleWithMapRect
+#group : MKCircle
+#key : circleWithMapRect
+# --
+circleWithMapRect:${1:(MKMapRect)mapRect}

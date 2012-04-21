@@ -1,0 +1,5 @@
+#name : tableView:viewForFooterInSection
+#group : UITableView
+#key : tableView:viewForFooterInSection
+# --
+tableView:${1:(UITableView *)tableView} viewForFooterInSection:${2:(NSInteger)section}

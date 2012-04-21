@@ -1,0 +1,5 @@
+#name : spellCheckingResultWithRange
+#group : NSTextCheckingResult
+#key : spellCheckingResultWithRange
+# --
+spellCheckingResultWithRange:${1:(NSRange)range}

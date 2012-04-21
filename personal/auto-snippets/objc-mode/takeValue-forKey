@@ -1,0 +1,5 @@
+#name : takeValue:forKey
+#group : NSKeyValueCoding
+#key : takeValue:forKey
+# --
+takeValue:${1:(id)value} forKey:${2:(NSString *)key}

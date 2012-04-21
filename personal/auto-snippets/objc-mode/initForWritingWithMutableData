@@ -1,0 +1,5 @@
+#name : initForWritingWithMutableData
+#group : NSKeyedArchiver
+#key : initForWritingWithMutableData
+# --
+initForWritingWithMutableData:${1:(NSMutableData *)data}

@@ -1,0 +1,5 @@
+#name : parser:foundInternalEntityDeclarationWithName:value
+#group : NSXMLParser
+#key : parser:foundInternalEntityDeclarationWithName:value
+# --
+parser:${1:(NSXMLParser *)parser} foundInternalEntityDeclarationWithName:${2:(NSString *)name} value:${3:(NSString *)value}

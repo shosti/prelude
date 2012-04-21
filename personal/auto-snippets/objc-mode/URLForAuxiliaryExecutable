@@ -1,0 +1,5 @@
+#name : URLForAuxiliaryExecutable
+#group : NSBundle
+#key : URLForAuxiliaryExecutable
+# --
+URLForAuxiliaryExecutable:${1:(NSString *)executableName}

@@ -1,0 +1,5 @@
+#name : buttonWithType
+#group : UIButton
+#key : buttonWithType
+# --
+buttonWithType:${1:(UIButtonType)buttonType}

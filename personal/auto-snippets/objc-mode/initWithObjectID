@@ -1,0 +1,5 @@
+#name : initWithObjectID
+#group : NSAtomicStoreCacheNode
+#key : initWithObjectID
+# --
+initWithObjectID:${1:(NSManagedObjectID *)moid}

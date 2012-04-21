@@ -1,0 +1,5 @@
+#name : audioPlayerDidFinishPlaying:successfully
+#group : AVAudioPlayer
+#key : audioPlayerDidFinishPlaying:successfully
+# --
+audioPlayerDidFinishPlaying:${1:(AVAudioPlayer *)player} successfully:${2:(BOOL)flag}

@@ -1,0 +1,5 @@
+#name : setFormat
+#group : NSNumberFormatter
+#key : setFormat
+# --
+setFormat:${1:(NSString *)string}

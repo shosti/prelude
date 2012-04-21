@@ -1,0 +1,5 @@
+#name : setReturnsDistinctResults
+#group : NSFetchRequest
+#key : setReturnsDistinctResults
+# --
+setReturnsDistinctResults:${1:(BOOL)flag}

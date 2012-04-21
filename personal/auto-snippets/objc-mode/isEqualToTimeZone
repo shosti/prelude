@@ -1,0 +1,5 @@
+#name : isEqualToTimeZone
+#group : NSTimeZone
+#key : isEqualToTimeZone
+# --
+isEqualToTimeZone:${1:(NSTimeZone *)aTimeZone}

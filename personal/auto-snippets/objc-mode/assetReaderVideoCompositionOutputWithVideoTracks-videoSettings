@@ -1,0 +1,5 @@
+#name : assetReaderVideoCompositionOutputWithVideoTracks:videoSettings
+#group : AVAssetReaderOutput
+#key : assetReaderVideoCompositionOutputWithVideoTracks:videoSettings
+# --
+assetReaderVideoCompositionOutputWithVideoTracks:${1:(NSArray *)videoTracks} videoSettings:${2:(NSDictionary *)videoSettings}

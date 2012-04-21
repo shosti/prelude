@@ -1,0 +1,5 @@
+#name : awakeFromSnapshotEvents
+#group : NSManagedObject
+#key : awakeFromSnapshotEvents
+# --
+awakeFromSnapshotEvents:${1:(NSSnapshotEventType)flags}

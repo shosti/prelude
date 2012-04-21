@@ -1,0 +1,5 @@
+#name : removeIndexesInRange
+#group : NSIndexSet
+#key : removeIndexesInRange
+# --
+removeIndexesInRange:${1:(NSRange)range}

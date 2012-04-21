@@ -1,0 +1,5 @@
+#name : encodeConditionalObject
+#group : NSCoder
+#key : encodeConditionalObject
+# --
+encodeConditionalObject:${1:(id)object}

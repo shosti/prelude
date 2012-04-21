@@ -1,0 +1,5 @@
+#name : scanUpToString:intoString
+#group : NSScanner
+#key : scanUpToString:intoString
+# --
+scanUpToString:${1:(NSString *)string} intoString:${2:(NSString **)value}

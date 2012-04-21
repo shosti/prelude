@@ -1,0 +1,5 @@
+#name : localizedReferenceDocumentationForFilterName
+#group : CIFilter
+#key : localizedReferenceDocumentationForFilterName
+# --
+localizedReferenceDocumentationForFilterName:${1:(NSString *)filterName}

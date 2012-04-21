@@ -1,0 +1,5 @@
+#name : portWithMachPort:options
+#group : NSPort
+#key : portWithMachPort:options
+# --
+portWithMachPort:${1:(uint32_t)machPort} options:${2:(NSUInteger)f}

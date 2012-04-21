@@ -1,0 +1,5 @@
+#name : fileManager:shouldCopyItemAtURL:toURL
+#group : NSFileManager
+#key : fileManager:shouldCopyItemAtURL:toURL
+# --
+fileManager:${1:(NSFileManager *)fileManager} shouldCopyItemAtURL:${2:(NSURL *)srcURL} toURL:${3:(NSURL *)dstURL}

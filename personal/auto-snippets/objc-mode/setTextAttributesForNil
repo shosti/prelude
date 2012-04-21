@@ -1,0 +1,5 @@
+#name : setTextAttributesForNil
+#group : NSNumberFormatter
+#key : setTextAttributesForNil
+# --
+setTextAttributesForNil:${1:(NSDictionary *)newAttributes}

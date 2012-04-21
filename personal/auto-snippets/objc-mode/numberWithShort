@@ -1,0 +1,5 @@
+#name : numberWithShort
+#group : NSValue
+#key : numberWithShort
+# --
+numberWithShort:${1:(short)value}

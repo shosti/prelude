@@ -1,0 +1,5 @@
+#name : setValidationPredicates:withValidationWarnings
+#group : NSPropertyDescription
+#key : setValidationPredicates:withValidationWarnings
+# --
+setValidationPredicates:${1:(NSArray *)validationPredicates} withValidationWarnings:${2:(NSArray *)validationWarnings}

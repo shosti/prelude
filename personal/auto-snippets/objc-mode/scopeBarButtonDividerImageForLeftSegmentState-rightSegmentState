@@ -1,0 +1,5 @@
+#name : scopeBarButtonDividerImageForLeftSegmentState:rightSegmentState
+#group : UISearchBar
+#key : scopeBarButtonDividerImageForLeftSegmentState:rightSegmentState
+# --
+scopeBarButtonDividerImageForLeftSegmentState:${1:(UIControlState)leftState} rightSegmentState:${2:(UIControlState)rightState}

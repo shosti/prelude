@@ -1,0 +1,5 @@
+#name : daylightSavingTimeOffsetForDate
+#group : NSTimeZone
+#key : daylightSavingTimeOffsetForDate
+# --
+daylightSavingTimeOffsetForDate:${1:(NSDate *)aDate}

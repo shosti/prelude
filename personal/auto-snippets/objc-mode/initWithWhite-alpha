@@ -1,0 +1,5 @@
+#name : initWithWhite:alpha
+#group : UIColor
+#key : initWithWhite:alpha
+# --
+initWithWhite:${1:(CGFloat)white} alpha:${2:(CGFloat)alpha}

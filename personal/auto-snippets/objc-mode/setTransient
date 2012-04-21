@@ -1,0 +1,5 @@
+#name : setTransient
+#group : NSPropertyDescription
+#key : setTransient
+# --
+setTransient:${1:(BOOL)flag}

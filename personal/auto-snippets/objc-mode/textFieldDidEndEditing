@@ -1,0 +1,5 @@
+#name : textFieldDidEndEditing
+#group : UITextField
+#key : textFieldDidEndEditing
+# --
+textFieldDidEndEditing:${1:(UITextField *)textField}

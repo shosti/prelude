@@ -1,0 +1,5 @@
+#name : exceptionWithName:reason:userInfo
+#group : NSException
+#key : exceptionWithName:reason:userInfo
+# --
+exceptionWithName:${1:(NSString *)name} reason:${2:(NSString *)reason} userInfo:${3:(NSDictionary *)userInfo}

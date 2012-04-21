@@ -1,0 +1,5 @@
+#name : containsIndexesInRange
+#group : NSIndexSet
+#key : containsIndexesInRange
+# --
+containsIndexesInRange:${1:(NSRange)range}

@@ -1,0 +1,5 @@
+#name : drawAtPoint:withFont
+#group : UIStringDrawing
+#key : drawAtPoint:withFont
+# --
+drawAtPoint:${1:(CGPoint)point} withFont:${2:(UIFont *)font}

@@ -1,0 +1,5 @@
+#name : setNetworkServiceType
+#group : NSURLRequest
+#key : setNetworkServiceType
+# --
+setNetworkServiceType:${1:(NSURLRequestNetworkServiceType)networkServiceType}

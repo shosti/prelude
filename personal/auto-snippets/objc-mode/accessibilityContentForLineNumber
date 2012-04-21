@@ -1,0 +1,5 @@
+#name : accessibilityContentForLineNumber
+#group : UIAccessibility
+#key : accessibilityContentForLineNumber
+# --
+accessibilityContentForLineNumber:${1:(NSInteger)lineNumber}

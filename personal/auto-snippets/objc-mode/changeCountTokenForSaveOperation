@@ -1,0 +1,5 @@
+#name : changeCountTokenForSaveOperation
+#group : UIDocument
+#key : changeCountTokenForSaveOperation
+# --
+changeCountTokenForSaveOperation:${1:(UIDocumentSaveOperation)saveOperation}

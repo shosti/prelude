@@ -1,0 +1,5 @@
+#name : readDataOfLength
+#group : NSFileHandle
+#key : readDataOfLength
+# --
+readDataOfLength:${1:(NSUInteger)length}

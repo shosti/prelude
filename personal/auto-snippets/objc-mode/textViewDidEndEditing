@@ -1,0 +1,5 @@
+#name : textViewDidEndEditing
+#group : UITextView
+#key : textViewDidEndEditing
+# --
+textViewDidEndEditing:${1:(UITextView *)textView}

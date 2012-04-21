@@ -1,0 +1,5 @@
+#name : canAddInput
+#group : AVCaptureSession
+#key : canAddInput
+# --
+canAddInput:${1:(AVCaptureInput *)input}

@@ -1,0 +1,5 @@
+#name : resizableImageWithCapInsets
+#group : UIImage
+#key : resizableImageWithCapInsets
+# --
+resizableImageWithCapInsets:${1:(UIEdgeInsets)capInsets}

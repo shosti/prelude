@@ -1,0 +1,5 @@
+#name : setStatusBarHidden:animated
+#group : UIApplication
+#key : setStatusBarHidden:animated
+# --
+setStatusBarHidden:${1:(BOOL)hidden} animated:${2:(BOOL)animated}

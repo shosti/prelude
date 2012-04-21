@@ -1,0 +1,5 @@
+#name : bundleWithIdentifier
+#group : NSBundle
+#key : bundleWithIdentifier
+# --
+bundleWithIdentifier:${1:(NSString *)identifier}

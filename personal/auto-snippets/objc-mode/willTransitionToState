@@ -1,0 +1,5 @@
+#name : willTransitionToState
+#group : UITableViewCell
+#key : willTransitionToState
+# --
+willTransitionToState:${1:(UITableViewCellStateMask)state}

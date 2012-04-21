@@ -1,0 +1,5 @@
+#name : loadData:MIMEType:textEncodingName:baseURL
+#group : UIWebView
+#key : loadData:MIMEType:textEncodingName:baseURL
+# --
+loadData:${1:(NSData *)data} MIMEType:${2:(NSString *)MIMEType} textEncodingName:${3:(NSString *)textEncodingName} baseURL:${4:(NSURL *)baseURL}

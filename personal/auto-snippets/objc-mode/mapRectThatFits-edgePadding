@@ -1,0 +1,5 @@
+#name : mapRectThatFits:edgePadding
+#group : MKMapView
+#key : mapRectThatFits:edgePadding
+# --
+mapRectThatFits:${1:(MKMapRect)mapRect} edgePadding:${2:(UIEdgeInsets)insets}

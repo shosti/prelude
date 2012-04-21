@@ -1,0 +1,5 @@
+#name : mapViewDidFinishLoadingMap
+#group : MKMapView
+#key : mapViewDidFinishLoadingMap
+# --
+mapViewDidFinishLoadingMap:${1:(MKMapView *)mapView}

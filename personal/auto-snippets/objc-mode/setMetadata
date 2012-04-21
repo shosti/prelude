@@ -1,0 +1,5 @@
+#name : setMetadata
+#group : NSPersistentStore
+#key : setMetadata
+# --
+setMetadata:${1:(NSDictionary *)storeMetadata}

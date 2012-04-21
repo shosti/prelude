@@ -1,0 +1,5 @@
+#name : presentPreviewAnimated
+#group : UIDocumentInteractionController
+#key : presentPreviewAnimated
+# --
+presentPreviewAnimated:${1:(BOOL)animated}

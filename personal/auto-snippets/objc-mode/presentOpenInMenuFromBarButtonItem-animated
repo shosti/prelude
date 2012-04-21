@@ -1,0 +1,5 @@
+#name : presentOpenInMenuFromBarButtonItem:animated
+#group : UIDocumentInteractionController
+#key : presentOpenInMenuFromBarButtonItem:animated
+# --
+presentOpenInMenuFromBarButtonItem:${1:(UIBarButtonItem *)item} animated:${2:(BOOL)animated}

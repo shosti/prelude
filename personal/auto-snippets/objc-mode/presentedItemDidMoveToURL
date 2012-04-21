@@ -1,0 +1,5 @@
+#name : presentedItemDidMoveToURL
+#group : NSFilePresenter
+#key : presentedItemDidMoveToURL
+# --
+presentedItemDidMoveToURL:${1:(NSURL *)newURL}

@@ -1,0 +1,5 @@
+#name : setTwoDigitStartDate
+#group : NSDateFormatter
+#key : setTwoDigitStartDate
+# --
+setTwoDigitStartDate:${1:(NSDate *)date}

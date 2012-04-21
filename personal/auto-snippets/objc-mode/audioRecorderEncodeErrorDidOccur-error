@@ -1,0 +1,5 @@
+#name : audioRecorderEncodeErrorDidOccur:error
+#group : AVAudioRecorder
+#key : audioRecorderEncodeErrorDidOccur:error
+# --
+audioRecorderEncodeErrorDidOccur:${1:(AVAudioRecorder *)recorder} error:${2:(NSError *)error}

@@ -1,0 +1,5 @@
+#name : drawInRect:withFont:lineBreakMode
+#group : UIStringDrawing
+#key : drawInRect:withFont:lineBreakMode
+# --
+drawInRect:${1:(CGRect)rect} withFont:${2:(UIFont *)font} lineBreakMode:${3:(UILineBreakMode)lineBreakMode}

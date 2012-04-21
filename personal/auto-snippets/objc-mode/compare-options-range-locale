@@ -1,0 +1,5 @@
+#name : compare:options:range:locale
+#group : NSString
+#key : compare:options:range:locale
+# --
+compare:${1:(NSString *)string} options:${2:(NSStringCompareOptions)mask} range:${3:(NSRange)compareRange} locale:${4:(id)locale}

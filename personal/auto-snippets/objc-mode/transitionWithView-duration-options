@@ -1,0 +1,5 @@
+#name : transitionWithView:duration:options
+#group : UIView
+#key : transitionWithView:duration:options
+# --
+transitionWithView:${1:(UIView *)view} duration:${2:(NSTimeInterval)duration} options:${3:(UIViewAnimationOptions)options}

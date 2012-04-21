@@ -1,0 +1,5 @@
+#name : fetchRequestFromTemplateWithName:substitutionVariables
+#group : NSManagedObjectModel
+#key : fetchRequestFromTemplateWithName:substitutionVariables
+# --
+fetchRequestFromTemplateWithName:${1:(NSString *)name} substitutionVariables:${2:(NSDictionary *)variables}

@@ -1,0 +1,5 @@
+#name : expressionForAggregate
+#group : NSExpression
+#key : expressionForAggregate
+# --
+expressionForAggregate:${1:(NSArray *)subexpressions}

@@ -1,0 +1,5 @@
+#name : setTimeoutInterval
+#group : NSURLRequest
+#key : setTimeoutInterval
+# --
+setTimeoutInterval:${1:(NSTimeInterval)seconds}

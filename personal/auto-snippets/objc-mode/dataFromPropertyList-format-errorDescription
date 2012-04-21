@@ -1,0 +1,5 @@
+#name : dataFromPropertyList:format:errorDescription
+#group : NSPropertyList
+#key : dataFromPropertyList:format:errorDescription
+# --
+dataFromPropertyList:${1:(id)plist} format:${2:(NSPropertyListFormat)format} errorDescription:${3:(out __strong NSString **)errorString}

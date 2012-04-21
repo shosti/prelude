@@ -1,0 +1,5 @@
+#name : initWithCoordinate
+#group : MKReverseGeocoder
+#key : initWithCoordinate
+# --
+initWithCoordinate:${1:(CLLocationCoordinate2D)coordinate}

@@ -1,0 +1,5 @@
+#name : setDoesRelativeDateFormatting
+#group : NSDateFormatter
+#key : setDoesRelativeDateFormatting
+# --
+setDoesRelativeDateFormatting:${1:(BOOL)b}

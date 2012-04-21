@@ -1,0 +1,5 @@
+#name : fileExistsAtPath:isDirectory
+#group : NSFileManager
+#key : fileExistsAtPath:isDirectory
+# --
+fileExistsAtPath:${1:(NSString *)path} isDirectory:${2:(BOOL *)isDirectory}

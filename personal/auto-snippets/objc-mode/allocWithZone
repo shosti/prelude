@@ -1,0 +1,5 @@
+#name : allocWithZone
+#group : NSProxy
+#key : allocWithZone
+# --
+allocWithZone:${1:(NSZone *)zone}

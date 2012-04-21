@@ -1,0 +1,5 @@
+#name : scanCharactersFromSet:intoString
+#group : NSScanner
+#key : scanCharactersFromSet:intoString
+# --
+scanCharactersFromSet:${1:(NSCharacterSet *)set} intoString:${2:(NSString **)value}

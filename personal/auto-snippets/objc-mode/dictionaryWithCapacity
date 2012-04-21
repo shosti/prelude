@@ -1,0 +1,5 @@
+#name : dictionaryWithCapacity
+#group : NSDictionary
+#key : dictionaryWithCapacity
+# --
+dictionaryWithCapacity:${1:(NSUInteger)numItems}

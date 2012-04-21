@@ -1,0 +1,5 @@
+#name : setStatusBarOrientation:animated
+#group : UIApplication
+#key : setStatusBarOrientation:animated
+# --
+setStatusBarOrientation:${1:(UIInterfaceOrientation)interfaceOrientation} animated:${2:(BOOL)animated}

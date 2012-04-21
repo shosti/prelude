@@ -1,0 +1,5 @@
+#name : replaceObjectAtIndex:withObject
+#group : NSOrderedSet
+#key : replaceObjectAtIndex:withObject
+# --
+replaceObjectAtIndex:${1:(NSUInteger)idx} withObject:${2:(id)object}

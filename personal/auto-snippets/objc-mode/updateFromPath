@@ -1,0 +1,5 @@
+#name : updateFromPath
+#group : NSFileWrapper
+#key : updateFromPath
+# --
+updateFromPath:${1:(NSString *)path}

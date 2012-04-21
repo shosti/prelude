@@ -1,0 +1,5 @@
+#name : intersectsMapRect
+#group : MKOverlay
+#key : intersectsMapRect
+# --
+intersectsMapRect:${1:(MKMapRect)mapRect}

@@ -1,0 +1,5 @@
+#name : reverseGeocodeLocation:completionHandler
+#group : CLGeocoder
+#key : reverseGeocodeLocation:completionHandler
+# --
+reverseGeocodeLocation:${1:(CLLocation *)location} completionHandler:${2:(CLGeocodeCompletionHandler)completionHandler}

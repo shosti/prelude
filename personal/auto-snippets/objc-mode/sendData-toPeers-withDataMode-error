@@ -1,0 +1,5 @@
+#name : sendData:toPeers:withDataMode:error
+#group : GKSession
+#key : sendData:toPeers:withDataMode:error
+# --
+sendData:${1:(NSData *)data} toPeers:${2:(NSArray *)peers} withDataMode:${3:(GKSendDataMode)mode} error:${4:(NSError **)error}

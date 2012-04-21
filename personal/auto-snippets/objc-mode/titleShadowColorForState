@@ -1,0 +1,5 @@
+#name : titleShadowColorForState
+#group : UIButton
+#key : titleShadowColorForState
+# --
+titleShadowColorForState:${1:(UIControlState)state}

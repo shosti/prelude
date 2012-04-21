@@ -1,0 +1,5 @@
+#name : presentedSubitemAtURL:didResolveConflictVersion
+#group : NSFilePresenter
+#key : presentedSubitemAtURL:didResolveConflictVersion
+# --
+presentedSubitemAtURL:${1:(NSURL *)url} didResolveConflictVersion:${2:(NSFileVersion *)version}

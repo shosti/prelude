@@ -1,0 +1,5 @@
+#name : seekToTime
+#group : AVPlayerItem
+#key : seekToTime
+# --
+seekToTime:${1:(CMTime)time}

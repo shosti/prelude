@@ -1,0 +1,5 @@
+#name : peripheral:didDiscoverCharacteristicsForService:error
+#group : CBPeripheral
+#key : peripheral:didDiscoverCharacteristicsForService:error
+# --
+peripheral:${1:(CBPeripheral *)peripheral} didDiscoverCharacteristicsForService:${2:(CBService *)service} error:${3:(NSError *)error}

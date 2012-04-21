@@ -1,0 +1,5 @@
+#name : peerPickerController:didConnectPeer:toSession
+#group : GKPeerPickerController
+#key : peerPickerController:didConnectPeer:toSession
+# --
+peerPickerController:${1:(GKPeerPickerController *)picker} didConnectPeer:${2:(NSString *)peerID} toSession:${3:(GKSession *)session}

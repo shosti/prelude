@@ -1,0 +1,5 @@
+#name : initWithData:encoding
+#group : NSString
+#key : initWithData:encoding
+# --
+initWithData:${1:(NSData *)data} encoding:${2:(NSStringEncoding)encoding}

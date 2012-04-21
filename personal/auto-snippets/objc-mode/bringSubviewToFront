@@ -1,0 +1,5 @@
+#name : bringSubviewToFront
+#group : UIView
+#key : bringSubviewToFront
+# --
+bringSubviewToFront:${1:(UIView *)view}

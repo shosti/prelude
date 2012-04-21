@@ -1,0 +1,5 @@
+#name : mediaPickerDidCancel
+#group : MPMediaPickerController
+#key : mediaPickerDidCancel
+# --
+mediaPickerDidCancel:${1:(MPMediaPickerController *)mediaPicker}

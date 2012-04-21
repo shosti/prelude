@@ -1,0 +1,5 @@
+#name : rangeEnclosingPosition:withGranularity:inDirection
+#group : UITextInput
+#key : rangeEnclosingPosition:withGranularity:inDirection
+# --
+rangeEnclosingPosition:${1:(UITextPosition *)position} withGranularity:${2:(UITextGranularity)granularity} inDirection:${3:(UITextDirection)direction}

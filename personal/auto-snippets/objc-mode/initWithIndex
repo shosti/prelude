@@ -1,0 +1,5 @@
+#name : initWithIndex
+#group : NSIndexSet
+#key : initWithIndex
+# --
+initWithIndex:${1:(NSUInteger)value}

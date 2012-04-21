@@ -1,0 +1,5 @@
+#name : orthographyWithDominantScript:languageMap
+#group : NSOrthography
+#key : orthographyWithDominantScript:languageMap
+# --
+orthographyWithDominantScript:${1:(NSString *)script} languageMap:${2:(NSDictionary *)map}

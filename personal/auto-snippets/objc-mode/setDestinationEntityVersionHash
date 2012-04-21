@@ -1,0 +1,5 @@
+#name : setDestinationEntityVersionHash
+#group : NSEntityMapping
+#key : setDestinationEntityVersionHash
+# --
+setDestinationEntityVersionHash:${1:(NSData *)vhash}

@@ -1,0 +1,5 @@
+#name : runUntilDate
+#group : NSRunLoop
+#key : runUntilDate
+# --
+runUntilDate:${1:(NSDate *)limitDate}

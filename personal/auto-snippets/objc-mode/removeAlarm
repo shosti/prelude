@@ -1,0 +1,5 @@
+#name : removeAlarm
+#group : EKCalendarItem
+#key : removeAlarm
+# --
+removeAlarm:${1:(EKAlarm *)alarm}

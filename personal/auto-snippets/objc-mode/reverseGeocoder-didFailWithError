@@ -1,0 +1,5 @@
+#name : reverseGeocoder:didFailWithError
+#group : MKReverseGeocoder
+#key : reverseGeocoder:didFailWithError
+# --
+reverseGeocoder:${1:(MKReverseGeocoder *)geocoder} didFailWithError:${2:(NSError *)error}

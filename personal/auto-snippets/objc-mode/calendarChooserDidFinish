@@ -1,0 +1,5 @@
+#name : calendarChooserDidFinish
+#group : EKCalendarChooser
+#key : calendarChooserDidFinish
+# --
+calendarChooserDidFinish:${1:(EKCalendarChooser *)calendarChooser}

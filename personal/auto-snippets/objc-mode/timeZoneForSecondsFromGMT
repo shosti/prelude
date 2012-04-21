@@ -1,0 +1,5 @@
+#name : timeZoneForSecondsFromGMT
+#group : NSTimeZone
+#key : timeZoneForSecondsFromGMT
+# --
+timeZoneForSecondsFromGMT:${1:(NSInteger)seconds}

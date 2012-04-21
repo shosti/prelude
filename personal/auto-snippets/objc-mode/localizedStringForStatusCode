@@ -1,0 +1,5 @@
+#name : localizedStringForStatusCode
+#group : NSURLResponse
+#key : localizedStringForStatusCode
+# --
+localizedStringForStatusCode:${1:(NSInteger)statusCode}

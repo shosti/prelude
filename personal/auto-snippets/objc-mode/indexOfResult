@@ -1,0 +1,5 @@
+#name : indexOfResult
+#group : NSMetadata
+#key : indexOfResult
+# --
+indexOfResult:${1:(id)result}

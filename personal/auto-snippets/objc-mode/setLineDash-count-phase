@@ -1,0 +1,5 @@
+#name : setLineDash:count:phase
+#group : UIBezierPath
+#key : setLineDash:count:phase
+# --
+setLineDash:${1:(const CGFloat *)pattern} count:${2:(NSInteger)count} phase:${3:(CGFloat)phase}

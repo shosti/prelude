@@ -1,0 +1,5 @@
+#name : setItems:animated
+#group : UIToolbar
+#key : setItems:animated
+# --
+setItems:${1:(NSArray *)items} animated:${2:(BOOL)animated}

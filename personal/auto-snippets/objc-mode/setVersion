@@ -1,0 +1,5 @@
+#name : setVersion
+#group : NSObject
+#key : setVersion
+# --
+setVersion:${1:(NSInteger)aVersion}

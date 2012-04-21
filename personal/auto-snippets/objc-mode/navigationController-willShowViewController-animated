@@ -1,0 +1,5 @@
+#name : navigationController:willShowViewController:animated
+#group : UINavigationController
+#key : navigationController:willShowViewController:animated
+# --
+navigationController:${1:(UINavigationController *)navigationController} willShowViewController:${2:(UIViewController *)viewController} animated:${3:(BOOL)animated}

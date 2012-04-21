@@ -1,0 +1,5 @@
+#name : setPMSymbol
+#group : NSDateFormatter
+#key : setPMSymbol
+# --
+setPMSymbol:${1:(NSString *)string}

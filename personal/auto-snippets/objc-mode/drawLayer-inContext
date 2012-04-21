@@ -1,0 +1,5 @@
+#name : drawLayer:inContext
+#group : CALayer
+#key : drawLayer:inContext
+# --
+drawLayer:${1:(CALayer *)layer} inContext:${2:(CGContextRef)ctx}

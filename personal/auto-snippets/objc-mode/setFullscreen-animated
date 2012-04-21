@@ -1,0 +1,5 @@
+#name : setFullscreen:animated
+#group : MPMoviePlayerController
+#key : setFullscreen:animated
+# --
+setFullscreen:${1:(BOOL)fullscreen} animated:${2:(BOOL)animated}

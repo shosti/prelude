@@ -1,0 +1,5 @@
+#name : setDefaultLeaderboard
+#group : GKLeaderboard
+#key : setDefaultLeaderboard
+# --
+setDefaultLeaderboard:${1:(NSString *)categoryID}

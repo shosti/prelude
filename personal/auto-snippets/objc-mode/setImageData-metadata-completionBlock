@@ -1,0 +1,5 @@
+#name : setImageData:metadata:completionBlock
+#group : ALAsset
+#key : setImageData:metadata:completionBlock
+# --
+setImageData:${1:(NSData *)imageData} metadata:${2:(NSDictionary *)metadata} completionBlock:${3:(ALAssetsLibraryWriteImageCompletionBlock)completionBlock}

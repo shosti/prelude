@@ -1,0 +1,5 @@
+#name : entitiesForConfiguration
+#group : NSManagedObjectModel
+#key : entitiesForConfiguration
+# --
+entitiesForConfiguration:${1:(NSString *)configuration}

@@ -1,0 +1,5 @@
+#name : compositionTrackSegmentWithTimeRange
+#group : AVCompositionTrackSegment
+#key : compositionTrackSegmentWithTimeRange
+# --
+compositionTrackSegmentWithTimeRange:${1:(CMTimeRange)timeRange}

@@ -1,0 +1,5 @@
+#name : decodeBytesForKey:returnedLength
+#group : NSKeyedArchiver
+#key : decodeBytesForKey:returnedLength
+# --
+decodeBytesForKey:${1:(NSString *)key} returnedLength:${2:(NSUInteger *)lengthp}

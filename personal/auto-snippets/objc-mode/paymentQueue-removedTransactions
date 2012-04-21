@@ -1,0 +1,5 @@
+#name : paymentQueue:removedTransactions
+#group : SKPaymentQueue
+#key : paymentQueue:removedTransactions
+# --
+paymentQueue:${1:(SKPaymentQueue *)queue} removedTransactions:${2:(NSArray *)transactions}

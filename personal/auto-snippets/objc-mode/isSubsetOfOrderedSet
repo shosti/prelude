@@ -1,0 +1,5 @@
+#name : isSubsetOfOrderedSet
+#group : NSOrderedSet
+#key : isSubsetOfOrderedSet
+# --
+isSubsetOfOrderedSet:${1:(NSOrderedSet *)other}

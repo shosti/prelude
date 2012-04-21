@@ -1,0 +1,5 @@
+#name : mapViewDidFailLoadingMap:withError
+#group : MKMapView
+#key : mapViewDidFailLoadingMap:withError
+# --
+mapViewDidFailLoadingMap:${1:(MKMapView *)mapView} withError:${2:(NSError *)error}

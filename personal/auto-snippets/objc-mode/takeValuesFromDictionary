@@ -1,0 +1,5 @@
+#name : takeValuesFromDictionary
+#group : NSKeyValueCoding
+#key : takeValuesFromDictionary
+# --
+takeValuesFromDictionary:${1:(NSDictionary *)properties}

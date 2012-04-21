@@ -1,0 +1,5 @@
+#name : imageWithCGLayer:options
+#group : CIImage
+#key : imageWithCGLayer:options
+# --
+imageWithCGLayer:${1:(CGLayerRef)layer} options:${2:(NSDictionary *)d}

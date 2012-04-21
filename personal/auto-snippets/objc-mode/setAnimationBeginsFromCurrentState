@@ -1,0 +1,5 @@
+#name : setAnimationBeginsFromCurrentState
+#group : UIView
+#key : setAnimationBeginsFromCurrentState
+# --
+setAnimationBeginsFromCurrentState:${1:(BOOL)fromCurrentState}

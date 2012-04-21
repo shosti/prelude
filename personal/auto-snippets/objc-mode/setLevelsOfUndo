@@ -1,0 +1,5 @@
+#name : setLevelsOfUndo
+#group : NSUndoManager
+#key : setLevelsOfUndo
+# --
+setLevelsOfUndo:${1:(NSUInteger)levels}

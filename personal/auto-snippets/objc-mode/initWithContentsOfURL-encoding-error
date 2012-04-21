@@ -1,0 +1,5 @@
+#name : initWithContentsOfURL:encoding:error
+#group : NSString
+#key : initWithContentsOfURL:encoding:error
+# --
+initWithContentsOfURL:${1:(NSURL *)url} encoding:${2:(NSStringEncoding)enc} error:${3:(NSError **)error}

@@ -1,0 +1,5 @@
+#name : stream:handleEvent
+#group : NSStream
+#key : stream:handleEvent
+# --
+stream:${1:(NSStream *)aStream} handleEvent:${2:(NSStreamEvent)eventCode}

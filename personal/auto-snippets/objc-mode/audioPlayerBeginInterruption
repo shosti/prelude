@@ -1,0 +1,5 @@
+#name : audioPlayerBeginInterruption
+#group : AVAudioPlayer
+#key : audioPlayerBeginInterruption
+# --
+audioPlayerBeginInterruption:${1:(AVAudioPlayer *)player}

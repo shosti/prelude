@@ -1,0 +1,5 @@
+#name : initWithAccessibilityContainer
+#group : UIAccessibilityElement
+#key : initWithAccessibilityContainer
+# --
+initWithAccessibilityContainer:${1:(id)container}

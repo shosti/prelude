@@ -1,0 +1,5 @@
+#name : countForObject
+#group : NSSet
+#key : countForObject
+# --
+countForObject:${1:(id)object}

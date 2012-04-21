@@ -1,0 +1,5 @@
+#name : setPropertyCache
+#group : NSAtomicStoreCacheNode
+#key : setPropertyCache
+# --
+setPropertyCache:${1:(NSMutableDictionary *)propertyCache}

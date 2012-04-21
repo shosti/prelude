@@ -1,0 +1,5 @@
+#name : dismissPopoverAnimated
+#group : UIPopoverController
+#key : dismissPopoverAnimated
+# --
+dismissPopoverAnimated:${1:(BOOL)animated}

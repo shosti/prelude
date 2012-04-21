@@ -1,0 +1,5 @@
+#name : peakPowerForChannel
+#group : AVAudioRecorder
+#key : peakPowerForChannel
+# --
+peakPowerForChannel:${1:(NSUInteger)channelNumber}

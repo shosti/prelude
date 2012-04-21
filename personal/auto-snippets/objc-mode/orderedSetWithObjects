@@ -1,0 +1,5 @@
+#name : orderedSetWithObjects
+#group : NSOrderedSet
+#key : orderedSetWithObjects
+# --
+orderedSetWithObjects:${1:(id)firstObj}

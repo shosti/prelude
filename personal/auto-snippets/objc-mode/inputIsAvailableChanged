@@ -1,0 +1,5 @@
+#name : inputIsAvailableChanged
+#group : AVAudioSession
+#key : inputIsAvailableChanged
+# --
+inputIsAvailableChanged:${1:(BOOL)isInputAvailable}

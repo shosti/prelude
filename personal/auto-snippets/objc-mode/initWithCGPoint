@@ -1,0 +1,5 @@
+#name : initWithCGPoint
+#group : CIVector
+#key : initWithCGPoint
+# --
+initWithCGPoint:${1:(CGPoint)p}

@@ -1,0 +1,5 @@
+#name : initWithFormat:locale
+#group : NSString
+#key : initWithFormat:locale
+# --
+initWithFormat:${1:(NSString *)format} locale:${2:(id)locale}

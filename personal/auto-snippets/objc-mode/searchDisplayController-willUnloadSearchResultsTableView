@@ -1,0 +1,5 @@
+#name : searchDisplayController:willUnloadSearchResultsTableView
+#group : UISearchDisplayController
+#key : searchDisplayController:willUnloadSearchResultsTableView
+# --
+searchDisplayController:${1:(UISearchDisplayController *)controller} willUnloadSearchResultsTableView:${2:(UITableView *)tableView}

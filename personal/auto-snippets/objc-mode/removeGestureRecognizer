@@ -1,0 +1,5 @@
+#name : removeGestureRecognizer
+#group : UIView
+#key : removeGestureRecognizer
+# --
+removeGestureRecognizer:${1:(UIGestureRecognizer*)gestureRecognizer}

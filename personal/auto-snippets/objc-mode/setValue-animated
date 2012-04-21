@@ -1,0 +1,5 @@
+#name : setValue:animated
+#group : UISlider
+#key : setValue:animated
+# --
+setValue:${1:(float)value} animated:${2:(BOOL)animated}

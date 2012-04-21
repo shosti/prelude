@@ -1,0 +1,5 @@
+#name : postNotificationName:object
+#group : NSNotification
+#key : postNotificationName:object
+# --
+postNotificationName:${1:(NSString *)aName} object:${2:(id)anObject}

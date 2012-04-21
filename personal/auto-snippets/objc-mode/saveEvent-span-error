@@ -1,0 +1,5 @@
+#name : saveEvent:span:error
+#group : EKEventStore
+#key : saveEvent:span:error
+# --
+saveEvent:${1:(EKEvent *)event} span:${2:(EKSpan)span} error:${3:(NSError **)error}

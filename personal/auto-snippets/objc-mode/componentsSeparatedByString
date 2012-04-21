@@ -1,0 +1,5 @@
+#name : componentsSeparatedByString
+#group : NSString
+#key : componentsSeparatedByString
+# --
+componentsSeparatedByString:${1:(NSString *)separator}

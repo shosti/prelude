@@ -1,0 +1,5 @@
+#name : getControlPointAtIndex
+#group : CAMediaTimingFunction
+#key : getControlPointAtIndex
+# --
+getControlPointAtIndex:${1:(size_t)idx}

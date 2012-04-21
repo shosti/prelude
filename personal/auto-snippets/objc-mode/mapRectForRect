@@ -1,0 +1,5 @@
+#name : mapRectForRect
+#group : MKOverlayView
+#key : mapRectForRect
+# --
+mapRectForRect:${1:(CGRect)rect}

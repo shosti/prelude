@@ -1,0 +1,5 @@
+#name : image:didFinishSavingWithError:contextInfo
+#group : UIImagePickerController
+#key : image:didFinishSavingWithError:contextInfo
+# --
+image:${1:(UIImage *)image} didFinishSavingWithError:${2:(NSError *)error} contextInfo:${3:(void *)contextInfo}

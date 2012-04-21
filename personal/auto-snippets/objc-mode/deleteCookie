@@ -1,0 +1,5 @@
+#name : deleteCookie
+#group : NSHTTPCookieStorage
+#key : deleteCookie
+# --
+deleteCookie:${1:(NSHTTPCookie *)cookie}

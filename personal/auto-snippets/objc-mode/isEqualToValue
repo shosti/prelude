@@ -1,0 +1,5 @@
+#name : isEqualToValue
+#group : NSValue
+#key : isEqualToValue
+# --
+isEqualToValue:${1:(NSValue *)value}

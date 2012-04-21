@@ -1,0 +1,5 @@
+#name : setPaddingCharacter
+#group : NSNumberFormatter
+#key : setPaddingCharacter
+# --
+setPaddingCharacter:${1:(NSString *)string}

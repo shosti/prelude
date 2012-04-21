@@ -1,0 +1,5 @@
+#name : initWithTarget:action
+#group : UIGestureRecognizer
+#key : initWithTarget:action
+# --
+initWithTarget:${1:(id)target} action:${2:(SEL)action}

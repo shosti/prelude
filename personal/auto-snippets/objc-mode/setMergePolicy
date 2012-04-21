@@ -1,0 +1,5 @@
+#name : setMergePolicy
+#group : NSManagedObjectContext
+#key : setMergePolicy
+# --
+setMergePolicy:${1:(id)mergePolicy}

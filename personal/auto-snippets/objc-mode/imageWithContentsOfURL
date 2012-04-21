@@ -1,0 +1,5 @@
+#name : imageWithContentsOfURL
+#group : CIImage
+#key : imageWithContentsOfURL
+# --
+imageWithContentsOfURL:${1:(NSURL *)url}

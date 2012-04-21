@@ -1,0 +1,5 @@
+#name : videoComposition:shouldContinueValidatingAfterFindingInvalidTimeRangeInInstruction
+#group : AVVideoComposition
+#key : videoComposition:shouldContinueValidatingAfterFindingInvalidTimeRangeInInstruction
+# --
+videoComposition:${1:(AVVideoComposition *)videoComposition} shouldContinueValidatingAfterFindingInvalidTimeRangeInInstruction:${2:(AVVideoCompositionInstruction *)videoCompositionInstruction}
