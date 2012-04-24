@@ -1,5 +1,3 @@
-(require 'personal-packages)
-
 (eval-when-compile
   (require 'cl))
 
@@ -85,3 +83,5 @@ it to exec-path and the PATH variable"
               (> (length s) (string-match "\\( \\|\f\\|\t\\|\n\\)$" s)))
         (setq s (replace-match "" t nil s))))
     s))
+
+(provide 'personal-functions)

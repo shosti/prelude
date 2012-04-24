@@ -5,6 +5,8 @@
 (setq eshell-scroll-show-maximum-output nil)
 (setq eshell-directory-name (concat prelude-personal-dir "eshell/"))
 
+(path-from-file "~/.path")
+
 (setenv "TERM" "dumb")
 (setenv "EDITOR" "emacsclient")
 (setenv "PAGER" "cat")
@@ -21,3 +23,5 @@
             (visual-line-mode 0)
             (dirtrack-mode 1)
             (shell-dirtrack-mode 0)))
+
+(provide 'personal-eshell)

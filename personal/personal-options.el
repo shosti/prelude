@@ -18,8 +18,6 @@
 ;;file
 (setq delete-by-moving-to-trash t)
 
-(path-from-file "~/.path")
-
 (setq comint-scroll-to-bottom-on-output t)
 (setq-default major-mode 'text-mode)
 
