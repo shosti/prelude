@@ -22,6 +22,9 @@
 (global-set-key "\C-x\C-b" 'helm-for-files)
 (global-set-key "\M-y" 'helm-show-kill-ring)
 
+;;compile
+(define-key prelude-mode-map "\C-ck" 'compile)
+
 ;;gnus
 ;; (global-set-key "\C-zg" '(lambda ()
 ;;                               (interactive)
