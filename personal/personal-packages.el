@@ -11,7 +11,7 @@
           '(ac-slime ace-jump-mode ascope auto-complete bitlbee buffer-move
                      elscreen gnuplot google-c-style highlight-parentheses
                      js-comint parenface pretty-mode rvm smex undo-tree
-                     c-eldoc elisp-slime-nav clojurescript-mode coffee-mode))
+                     c-eldoc elisp-slime-nav clojurescript-mode coffee-mode python))
   "A list of packages to ensure are installed at launch.")
 
 (defun personal-packages-installed-p ()
