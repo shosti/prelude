@@ -13,3 +13,4 @@ ede-projects.el
 .DS_Store
 ac-comphist.dat
 swank
+/abbrev_defs
