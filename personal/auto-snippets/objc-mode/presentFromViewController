@@ -1,5 +1,0 @@
-#name : presentFromViewController
-#group : ADInterstitialAd
-#key : presentFromViewController
-# --
-presentFromViewController:${1:(UIViewController *)viewController}

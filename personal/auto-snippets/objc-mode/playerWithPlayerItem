@@ -1,5 +1,0 @@
-#name : playerWithPlayerItem
-#group : AVPlayer
-#key : playerWithPlayerItem
-# --
-playerWithPlayerItem:${1:(AVPlayerItem *)item}

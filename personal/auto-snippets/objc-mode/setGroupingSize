@@ -1,5 +1,0 @@
-#name : setGroupingSize
-#group : NSNumberFormatter
-#key : setGroupingSize
-# --
-setGroupingSize:${1:(NSUInteger)number}

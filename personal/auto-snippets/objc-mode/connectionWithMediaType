@@ -1,5 +1,0 @@
-#name : connectionWithMediaType
-#group : AVCaptureOutput
-#key : connectionWithMediaType
-# --
-connectionWithMediaType:${1:(NSString *)mediaType}

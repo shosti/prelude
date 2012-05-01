@@ -1,5 +1,0 @@
-#name : removeTarget:action
-#group : UIGestureRecognizer
-#key : removeTarget:action
-# --
-removeTarget:${1:(id)target} action:${2:(SEL)action}

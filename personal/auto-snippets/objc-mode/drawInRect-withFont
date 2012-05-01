@@ -1,5 +1,0 @@
-#name : drawInRect:withFont
-#group : UIStringDrawing
-#key : drawInRect:withFont
-# --
-drawInRect:${1:(CGRect)rect} withFont:${2:(UIFont *)font}

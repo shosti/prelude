@@ -1,5 +1,0 @@
-#name : initWithAudioTracks:audioSettings
-#group : AVAssetReaderOutput
-#key : initWithAudioTracks:audioSettings
-# --
-initWithAudioTracks:${1:(NSArray *)audioTracks} audioSettings:${2:(NSDictionary *)audioSettings}

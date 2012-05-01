@@ -1,5 +1,0 @@
-#name : removeItem
-#group : AVPlayer
-#key : removeItem
-# --
-removeItem:${1:(AVPlayerItem *)item}

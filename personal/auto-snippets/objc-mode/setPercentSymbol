@@ -1,5 +1,0 @@
-#name : setPercentSymbol
-#group : NSNumberFormatter
-#key : setPercentSymbol
-# --
-setPercentSymbol:${1:(NSString *)string}

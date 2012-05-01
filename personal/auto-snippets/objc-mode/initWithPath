@@ -1,5 +1,0 @@
-#name : initWithPath
-#group : NSFileWrapper
-#key : initWithPath
-# --
-initWithPath:${1:(NSString *)path}

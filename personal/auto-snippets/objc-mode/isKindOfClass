@@ -1,5 +1,0 @@
-#name : isKindOfClass
-#group : NSObject
-#key : isKindOfClass
-# --
-isKindOfClass:${1:(Class)aClass}

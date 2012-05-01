@@ -1,5 +1,0 @@
-#name : mutableArrayValueForKeyPath
-#group : NSKeyValueCoding
-#key : mutableArrayValueForKeyPath
-# --
-mutableArrayValueForKeyPath:${1:(NSString *)keyPath}

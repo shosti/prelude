@@ -1,5 +1,0 @@
-#name : setTitlePositionAdjustment
-#group : UITabBarItem
-#key : setTitlePositionAdjustment
-# --
-setTitlePositionAdjustment:${1:(UIOffset)adjustment}

@@ -1,5 +1,0 @@
-#name : audioRecorderEndInterruption
-#group : AVAudioRecorder
-#key : audioRecorderEndInterruption
-# --
-audioRecorderEndInterruption:${1:(AVAudioRecorder *)recorder}

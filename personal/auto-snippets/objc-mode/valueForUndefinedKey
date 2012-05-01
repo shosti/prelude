@@ -1,5 +1,0 @@
-#name : valueForUndefinedKey
-#group : NSKeyValueCoding
-#key : valueForUndefinedKey
-# --
-valueForUndefinedKey:${1:(NSString *)key}

@@ -1,5 +1,0 @@
-#name : setRoundingBehavior
-#group : NSNumberFormatter
-#key : setRoundingBehavior
-# --
-setRoundingBehavior:${1:(NSDecimalNumberHandler *)newRoundingBehavior}

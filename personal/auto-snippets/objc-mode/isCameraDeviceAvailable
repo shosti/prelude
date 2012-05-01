@@ -1,5 +1,0 @@
-#name : isCameraDeviceAvailable
-#group : UIImagePickerController
-#key : isCameraDeviceAvailable
-# --
-isCameraDeviceAvailable:${1:(UIImagePickerControllerCameraDevice)cameraDevice}

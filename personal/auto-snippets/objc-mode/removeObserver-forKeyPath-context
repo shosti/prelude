@@ -1,5 +1,0 @@
-#name : removeObserver:forKeyPath:context
-#group : NSKeyValueObserving
-#key : removeObserver:forKeyPath:context
-# --
-removeObserver:${1:(NSObject *)observer} forKeyPath:${2:(NSString *)keyPath} context:${3:(void *)context}

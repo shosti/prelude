@@ -1,5 +1,0 @@
-#name : dateByAddingComponents:toDate:options
-#group : NSCalendar
-#key : dateByAddingComponents:toDate:options
-# --
-dateByAddingComponents:${1:(NSDateComponents *)comps} toDate:${2:(NSDate *)date} options:${3:(NSUInteger)opts}

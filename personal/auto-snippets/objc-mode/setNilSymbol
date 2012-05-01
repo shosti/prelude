@@ -1,5 +1,0 @@
-#name : setNilSymbol
-#group : NSNumberFormatter
-#key : setNilSymbol
-# --
-setNilSymbol:${1:(NSString *)string}

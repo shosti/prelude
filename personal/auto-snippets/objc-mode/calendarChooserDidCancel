@@ -1,5 +1,0 @@
-#name : calendarChooserDidCancel
-#group : EKCalendarChooser
-#key : calendarChooserDidCancel
-# --
-calendarChooserDidCancel:${1:(EKCalendarChooser *)calendarChooser}

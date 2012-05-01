@@ -1,5 +1,0 @@
-#name : objectForInfoDictionaryKey
-#group : NSBundle
-#key : objectForInfoDictionaryKey
-# --
-objectForInfoDictionaryKey:${1:(NSString *)key}

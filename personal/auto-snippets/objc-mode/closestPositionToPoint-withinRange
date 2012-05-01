@@ -1,5 +1,0 @@
-#name : closestPositionToPoint:withinRange
-#group : UITextInput
-#key : closestPositionToPoint:withinRange
-# --
-closestPositionToPoint:${1:(CGPoint)point} withinRange:${2:(UITextRange *)range}

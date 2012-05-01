@@ -1,5 +1,0 @@
-#name : initWithDictionary:copyItems
-#group : NSDictionary
-#key : initWithDictionary:copyItems
-# --
-initWithDictionary:${1:(NSDictionary *)otherDictionary} copyItems:${2:(BOOL)flag}

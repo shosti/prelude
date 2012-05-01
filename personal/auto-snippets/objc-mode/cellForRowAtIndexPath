@@ -1,5 +1,0 @@
-#name : cellForRowAtIndexPath
-#group : UITableView
-#key : cellForRowAtIndexPath
-# --
-cellForRowAtIndexPath:${1:(NSIndexPath *)indexPath}

@@ -1,5 +1,0 @@
-#name : URLForResource:withExtension
-#group : NSBundle
-#key : URLForResource:withExtension
-# --
-URLForResource:${1:(NSString *)name} withExtension:${2:(NSString *)ext}

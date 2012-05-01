@@ -1,5 +1,0 @@
-#name : removeRecurrenceRule
-#group : EKCalendarItem
-#key : removeRecurrenceRule
-# --
-removeRecurrenceRule:${1:(EKRecurrenceRule *)rule}

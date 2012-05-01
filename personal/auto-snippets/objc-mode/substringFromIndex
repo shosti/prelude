@@ -1,5 +1,0 @@
-#name : substringFromIndex
-#group : NSString
-#key : substringFromIndex
-# --
-substringFromIndex:${1:(NSUInteger)from}

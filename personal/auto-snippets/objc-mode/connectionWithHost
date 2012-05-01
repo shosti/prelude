@@ -1,5 +1,0 @@
-#name : connectionWithHost
-#group : MIDINetworkSession
-#key : connectionWithHost
-# --
-connectionWithHost:${1:(MIDINetworkHost *)host}

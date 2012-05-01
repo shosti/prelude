@@ -1,5 +1,0 @@
-#name : persistentIDPropertyForGroupingType
-#group : MPMediaQuery
-#key : persistentIDPropertyForGroupingType
-# --
-persistentIDPropertyForGroupingType:${1:(MPMediaGrouping)groupingType}

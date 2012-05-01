@@ -1,5 +1,0 @@
-#name : setTXTRecordData
-#group : NSNetServices
-#key : setTXTRecordData
-# --
-setTXTRecordData:${1:(NSData *)recordData}

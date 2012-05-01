@@ -1,5 +1,0 @@
-#name : dictionaryWithDictionary
-#group : NSDictionary
-#key : dictionaryWithDictionary
-# --
-dictionaryWithDictionary:${1:(NSDictionary *)dict}

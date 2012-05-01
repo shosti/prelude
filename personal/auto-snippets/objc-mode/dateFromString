@@ -1,5 +1,0 @@
-#name : dateFromString
-#group : NSDateFormatter
-#key : dateFromString
-# --
-dateFromString:${1:(NSString *)string}

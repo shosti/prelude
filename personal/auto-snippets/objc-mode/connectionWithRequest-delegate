@@ -1,5 +1,0 @@
-#name : connectionWithRequest:delegate
-#group : NSURLConnection
-#key : connectionWithRequest:delegate
-# --
-connectionWithRequest:${1:(NSURLRequest *)request} delegate:${2:(id)delegate}

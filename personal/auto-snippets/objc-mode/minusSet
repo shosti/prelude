@@ -1,5 +1,0 @@
-#name : minusSet
-#group : NSSet
-#key : minusSet
-# --
-minusSet:${1:(NSSet *)otherSet}

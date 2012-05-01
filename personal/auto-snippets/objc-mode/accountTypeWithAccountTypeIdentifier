@@ -1,5 +1,0 @@
-#name : accountTypeWithAccountTypeIdentifier
-#group : ACAccountStore
-#key : accountTypeWithAccountTypeIdentifier
-# --
-accountTypeWithAccountTypeIdentifier:${1:(NSString *)typeIdentifier}

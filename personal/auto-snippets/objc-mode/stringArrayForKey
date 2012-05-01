@@ -1,5 +1,0 @@
-#name : stringArrayForKey
-#group : NSUserDefaults
-#key : stringArrayForKey
-# --
-stringArrayForKey:${1:(NSString *)defaultName}

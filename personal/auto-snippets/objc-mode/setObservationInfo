@@ -1,5 +1,0 @@
-#name : setObservationInfo
-#group : NSKeyValueObserving
-#key : setObservationInfo
-# --
-setObservationInfo:${1:(void *)observationInfo}

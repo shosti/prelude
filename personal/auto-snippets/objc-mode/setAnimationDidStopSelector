@@ -1,5 +1,0 @@
-#name : setAnimationDidStopSelector
-#group : UIView
-#key : setAnimationDidStopSelector
-# --
-setAnimationDidStopSelector:${1:(SEL)selector}

@@ -1,5 +1,0 @@
-#name : addGestureRecognizer
-#group : UIView
-#key : addGestureRecognizer
-# --
-addGestureRecognizer:${1:(UIGestureRecognizer*)gestureRecognizer}

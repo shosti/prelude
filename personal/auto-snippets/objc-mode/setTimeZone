@@ -1,5 +1,0 @@
-#name : setTimeZone
-#group : NSDateFormatter
-#key : setTimeZone
-# --
-setTimeZone:${1:(NSTimeZone *)tz}

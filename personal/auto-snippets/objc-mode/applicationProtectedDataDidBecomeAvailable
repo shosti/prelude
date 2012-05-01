@@ -1,5 +1,0 @@
-#name : applicationProtectedDataDidBecomeAvailable
-#group : UIApplication
-#key : applicationProtectedDataDidBecomeAvailable
-# --
-applicationProtectedDataDidBecomeAvailable:${1:(UIApplication *)application}

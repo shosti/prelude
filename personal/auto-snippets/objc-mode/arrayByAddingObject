@@ -1,5 +1,0 @@
-#name : arrayByAddingObject
-#group : NSArray
-#key : arrayByAddingObject
-# --
-arrayByAddingObject:${1:(id)anObject}

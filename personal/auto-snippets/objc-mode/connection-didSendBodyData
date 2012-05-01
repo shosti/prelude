@@ -1,5 +1,0 @@
-#name : connection:didSendBodyData
-#group : NSURLConnection
-#key : connection:didSendBodyData
-# --
-connection:${1:(NSURLConnection *)connection} didSendBodyData:${2:(NSInteger)bytesWritten}

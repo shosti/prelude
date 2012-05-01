@@ -1,5 +1,0 @@
-#name : initWithBytesNoCopy:length:freeWhenDone
-#group : NSData
-#key : initWithBytesNoCopy:length:freeWhenDone
-# --
-initWithBytesNoCopy:${1:(void *)bytes} length:${2:(NSUInteger)length} freeWhenDone:${3:(BOOL)b}

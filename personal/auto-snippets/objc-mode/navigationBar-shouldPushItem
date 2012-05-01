@@ -1,5 +1,0 @@
-#name : navigationBar:shouldPushItem
-#group : UINavigationBar
-#key : navigationBar:shouldPushItem
-# --
-navigationBar:${1:(UINavigationBar *)navigationBar} shouldPushItem:${2:(UINavigationItem *)item}

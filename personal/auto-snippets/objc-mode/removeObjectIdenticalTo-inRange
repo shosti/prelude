@@ -1,5 +1,0 @@
-#name : removeObjectIdenticalTo:inRange
-#group : NSArray
-#key : removeObjectIdenticalTo:inRange
-# --
-removeObjectIdenticalTo:${1:(id)anObject} inRange:${2:(NSRange)range}

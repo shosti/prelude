@@ -1,5 +1,0 @@
-#name : nibWithNibName:bundle
-#group : UINib
-#key : nibWithNibName:bundle
-# --
-nibWithNibName:${1:(NSString *)name} bundle:${2:(NSBundle *)bundleOrNil}

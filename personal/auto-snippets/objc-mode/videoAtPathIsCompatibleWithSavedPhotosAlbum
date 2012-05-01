@@ -1,5 +1,0 @@
-#name : videoAtPathIsCompatibleWithSavedPhotosAlbum
-#group : ALAssetsLibrary
-#key : videoAtPathIsCompatibleWithSavedPhotosAlbum
-# --
-videoAtPathIsCompatibleWithSavedPhotosAlbum:${1:(NSURL *)videoPathURL}

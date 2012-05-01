@@ -1,5 +1,0 @@
-#name : writeToURL:options:originalContentsURL:error
-#group : NSFileWrapper
-#key : writeToURL:options:originalContentsURL:error
-# --
-writeToURL:${1:(NSURL *)url} options:${2:(NSFileWrapperWritingOptions)options} originalContentsURL:${3:(NSURL *)originalContentsURL} error:${4:(NSError **)outError}

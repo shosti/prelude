@@ -1,5 +1,0 @@
-#name : encodeBycopyObject
-#group : NSCoder
-#key : encodeBycopyObject
-# --
-encodeBycopyObject:${1:(id)anObject}

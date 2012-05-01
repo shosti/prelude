@@ -1,5 +1,0 @@
-#name : associatedMediaSelectionOptionInMediaSelectionGroup
-#group : AVMediaSelectionGroup
-#key : associatedMediaSelectionOptionInMediaSelectionGroup
-# --
-associatedMediaSelectionOptionInMediaSelectionGroup:${1:(AVMediaSelectionGroup *)mediaSelectionGroup}

@@ -1,5 +1,0 @@
-#name : numberWithUnsignedLongLong
-#group : NSValue
-#key : numberWithUnsignedLongLong
-# --
-numberWithUnsignedLongLong:${1:(unsigned long long)value}

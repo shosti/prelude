@@ -1,5 +1,0 @@
-#name : valueWithCGRect
-#group : UIGeometry
-#key : valueWithCGRect
-# --
-valueWithCGRect:${1:(CGRect)rect}

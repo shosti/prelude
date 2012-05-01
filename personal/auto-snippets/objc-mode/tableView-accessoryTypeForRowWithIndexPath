@@ -1,5 +1,0 @@
-#name : tableView:accessoryTypeForRowWithIndexPath
-#group : UITableView
-#key : tableView:accessoryTypeForRowWithIndexPath
-# --
-tableView:${1:(UITableView *)tableView} accessoryTypeForRowWithIndexPath:${2:(NSIndexPath *)indexPath}

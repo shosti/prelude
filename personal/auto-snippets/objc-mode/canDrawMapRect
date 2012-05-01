@@ -1,5 +1,0 @@
-#name : canDrawMapRect
-#group : MKOverlayView
-#key : canDrawMapRect
-# --
-canDrawMapRect:${1:(MKMapRect)mapRect}

@@ -1,5 +1,0 @@
-#name : orthographyCheckingResultWithRange:orthography
-#group : NSTextCheckingResult
-#key : orthographyCheckingResultWithRange:orthography
-# --
-orthographyCheckingResultWithRange:${1:(NSRange)range} orthography:${2:(NSOrthography *)orthography}

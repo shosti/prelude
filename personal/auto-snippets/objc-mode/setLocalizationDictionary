@@ -1,5 +1,0 @@
-#name : setLocalizationDictionary
-#group : NSManagedObjectModel
-#key : setLocalizationDictionary
-# --
-setLocalizationDictionary:${1:(NSDictionary *)localizationDictionary}

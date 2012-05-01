@@ -1,5 +1,0 @@
-#name : parser:foundComment
-#group : NSXMLParser
-#key : parser:foundComment
-# --
-parser:${1:(NSXMLParser *)parser} foundComment:${2:(NSString *)comment}

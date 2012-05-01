@@ -1,5 +1,0 @@
-#name : reloadSections:withRowAnimation
-#group : UITableView
-#key : reloadSections:withRowAnimation
-# --
-reloadSections:${1:(NSIndexSet *)sections} withRowAnimation:${2:(UITableViewRowAnimation)animation}

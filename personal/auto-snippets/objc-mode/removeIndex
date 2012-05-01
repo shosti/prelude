@@ -1,5 +1,0 @@
-#name : removeIndex
-#group : NSIndexSet
-#key : removeIndex
-# --
-removeIndex:${1:(NSUInteger)value}

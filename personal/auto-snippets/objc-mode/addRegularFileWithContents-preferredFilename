@@ -1,5 +1,0 @@
-#name : addRegularFileWithContents:preferredFilename
-#group : NSFileWrapper
-#key : addRegularFileWithContents:preferredFilename
-# --
-addRegularFileWithContents:${1:(NSData *)data} preferredFilename:${2:(NSString *)fileName}

@@ -1,5 +1,0 @@
-#name : initWithLatitude
-#group : CLLocation
-#key : initWithLatitude
-# --
-initWithLatitude:${1:(CLLocationDegrees)latitude}

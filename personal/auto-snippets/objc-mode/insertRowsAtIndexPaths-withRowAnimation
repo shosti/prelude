@@ -1,5 +1,0 @@
-#name : insertRowsAtIndexPaths:withRowAnimation
-#group : UITableView
-#key : insertRowsAtIndexPaths:withRowAnimation
-# --
-insertRowsAtIndexPaths:${1:(NSArray *)indexPaths} withRowAnimation:${2:(UITableViewRowAnimation)animation}

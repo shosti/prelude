@@ -1,5 +1,0 @@
-#name : peerPickerController:didSelectConnectionType
-#group : GKPeerPickerController
-#key : peerPickerController:didSelectConnectionType
-# --
-peerPickerController:${1:(GKPeerPickerController *)picker} didSelectConnectionType:${2:(GKPeerPickerConnectionType)type}

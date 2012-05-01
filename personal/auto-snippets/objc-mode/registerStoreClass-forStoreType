@@ -1,5 +1,0 @@
-#name : registerStoreClass:forStoreType
-#group : NSPersistentStoreCoordinator
-#key : registerStoreClass:forStoreType
-# --
-registerStoreClass:${1:(Class)storeClass} forStoreType:${2:(NSString *)storeType}

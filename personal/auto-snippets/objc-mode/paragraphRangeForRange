@@ -1,5 +1,0 @@
-#name : paragraphRangeForRange
-#group : NSString
-#key : paragraphRangeForRange
-# --
-paragraphRangeForRange:${1:(NSRange)range}

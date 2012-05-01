@@ -1,5 +1,0 @@
-#name : setIdentifier
-#group : NSPersistentStore
-#key : setIdentifier
-# --
-setIdentifier:${1:(NSString *)identifier}

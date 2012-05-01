@@ -1,5 +1,0 @@
-#name : searchBarShouldEndEditing
-#group : UISearchBar
-#key : searchBarShouldEndEditing
-# --
-searchBarShouldEndEditing:${1:(UISearchBar *)searchBar}

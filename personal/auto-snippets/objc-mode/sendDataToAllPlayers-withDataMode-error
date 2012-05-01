@@ -1,5 +1,0 @@
-#name : sendDataToAllPlayers:withDataMode:error
-#group : GKMatch
-#key : sendDataToAllPlayers:withDataMode:error
-# --
-sendDataToAllPlayers:${1:(NSData *)data} withDataMode:${2:(GKMatchSendDataMode)mode} error:${3:(NSError **)error}

@@ -1,5 +1,0 @@
-#name : expressionForVariable
-#group : NSExpression
-#key : expressionForVariable
-# --
-expressionForVariable:${1:(NSString *)string}

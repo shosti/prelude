@@ -1,5 +1,0 @@
-#name : setDefaultValue
-#group : NSAttributeDescription
-#key : setDefaultValue
-# --
-setDefaultValue:${1:(id)value}

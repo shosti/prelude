@@ -1,5 +1,0 @@
-#name : stringWithCString:encoding
-#group : NSString
-#key : stringWithCString:encoding
-# --
-stringWithCString:${1:(const char *)cString} encoding:${2:(NSStringEncoding)enc}

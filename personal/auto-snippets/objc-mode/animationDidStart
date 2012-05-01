@@ -1,5 +1,0 @@
-#name : animationDidStart
-#group : CAAnimation
-#key : animationDidStart
-# --
-animationDidStart:${1:(CAAnimation *)anim}

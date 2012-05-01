@@ -1,5 +1,0 @@
-#name : initWithURL:cachePolicy:timeoutInterval
-#group : NSURLRequest
-#key : initWithURL:cachePolicy:timeoutInterval
-# --
-initWithURL:${1:(NSURL *)URL} cachePolicy:${2:(NSURLRequestCachePolicy)cachePolicy} timeoutInterval:${3:(NSTimeInterval)timeoutInterval}

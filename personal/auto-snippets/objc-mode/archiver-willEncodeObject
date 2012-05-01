@@ -1,5 +1,0 @@
-#name : archiver:willEncodeObject
-#group : NSKeyedArchiver
-#key : archiver:willEncodeObject
-# --
-archiver:${1:(NSKeyedArchiver *)archiver} willEncodeObject:${2:(id)object}

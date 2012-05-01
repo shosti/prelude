@@ -1,5 +1,0 @@
-#name : accessibilityFrameForLineNumber
-#group : UIAccessibility
-#key : accessibilityFrameForLineNumber
-# --
-accessibilityFrameForLineNumber:${1:(NSInteger)lineNumber}

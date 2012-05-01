@@ -1,5 +1,0 @@
-#name : fillPath:inContext
-#group : MKOverlayPathView
-#key : fillPath:inContext
-# --
-fillPath:${1:(CGPathRef)path} inContext:${2:(CGContextRef)context}

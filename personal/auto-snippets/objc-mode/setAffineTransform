@@ -1,5 +1,0 @@
-#name : setAffineTransform
-#group : CALayer
-#key : setAffineTransform
-# --
-setAffineTransform:${1:(CGAffineTransform)m}

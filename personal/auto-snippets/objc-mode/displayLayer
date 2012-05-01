@@ -1,5 +1,0 @@
-#name : displayLayer
-#group : CALayer
-#key : displayLayer
-# --
-displayLayer:${1:(CALayer *)layer}

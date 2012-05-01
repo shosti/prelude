@@ -1,5 +1,0 @@
-#name : setYear
-#group : NSCalendar
-#key : setYear
-# --
-setYear:${1:(NSInteger)v}

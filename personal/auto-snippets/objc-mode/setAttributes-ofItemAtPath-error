@@ -1,5 +1,0 @@
-#name : setAttributes:ofItemAtPath:error
-#group : NSFileManager
-#key : setAttributes:ofItemAtPath:error
-# --
-setAttributes:${1:(NSDictionary *)attributes} ofItemAtPath:${2:(NSString *)path} error:${3:(NSError **)error}

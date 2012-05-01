@@ -1,5 +1,0 @@
-#name : navigationController:didShowViewController:animated
-#group : UINavigationController
-#key : navigationController:didShowViewController:animated
-# --
-navigationController:${1:(UINavigationController *)navigationController} didShowViewController:${2:(UIViewController *)viewController} animated:${3:(BOOL)animated}

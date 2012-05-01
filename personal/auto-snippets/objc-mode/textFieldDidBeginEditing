@@ -1,5 +1,0 @@
-#name : textFieldDidBeginEditing
-#group : UITextField
-#key : textFieldDidBeginEditing
-# --
-textFieldDidBeginEditing:${1:(UITextField *)textField}

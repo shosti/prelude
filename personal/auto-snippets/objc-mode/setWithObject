@@ -1,5 +1,0 @@
-#name : setWithObject
-#group : NSSet
-#key : setWithObject
-# --
-setWithObject:${1:(id)object}

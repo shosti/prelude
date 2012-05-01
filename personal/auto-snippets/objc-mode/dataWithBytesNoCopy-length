@@ -1,5 +1,0 @@
-#name : dataWithBytesNoCopy:length
-#group : NSData
-#key : dataWithBytesNoCopy:length
-# --
-dataWithBytesNoCopy:${1:(void *)bytes} length:${2:(NSUInteger)length}

@@ -1,5 +1,0 @@
-#name : languagesForScript
-#group : NSOrthography
-#key : languagesForScript
-# --
-languagesForScript:${1:(NSString *)script}

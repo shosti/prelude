@@ -1,5 +1,0 @@
-#name : titleTextAttributesForState
-#group : UISegmentedControl
-#key : titleTextAttributesForState
-# --
-titleTextAttributesForState:${1:(UIControlState)state}

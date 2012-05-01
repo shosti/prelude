@@ -1,5 +1,0 @@
-#name : positionAdjustmentForSearchBarIcon
-#group : UISearchBar
-#key : positionAdjustmentForSearchBarIcon
-# --
-positionAdjustmentForSearchBarIcon:${1:(UISearchBarIcon)icon}

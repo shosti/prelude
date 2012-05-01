@@ -1,5 +1,0 @@
-#name : scheduleInRunLoop:forMode
-#group : NSURLConnection
-#key : scheduleInRunLoop:forMode
-# --
-scheduleInRunLoop:${1:(NSRunLoop *)aRunLoop} forMode:${2:(NSString *)mode}

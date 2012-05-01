@@ -1,5 +1,0 @@
-#name : setAffectedStores
-#group : NSPersistentStoreRequest
-#key : setAffectedStores
-# --
-setAffectedStores:${1:(NSArray*)stores}

@@ -1,5 +1,0 @@
-#name : unscheduleFromRunLoop:forMode
-#group : NSURLConnection
-#key : unscheduleFromRunLoop:forMode
-# --
-unscheduleFromRunLoop:${1:(NSRunLoop *)aRunLoop} forMode:${2:(NSString *)mode}

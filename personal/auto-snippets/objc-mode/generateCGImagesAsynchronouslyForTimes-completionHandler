@@ -1,5 +1,0 @@
-#name : generateCGImagesAsynchronouslyForTimes:completionHandler
-#group : AVAssetImageGenerator
-#key : generateCGImagesAsynchronouslyForTimes:completionHandler
-# --
-generateCGImagesAsynchronouslyForTimes:${1:(NSArray *)requestedTimes} completionHandler:${2:(AVAssetImageGeneratorCompletionHandler)handler}

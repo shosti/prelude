@@ -1,5 +1,0 @@
-#name : canOpenURL
-#group : UIApplication
-#key : canOpenURL
-# --
-canOpenURL:${1:(NSURL *)url}

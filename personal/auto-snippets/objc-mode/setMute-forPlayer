@@ -1,5 +1,0 @@
-#name : setMute:forPlayer
-#group : GKVoiceChat
-#key : setMute:forPlayer
-# --
-setMute:${1:(BOOL)isMuted} forPlayer:${2:(NSString *)playerID}

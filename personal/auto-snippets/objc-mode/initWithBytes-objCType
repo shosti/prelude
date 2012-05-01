@@ -1,5 +1,0 @@
-#name : initWithBytes:objCType
-#group : NSValue
-#key : initWithBytes:objCType
-# --
-initWithBytes:${1:(const void *)value} objCType:${2:(const char *)type}

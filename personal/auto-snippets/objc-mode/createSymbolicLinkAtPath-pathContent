@@ -1,5 +1,0 @@
-#name : createSymbolicLinkAtPath:pathContent
-#group : NSFileManager
-#key : createSymbolicLinkAtPath:pathContent
-# --
-createSymbolicLinkAtPath:${1:(NSString *)path} pathContent:${2:(NSString *)otherpath}

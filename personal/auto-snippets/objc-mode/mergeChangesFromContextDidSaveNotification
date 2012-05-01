@@ -1,5 +1,0 @@
-#name : mergeChangesFromContextDidSaveNotification
-#group : NSManagedObjectContext
-#key : mergeChangesFromContextDidSaveNotification
-# --
-mergeChangesFromContextDidSaveNotification:${1:(NSNotification *)notification}

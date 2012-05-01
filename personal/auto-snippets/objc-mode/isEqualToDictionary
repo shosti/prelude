@@ -1,5 +1,0 @@
-#name : isEqualToDictionary
-#group : NSDictionary
-#key : isEqualToDictionary
-# --
-isEqualToDictionary:${1:(NSDictionary *)otherDictionary}

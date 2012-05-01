@@ -1,5 +1,0 @@
-#name : searchBarBookmarkButtonClicked
-#group : UISearchBar
-#key : searchBarBookmarkButtonClicked
-# --
-searchBarBookmarkButtonClicked:${1:(UISearchBar *)searchBar}

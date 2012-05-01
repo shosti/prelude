@@ -1,5 +1,0 @@
-#name : exchangeSubviewAtIndex:withSubviewAtIndex
-#group : UIView
-#key : exchangeSubviewAtIndex:withSubviewAtIndex
-# --
-exchangeSubviewAtIndex:${1:(NSInteger)index1} withSubviewAtIndex:${2:(NSInteger)index2}

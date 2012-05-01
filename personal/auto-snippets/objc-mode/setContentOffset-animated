@@ -1,5 +1,0 @@
-#name : setContentOffset:animated
-#group : UIScrollView
-#key : setContentOffset:animated
-# --
-setContentOffset:${1:(CGPoint)contentOffset} animated:${2:(BOOL)animated}

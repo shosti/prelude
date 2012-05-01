@@ -1,5 +1,0 @@
-#name : getParagraphStart:end:contentsEnd:forRange
-#group : NSString
-#key : getParagraphStart:end:contentsEnd:forRange
-# --
-getParagraphStart:${1:(NSUInteger *)startPtr} end:${2:(NSUInteger *)parEndPtr} contentsEnd:${3:(NSUInteger *)contentsEndPtr} forRange:${4:(NSRange)range}

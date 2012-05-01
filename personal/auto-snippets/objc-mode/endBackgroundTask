@@ -1,5 +1,0 @@
-#name : endBackgroundTask
-#group : UIApplication
-#key : endBackgroundTask
-# --
-endBackgroundTask:${1:(UIBackgroundTaskIdentifier)identifier}

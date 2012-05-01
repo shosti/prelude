@@ -1,5 +1,0 @@
-#name : setCoordinate
-#group : MKAnnotation
-#key : setCoordinate
-# --
-setCoordinate:${1:(CLLocationCoordinate2D)newCoordinate}

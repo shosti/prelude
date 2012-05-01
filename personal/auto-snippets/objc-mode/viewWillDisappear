@@ -1,5 +1,0 @@
-#name : viewWillDisappear
-#group : UIViewController
-#key : viewWillDisappear
-# --
-viewWillDisappear:${1:(BOOL)animated}

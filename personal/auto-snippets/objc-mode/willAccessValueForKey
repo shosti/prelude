@@ -1,5 +1,0 @@
-#name : willAccessValueForKey
-#group : NSManagedObject
-#key : willAccessValueForKey
-# --
-willAccessValueForKey:${1:(NSString *)key}

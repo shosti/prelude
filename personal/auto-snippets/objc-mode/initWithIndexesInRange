@@ -1,5 +1,0 @@
-#name : initWithIndexesInRange
-#group : NSIndexSet
-#key : initWithIndexesInRange
-# --
-initWithIndexesInRange:${1:(NSRange)range}

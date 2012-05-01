@@ -1,5 +1,0 @@
-#name : setRenamingIdentifier
-#group : NSPropertyDescription
-#key : setRenamingIdentifier
-# --
-setRenamingIdentifier:${1:(NSString *)value}

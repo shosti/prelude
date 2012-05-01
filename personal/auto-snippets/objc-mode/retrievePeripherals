@@ -1,5 +1,0 @@
-#name : retrievePeripherals
-#group : CBCentralManager
-#key : retrievePeripherals
-# --
-retrievePeripherals:${1:(NSArray *)peripheralUUIDs}

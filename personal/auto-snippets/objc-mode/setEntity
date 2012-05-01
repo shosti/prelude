@@ -1,5 +1,0 @@
-#name : setEntity
-#group : NSFetchRequest
-#key : setEntity
-# --
-setEntity:${1:(NSEntityDescription *)entity}

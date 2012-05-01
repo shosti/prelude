@@ -1,5 +1,0 @@
-#name : decodeIntForKey
-#group : NSKeyedArchiver
-#key : decodeIntForKey
-# --
-decodeIntForKey:${1:(NSString *)key}

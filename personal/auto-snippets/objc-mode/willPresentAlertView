@@ -1,5 +1,0 @@
-#name : willPresentAlertView
-#group : UIAlertView
-#key : willPresentAlertView
-# --
-willPresentAlertView:${1:(UIAlertView *)alertView}

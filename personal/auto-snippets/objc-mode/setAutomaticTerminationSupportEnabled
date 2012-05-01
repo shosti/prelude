@@ -1,5 +1,0 @@
-#name : setAutomaticTerminationSupportEnabled
-#group : NSProcessInfo
-#key : setAutomaticTerminationSupportEnabled
-# --
-setAutomaticTerminationSupportEnabled:${1:(BOOL)flag}

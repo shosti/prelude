@@ -1,5 +1,0 @@
-#name : setMinusSign
-#group : NSNumberFormatter
-#key : setMinusSign
-# --
-setMinusSign:${1:(NSString *)string}

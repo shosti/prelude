@@ -1,5 +1,0 @@
-#name : tableView:targetIndexPathForMoveFromRowAtIndexPath:toProposedIndexPath
-#group : UITableView
-#key : tableView:targetIndexPathForMoveFromRowAtIndexPath:toProposedIndexPath
-# --
-tableView:${1:(UITableView *)tableView} targetIndexPathForMoveFromRowAtIndexPath:${2:(NSIndexPath *)sourceIndexPath} toProposedIndexPath:${3:(NSIndexPath *)proposedDestinationIndexPath}

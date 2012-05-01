@@ -1,5 +1,0 @@
-#name : addPayment
-#group : SKPaymentQueue
-#key : addPayment
-# --
-addPayment:${1:(SKPayment *)payment}

@@ -1,5 +1,0 @@
-#name : addInput
-#group : AVCaptureSession
-#key : addInput
-# --
-addInput:${1:(AVCaptureInput *)input}

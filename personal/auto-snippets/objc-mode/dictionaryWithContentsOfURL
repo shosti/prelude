@@ -1,5 +1,0 @@
-#name : dictionaryWithContentsOfURL
-#group : NSDictionary
-#key : dictionaryWithContentsOfURL
-# --
-dictionaryWithContentsOfURL:${1:(NSURL *)url}

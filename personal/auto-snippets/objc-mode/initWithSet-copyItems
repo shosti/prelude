@@ -1,5 +1,0 @@
-#name : initWithSet:copyItems
-#group : NSSet
-#key : initWithSet:copyItems
-# --
-initWithSet:${1:(NSSet *)set} copyItems:${2:(BOOL)flag}

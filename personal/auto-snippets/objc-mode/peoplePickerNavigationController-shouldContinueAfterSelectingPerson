@@ -1,5 +1,0 @@
-#name : peoplePickerNavigationController:shouldContinueAfterSelectingPerson
-#group : ABPeoplePickerNavigationController
-#key : peoplePickerNavigationController:shouldContinueAfterSelectingPerson
-# --
-peoplePickerNavigationController:${1:(ABPeoplePickerNavigationController *)peoplePicker} shouldContinueAfterSelectingPerson:${2:(ABRecordRef)person}

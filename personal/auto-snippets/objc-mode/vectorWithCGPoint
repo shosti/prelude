@@ -1,5 +1,0 @@
-#name : vectorWithCGPoint
-#group : CIVector
-#key : vectorWithCGPoint
-# --
-vectorWithCGPoint:${1:(CGPoint)p}

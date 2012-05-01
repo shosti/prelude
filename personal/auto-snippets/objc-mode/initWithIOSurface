@@ -1,5 +1,0 @@
-#name : initWithIOSurface
-#group : CIImage
-#key : initWithIOSurface
-# --
-initWithIOSurface:${1:(IOSurfaceRef)surface}

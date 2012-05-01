@@ -1,5 +1,0 @@
-#name : initWithRequest:cachedResponse
-#group : NSURLProtocol
-#key : initWithRequest:cachedResponse
-# --
-initWithRequest:${1:(NSURLRequest *)request} cachedResponse:${2:(NSCachedURLResponse *)cachedResponse}

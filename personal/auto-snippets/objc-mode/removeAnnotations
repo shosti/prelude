@@ -1,5 +1,0 @@
-#name : removeAnnotations
-#group : MKMapView
-#key : removeAnnotations
-# --
-removeAnnotations:${1:(NSArray *)annotations}

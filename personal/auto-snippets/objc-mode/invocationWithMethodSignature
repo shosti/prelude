@@ -1,5 +1,0 @@
-#name : invocationWithMethodSignature
-#group : NSInvocation
-#key : invocationWithMethodSignature
-# --
-invocationWithMethodSignature:${1:(NSMethodSignature *)sig}

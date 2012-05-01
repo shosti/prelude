@@ -1,5 +1,0 @@
-#name : expressionForConstantValue
-#group : NSExpression
-#key : expressionForConstantValue
-# --
-expressionForConstantValue:${1:(id)obj}

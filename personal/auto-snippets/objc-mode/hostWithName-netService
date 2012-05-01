@@ -1,5 +1,0 @@
-#name : hostWithName:netService
-#group : MIDINetworkSession
-#key : hostWithName:netService
-# --
-hostWithName:${1:(NSString *)name} netService:${2:(NSNetService *)netService}

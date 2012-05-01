@@ -1,5 +1,0 @@
-#name : mapView:annotationView:didChangeDragState
-#group : MKMapView
-#key : mapView:annotationView:didChangeDragState
-# --
-mapView:${1:(MKMapView *)mapView} annotationView:${2:(MKAnnotationView *)view} didChangeDragState:${3:(MKAnnotationViewDragState)newState}

@@ -1,5 +1,0 @@
-#name : motionBegan:withEvent
-#group : UIResponder
-#key : motionBegan:withEvent
-# --
-motionBegan:${1:(UIEventSubtype)motion} withEvent:${2:(UIEvent *)event}

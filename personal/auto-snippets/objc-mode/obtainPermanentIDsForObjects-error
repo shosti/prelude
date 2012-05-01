@@ -1,5 +1,0 @@
-#name : obtainPermanentIDsForObjects:error
-#group : NSManagedObjectContext
-#key : obtainPermanentIDsForObjects:error
-# --
-obtainPermanentIDsForObjects:${1:(NSArray *)objects} error:${2:(NSError **)error}

@@ -1,5 +1,0 @@
-#name : removeAttribute:range
-#group : NSAttributedString
-#key : removeAttribute:range
-# --
-removeAttribute:${1:(NSString *)name} range:${2:(NSRange)range}

@@ -1,5 +1,0 @@
-#name : initWithFileDescriptor:closeOnDealloc
-#group : NSFileHandle
-#key : initWithFileDescriptor:closeOnDealloc
-# --
-initWithFileDescriptor:${1:(int)fd} closeOnDealloc:${2:(BOOL)closeopt}

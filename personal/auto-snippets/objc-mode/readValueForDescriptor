@@ -1,5 +1,0 @@
-#name : readValueForDescriptor
-#group : CBPeripheral
-#key : readValueForDescriptor
-# --
-readValueForDescriptor:${1:(CBDescriptor *)descriptor}

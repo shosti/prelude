@@ -1,5 +1,0 @@
-#name : setSubentities
-#group : NSEntityDescription
-#key : setSubentities
-# --
-setSubentities:${1:(NSArray *)array}

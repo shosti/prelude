@@ -1,5 +1,0 @@
-#name : setAttributedStringForZero
-#group : NSNumberFormatter
-#key : setAttributedStringForZero
-# --
-setAttributedStringForZero:${1:(NSAttributedString *)newAttributedString}

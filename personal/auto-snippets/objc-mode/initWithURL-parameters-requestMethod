@@ -1,5 +1,0 @@
-#name : initWithURL:parameters:requestMethod
-#group : TWRequest
-#key : initWithURL:parameters:requestMethod
-# --
-initWithURL:${1:(NSURL *)url} parameters:${2:(NSDictionary *)parameters} requestMethod:${3:(TWRequestMethod)requestMethod}

@@ -1,5 +1,0 @@
-#name : loadNibNamed:owner:options
-#group : UINibLoading
-#key : loadNibNamed:owner:options
-# --
-loadNibNamed:${1:(NSString *)name} owner:${2:(id)owner} options:${3:(NSDictionary *)options}

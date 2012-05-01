@@ -5,6 +5,7 @@ savehist
 saveplace
 personal/eshell/history
 personal/eshell/lastdir
+personal/auto-snippets
 elpa
 el-get
 semanticdb

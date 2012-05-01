@@ -1,5 +1,0 @@
-#name : isTorchModeSupported
-#group : AVCaptureDevice
-#key : isTorchModeSupported
-# --
-isTorchModeSupported:${1:(AVCaptureTorchMode)torchMode}

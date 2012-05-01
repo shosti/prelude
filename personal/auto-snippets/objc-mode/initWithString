@@ -1,5 +1,0 @@
-#name : initWithString
-#group : NSURL
-#key : initWithString
-# --
-initWithString:${1:(NSString *)URLString}

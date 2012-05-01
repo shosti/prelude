@@ -1,5 +1,0 @@
-#name : managedObjectContextDidRegisterObjectsWithIDs
-#group : NSIncrementalStore
-#key : managedObjectContextDidRegisterObjectsWithIDs
-# --
-managedObjectContextDidRegisterObjectsWithIDs:${1:(NSArray*)objectIDs}

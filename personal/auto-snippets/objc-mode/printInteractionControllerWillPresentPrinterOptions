@@ -1,5 +1,0 @@
-#name : printInteractionControllerWillPresentPrinterOptions
-#group : UIPrintInteractionController
-#key : printInteractionControllerWillPresentPrinterOptions
-# --
-printInteractionControllerWillPresentPrinterOptions:${1:(UIPrintInteractionController *)printInteractionController}

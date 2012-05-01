@@ -1,5 +1,0 @@
-#name : registerUndoWithTarget:selector:object
-#group : NSUndoManager
-#key : registerUndoWithTarget:selector:object
-# --
-registerUndoWithTarget:${1:(id)target} selector:${2:(SEL)selector} object:${3:(id)anObject}

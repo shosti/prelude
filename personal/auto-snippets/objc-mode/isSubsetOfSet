@@ -1,5 +1,0 @@
-#name : isSubsetOfSet
-#group : NSSet
-#key : isSubsetOfSet
-# --
-isSubsetOfSet:${1:(NSSet *)otherSet}

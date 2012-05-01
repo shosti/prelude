@@ -1,5 +1,0 @@
-#name : selectAll
-#group : UIResponder
-#key : selectAll
-# --
-selectAll:${1:(id)sender}

@@ -1,5 +1,0 @@
-#name : setPositiveSuffix
-#group : NSNumberFormatter
-#key : setPositiveSuffix
-# --
-setPositiveSuffix:${1:(NSString *)string}

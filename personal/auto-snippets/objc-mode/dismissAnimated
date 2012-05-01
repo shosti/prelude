@@ -1,5 +1,0 @@
-#name : dismissAnimated
-#group : UIPrintInteractionController
-#key : dismissAnimated
-# --
-dismissAnimated:${1:(BOOL)animated}

@@ -1,5 +1,0 @@
-#name : setPreferredFilename
-#group : NSFileWrapper
-#key : setPreferredFilename
-# --
-setPreferredFilename:${1:(NSString *)fileName}

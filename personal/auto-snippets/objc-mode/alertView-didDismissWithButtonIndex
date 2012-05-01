@@ -1,5 +1,0 @@
-#name : alertView:didDismissWithButtonIndex
-#group : UIAlertView
-#key : alertView:didDismissWithButtonIndex
-# --
-alertView:${1:(UIAlertView *)alertView} didDismissWithButtonIndex:${2:(NSInteger)buttonIndex}

@@ -1,5 +1,0 @@
-#name : remoteControlReceivedWithEvent
-#group : UIResponder
-#key : remoteControlReceivedWithEvent
-# --
-remoteControlReceivedWithEvent:${1:(UIEvent *)event}

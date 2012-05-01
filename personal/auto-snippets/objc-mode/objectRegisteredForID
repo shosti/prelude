@@ -1,5 +1,0 @@
-#name : objectRegisteredForID
-#group : NSManagedObjectContext
-#key : objectRegisteredForID
-# --
-objectRegisteredForID:${1:(NSManagedObjectID *)objectID}

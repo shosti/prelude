@@ -1,5 +1,0 @@
-#name : endRelationshipCreationForEntityMapping:manager:error
-#group : NSEntityMigrationPolicy
-#key : endRelationshipCreationForEntityMapping:manager:error
-# --
-endRelationshipCreationForEntityMapping:${1:(NSEntityMapping *)mapping} manager:${2:(NSMigrationManager *)manager} error:${3:(NSError **)error}

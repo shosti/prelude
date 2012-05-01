@@ -1,5 +1,0 @@
-#name : netServiceBrowserDidStopSearch
-#group : NSNetServices
-#key : netServiceBrowserDidStopSearch
-# --
-netServiceBrowserDidStopSearch:${1:(NSNetServiceBrowser *)aNetServiceBrowser}

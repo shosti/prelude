@@ -1,5 +1,0 @@
-#name : encodeUIEdgeInsets:forKey
-#group : UIGeometry
-#key : encodeUIEdgeInsets:forKey
-# --
-encodeUIEdgeInsets:${1:(UIEdgeInsets)insets} forKey:${2:(NSString *)key}

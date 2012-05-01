@@ -1,5 +1,0 @@
-#name : scanInteger
-#group : NSScanner
-#key : scanInteger
-# --
-scanInteger:${1:(NSInteger *)value}

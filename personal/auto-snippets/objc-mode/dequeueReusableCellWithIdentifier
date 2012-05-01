@@ -1,5 +1,0 @@
-#name : dequeueReusableCellWithIdentifier
-#group : UITableView
-#key : dequeueReusableCellWithIdentifier
-# --
-dequeueReusableCellWithIdentifier:${1:(NSString *)identifier}

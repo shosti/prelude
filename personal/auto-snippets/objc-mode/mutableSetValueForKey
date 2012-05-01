@@ -1,5 +1,0 @@
-#name : mutableSetValueForKey
-#group : NSKeyValueCoding
-#key : mutableSetValueForKey
-# --
-mutableSetValueForKey:${1:(NSString *)key}

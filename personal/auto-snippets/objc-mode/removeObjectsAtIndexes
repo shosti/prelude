@@ -1,5 +1,0 @@
-#name : removeObjectsAtIndexes
-#group : NSOrderedSet
-#key : removeObjectsAtIndexes
-# --
-removeObjectsAtIndexes:${1:(NSIndexSet *)indexes}

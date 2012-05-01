@@ -1,5 +1,0 @@
-#name : convertRect:fromLayer
-#group : CALayer
-#key : convertRect:fromLayer
-# --
-convertRect:${1:(CGRect)r} fromLayer:${2:(CALayer *)l}

@@ -1,5 +1,0 @@
-#name : recurrenceEndWithEndDate
-#group : EKRecurrenceEnd
-#key : recurrenceEndWithEndDate
-# --
-recurrenceEndWithEndDate:${1:(NSDate *)endDate}

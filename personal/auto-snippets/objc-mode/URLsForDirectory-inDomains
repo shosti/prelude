@@ -1,5 +1,0 @@
-#name : URLsForDirectory:inDomains
-#group : NSFileManager
-#key : URLsForDirectory:inDomains
-# --
-URLsForDirectory:${1:(NSSearchPathDirectory)directory} inDomains:${2:(NSSearchPathDomainMask)domainMask}

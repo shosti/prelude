@@ -1,5 +1,0 @@
-#name : accommodatePresentedSubitemDeletionAtURL
-#group : NSFilePresenter
-#key : accommodatePresentedSubitemDeletionAtURL
-# --
-accommodatePresentedSubitemDeletionAtURL:${1:(NSURL *)url}

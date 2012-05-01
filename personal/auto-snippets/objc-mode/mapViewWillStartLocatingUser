@@ -1,5 +1,0 @@
-#name : mapViewWillStartLocatingUser
-#group : MKMapView
-#key : mapViewWillStartLocatingUser
-# --
-mapViewWillStartLocatingUser:${1:(MKMapView *)mapView}

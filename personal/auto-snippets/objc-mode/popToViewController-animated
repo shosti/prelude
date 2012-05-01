@@ -1,5 +1,0 @@
-#name : popToViewController:animated
-#group : UINavigationController
-#key : popToViewController:animated
-# --
-popToViewController:${1:(UIViewController *)viewController} animated:${2:(BOOL)animated}

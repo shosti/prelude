@@ -1,5 +1,0 @@
-#name : geocodeAddressString:completionHandler
-#group : CLGeocoder
-#key : geocodeAddressString:completionHandler
-# --
-geocodeAddressString:${1:(NSString *)addressString} completionHandler:${2:(CLGeocodeCompletionHandler)completionHandler}

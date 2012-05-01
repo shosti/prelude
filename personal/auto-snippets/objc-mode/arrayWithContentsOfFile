@@ -1,5 +1,0 @@
-#name : arrayWithContentsOfFile
-#group : NSArray
-#key : arrayWithContentsOfFile
-# --
-arrayWithContentsOfFile:${1:(NSString *)path}

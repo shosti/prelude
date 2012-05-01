@@ -1,5 +1,0 @@
-#name : countByEnumeratingWithState
-#group : NSEnumerator
-#key : countByEnumeratingWithState
-# --
-countByEnumeratingWithState:${1:(NSFastEnumerationState *)state}

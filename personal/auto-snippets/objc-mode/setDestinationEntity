@@ -1,5 +1,0 @@
-#name : setDestinationEntity
-#group : NSRelationshipDescription
-#key : setDestinationEntity
-# --
-setDestinationEntity:${1:(NSEntityDescription *)entity}

@@ -1,5 +1,0 @@
-#name : setUserInfo
-#group : NSPropertyMapping
-#key : setUserInfo
-# --
-setUserInfo:${1:(NSDictionary *)userInfo}

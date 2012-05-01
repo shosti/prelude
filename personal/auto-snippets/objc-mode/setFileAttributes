@@ -1,5 +1,0 @@
-#name : setFileAttributes
-#group : NSFileWrapper
-#key : setFileAttributes
-# --
-setFileAttributes:${1:(NSDictionary *)fileAttributes}

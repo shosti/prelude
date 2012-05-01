@@ -1,5 +1,0 @@
-#name : arrayWithCapacity
-#group : NSArray
-#key : arrayWithCapacity
-# --
-arrayWithCapacity:${1:(NSUInteger)numItems}

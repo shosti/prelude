@@ -1,5 +1,0 @@
-#name : addRecipientsWithPlayerIDs
-#group : GKFriendRequestComposeViewController
-#key : addRecipientsWithPlayerIDs
-# --
-addRecipientsWithPlayerIDs:${1:(NSArray *)playerIDs}

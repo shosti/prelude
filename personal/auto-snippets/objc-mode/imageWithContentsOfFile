@@ -1,5 +1,0 @@
-#name : imageWithContentsOfFile
-#group : UIImage
-#key : imageWithContentsOfFile
-# --
-imageWithContentsOfFile:${1:(NSString *)path}

@@ -1,5 +1,0 @@
-#name : setExpression
-#group : NSExpressionDescription
-#key : setExpression
-# --
-setExpression:${1:(NSExpression *)expression}

@@ -1,5 +1,0 @@
-#name : validateForDelete
-#group : NSManagedObject
-#key : validateForDelete
-# --
-validateForDelete:${1:(NSError **)error}

@@ -1,5 +1,0 @@
-#name : contextWithOptions
-#group : CIContext
-#key : contextWithOptions
-# --
-contextWithOptions:${1:(NSDictionary *)dict}

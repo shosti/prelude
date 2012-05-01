@@ -1,5 +1,0 @@
-#name : netServiceBrowser:didFindService:moreComing
-#group : NSNetServices
-#key : netServiceBrowser:didFindService:moreComing
-# --
-netServiceBrowser:${1:(NSNetServiceBrowser *)aNetServiceBrowser} didFindService:${2:(NSNetService *)aNetService} moreComing:${3:(BOOL)moreComing}

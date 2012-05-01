@@ -1,5 +1,0 @@
-#name : setAbstract
-#group : NSEntityDescription
-#key : setAbstract
-# --
-setAbstract:${1:(BOOL)flag}

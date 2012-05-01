@@ -1,5 +1,0 @@
-#name : tableView:commitEditingStyle:forRowAtIndexPath
-#group : UITableView
-#key : tableView:commitEditingStyle:forRowAtIndexPath
-# --
-tableView:${1:(UITableView *)tableView} commitEditingStyle:${2:(UITableViewCellEditingStyle)editingStyle} forRowAtIndexPath:${3:(NSIndexPath *)indexPath}

@@ -1,5 +1,0 @@
-#name : fileSystemAttributesAtPath
-#group : NSFileManager
-#key : fileSystemAttributesAtPath
-# --
-fileSystemAttributesAtPath:${1:(NSString *)path}

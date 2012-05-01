@@ -1,5 +1,0 @@
-#name : boldSystemFontOfSize
-#group : UIFont
-#key : boldSystemFontOfSize
-# --
-boldSystemFontOfSize:${1:(CGFloat)fontSize}

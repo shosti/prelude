@@ -1,5 +1,0 @@
-#name : displayNameAtPath
-#group : NSFileManager
-#key : displayNameAtPath
-# --
-displayNameAtPath:${1:(NSString *)path}

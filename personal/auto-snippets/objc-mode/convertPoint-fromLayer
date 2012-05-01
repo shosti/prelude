@@ -1,5 +1,0 @@
-#name : convertPoint:fromLayer
-#group : CALayer
-#key : convertPoint:fromLayer
-# --
-convertPoint:${1:(CGPoint)p} fromLayer:${2:(CALayer *)l}

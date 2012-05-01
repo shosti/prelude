@@ -1,5 +1,0 @@
-#name : dataWithContentsOfMappedFile
-#group : NSData
-#key : dataWithContentsOfMappedFile
-# --
-dataWithContentsOfMappedFile:${1:(NSString *)path}

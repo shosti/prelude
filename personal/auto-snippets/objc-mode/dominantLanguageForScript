@@ -1,5 +1,0 @@
-#name : dominantLanguageForScript
-#group : NSOrthography
-#key : dominantLanguageForScript
-# --
-dominantLanguageForScript:${1:(NSString *)script}

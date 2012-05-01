@@ -1,5 +1,0 @@
-#name : mapPointForPoint
-#group : MKOverlayView
-#key : mapPointForPoint
-# --
-mapPointForPoint:${1:(CGPoint)point}

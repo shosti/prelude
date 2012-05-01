@@ -1,5 +1,0 @@
-#name : isDeletableFileAtPath
-#group : NSFileManager
-#key : isDeletableFileAtPath
-# --
-isDeletableFileAtPath:${1:(NSString *)path}

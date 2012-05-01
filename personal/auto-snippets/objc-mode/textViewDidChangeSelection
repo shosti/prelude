@@ -1,5 +1,0 @@
-#name : textViewDidChangeSelection
-#group : UITextView
-#key : textViewDidChangeSelection
-# --
-textViewDidChangeSelection:${1:(UITextView *)textView}

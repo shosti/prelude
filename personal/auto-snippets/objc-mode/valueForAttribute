@@ -1,5 +1,0 @@
-#name : valueForAttribute
-#group : NSMetadata
-#key : valueForAttribute
-# --
-valueForAttribute:${1:(NSString *)key}

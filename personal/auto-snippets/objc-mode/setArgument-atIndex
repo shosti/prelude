@@ -1,5 +1,0 @@
-#name : setArgument:atIndex
-#group : NSInvocation
-#key : setArgument:atIndex
-# --
-setArgument:${1:(void *)argumentLocation} atIndex:${2:(NSInteger)idx}

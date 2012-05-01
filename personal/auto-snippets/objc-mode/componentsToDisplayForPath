@@ -1,5 +1,0 @@
-#name : componentsToDisplayForPath
-#group : NSFileManager
-#key : componentsToDisplayForPath
-# --
-componentsToDisplayForPath:${1:(NSString *)path}

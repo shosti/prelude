@@ -1,5 +1,0 @@
-#name : webView:didFailLoadWithError
-#group : UIWebView
-#key : webView:didFailLoadWithError
-# --
-webView:${1:(UIWebView *)webView} didFailLoadWithError:${2:(NSError *)error}

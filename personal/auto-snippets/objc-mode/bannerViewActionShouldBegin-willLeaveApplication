@@ -1,5 +1,0 @@
-#name : bannerViewActionShouldBegin:willLeaveApplication
-#group : ADBannerView
-#key : bannerViewActionShouldBegin:willLeaveApplication
-# --
-bannerViewActionShouldBegin:${1:(ADBannerView *)banner} willLeaveApplication:${2:(BOOL)willLeave}

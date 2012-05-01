@@ -1,5 +1,0 @@
-#name : setFireDate
-#group : NSTimer
-#key : setFireDate
-# --
-setFireDate:${1:(NSDate *)date}

@@ -1,5 +1,0 @@
-#name : performSelector:withObject:afterDelay
-#group : NSRunLoop
-#key : performSelector:withObject:afterDelay
-# --
-performSelector:${1:(SEL)aSelector} withObject:${2:(id)anArgument} afterDelay:${3:(NSTimeInterval)delay}

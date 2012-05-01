@@ -1,5 +1,0 @@
-#name : createDirectoryAtPath:attributes
-#group : NSFileManager
-#key : createDirectoryAtPath:attributes
-# --
-createDirectoryAtPath:${1:(NSString *)path} attributes:${2:(NSDictionary *)attributes}

@@ -1,5 +1,0 @@
-#name : showInView
-#group : UIActionSheet
-#key : showInView
-# --
-showInView:${1:(UIView *)view}

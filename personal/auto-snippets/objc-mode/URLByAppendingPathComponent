@@ -1,5 +1,0 @@
-#name : URLByAppendingPathComponent
-#group : NSURL
-#key : URLByAppendingPathComponent
-# --
-URLByAppendingPathComponent:${1:(NSString *)pathComponent}

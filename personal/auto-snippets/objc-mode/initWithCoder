@@ -1,5 +1,0 @@
-#name : initWithCoder
-#group : NSObject
-#key : initWithCoder
-# --
-initWithCoder:${1:(NSCoder *)aDecoder}

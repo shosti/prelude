@@ -1,5 +1,0 @@
-#name : URLProtocolDidFinishLoading
-#group : NSURLProtocol
-#key : URLProtocolDidFinishLoading
-# --
-URLProtocolDidFinishLoading:${1:(NSURLProtocol *)protocol}

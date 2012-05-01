@@ -1,5 +1,0 @@
-#name : initWithDecimal
-#group : NSDecimalNumber
-#key : initWithDecimal
-# --
-initWithDecimal:${1:(NSDecimal)dcm}

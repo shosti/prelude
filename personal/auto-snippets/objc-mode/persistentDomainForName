@@ -1,5 +1,0 @@
-#name : persistentDomainForName
-#group : NSUserDefaults
-#key : persistentDomainForName
-# --
-persistentDomainForName:${1:(NSString *)domainName}

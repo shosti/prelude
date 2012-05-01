@@ -1,5 +1,0 @@
-#name : initWithKey:ascending
-#group : NSSortDescriptor
-#key : initWithKey:ascending
-# --
-initWithKey:${1:(NSString *)key} ascending:${2:(BOOL)ascending}

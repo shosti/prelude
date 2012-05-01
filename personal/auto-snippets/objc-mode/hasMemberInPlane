@@ -1,5 +1,0 @@
-#name : hasMemberInPlane
-#group : NSCharacterSet
-#key : hasMemberInPlane
-# --
-hasMemberInPlane:${1:(uint8_t)thePlane}

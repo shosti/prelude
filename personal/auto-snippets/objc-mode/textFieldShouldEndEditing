@@ -1,5 +1,0 @@
-#name : textFieldShouldEndEditing
-#group : UITextField
-#key : textFieldShouldEndEditing
-# --
-textFieldShouldEndEditing:${1:(UITextField *)textField}

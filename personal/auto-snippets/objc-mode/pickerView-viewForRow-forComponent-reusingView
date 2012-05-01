@@ -1,5 +1,0 @@
-#name : pickerView:viewForRow:forComponent:reusingView
-#group : UIPickerView
-#key : pickerView:viewForRow:forComponent:reusingView
-# --
-pickerView:${1:(UIPickerView *)pickerView} viewForRow:${2:(NSInteger)row} forComponent:${3:(NSInteger)component} reusingView:${4:(UIView *)view}

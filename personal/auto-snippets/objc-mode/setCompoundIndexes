@@ -1,5 +1,0 @@
-#name : setCompoundIndexes
-#group : NSEntityDescription
-#key : setCompoundIndexes
-# --
-setCompoundIndexes:${1:(NSArray *)value}

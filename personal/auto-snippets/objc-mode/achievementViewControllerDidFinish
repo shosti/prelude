@@ -1,5 +1,0 @@
-#name : achievementViewControllerDidFinish
-#group : GKAchievementViewController
-#key : achievementViewControllerDidFinish
-# --
-achievementViewControllerDidFinish:${1:(GKAchievementViewController *)viewController}

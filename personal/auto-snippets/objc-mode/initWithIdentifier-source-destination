@@ -1,5 +1,0 @@
-#name : initWithIdentifier:source:destination
-#group : UIStoryboardSegue
-#key : initWithIdentifier:source:destination
-# --
-initWithIdentifier:${1:(NSString *)identifier} source:${2:(UIViewController *)source} destination:${3:(UIViewController *)destination}

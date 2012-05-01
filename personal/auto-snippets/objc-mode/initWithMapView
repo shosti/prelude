@@ -1,5 +1,0 @@
-#name : initWithMapView
-#group : MKUserTrackingBarButtonItem
-#key : initWithMapView
-# --
-initWithMapView:${1:(MKMapView *)mapView}

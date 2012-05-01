@@ -1,5 +1,0 @@
-#name : scanDouble
-#group : NSScanner
-#key : scanDouble
-# --
-scanDouble:${1:(double *)value}

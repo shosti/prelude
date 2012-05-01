@@ -1,5 +1,0 @@
-#name : willAnimateFirstHalfOfRotationToInterfaceOrientation:duration
-#group : UIViewController
-#key : willAnimateFirstHalfOfRotationToInterfaceOrientation:duration
-# --
-willAnimateFirstHalfOfRotationToInterfaceOrientation:${1:(UIInterfaceOrientation)toInterfaceOrientation} duration:${2:(NSTimeInterval)duration}

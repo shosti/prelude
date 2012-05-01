@@ -1,5 +1,0 @@
-#name : setValuesForKeysWithDictionary
-#group : NSKeyValueCoding
-#key : setValuesForKeysWithDictionary
-# --
-setValuesForKeysWithDictionary:${1:(NSDictionary *)keyedValues}

@@ -1,5 +1,0 @@
-#name : paymentQueue:restoreCompletedTransactionsFailedWithError
-#group : SKPaymentQueue
-#key : paymentQueue:restoreCompletedTransactionsFailedWithError
-# --
-paymentQueue:${1:(SKPaymentQueue *)queue} restoreCompletedTransactionsFailedWithError:${2:(NSError *)error}

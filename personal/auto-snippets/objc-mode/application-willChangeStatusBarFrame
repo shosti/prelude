@@ -1,5 +1,0 @@
-#name : application:willChangeStatusBarFrame
-#group : UIApplication
-#key : application:willChangeStatusBarFrame
-# --
-application:${1:(UIApplication *)application} willChangeStatusBarFrame:${2:(CGRect)newStatusBarFrame}

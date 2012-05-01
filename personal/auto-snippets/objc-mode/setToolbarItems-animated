@@ -1,5 +1,0 @@
-#name : setToolbarItems:animated
-#group : UINavigationController
-#key : setToolbarItems:animated
-# --
-setToolbarItems:${1:(NSArray *)toolbarItems} animated:${2:(BOOL)animated}

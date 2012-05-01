@@ -1,5 +1,0 @@
-#name : showFromTabBar
-#group : UIActionSheet
-#key : showFromTabBar
-# --
-showFromTabBar:${1:(UITabBar *)view}

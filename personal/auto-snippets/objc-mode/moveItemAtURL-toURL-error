@@ -1,5 +1,0 @@
-#name : moveItemAtURL:toURL:error
-#group : NSFileManager
-#key : moveItemAtURL:toURL:error
-# --
-moveItemAtURL:${1:(NSURL *)srcURL} toURL:${2:(NSURL *)dstURL} error:${3:(NSError **)error}

@@ -1,5 +1,0 @@
-#name : pathsForResourcesOfType:inDirectory
-#group : NSBundle
-#key : pathsForResourcesOfType:inDirectory
-# --
-pathsForResourcesOfType:${1:(NSString *)ext} inDirectory:${2:(NSString *)subpath}

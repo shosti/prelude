@@ -1,5 +1,0 @@
-#name : methodForSelector
-#group : NSObject
-#key : methodForSelector
-# --
-methodForSelector:${1:(SEL)aSelector}

@@ -1,5 +1,0 @@
-#name : sortDescriptorWithKey:ascending:selector
-#group : NSSortDescriptor
-#key : sortDescriptorWithKey:ascending:selector
-# --
-sortDescriptorWithKey:${1:(NSString *)key} ascending:${2:(BOOL)ascending} selector:${3:(SEL)selector}

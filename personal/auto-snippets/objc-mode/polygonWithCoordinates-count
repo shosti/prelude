@@ -1,5 +1,0 @@
-#name : polygonWithCoordinates:count
-#group : MKPolygon
-#key : polygonWithCoordinates:count
-# --
-polygonWithCoordinates:${1:(CLLocationCoordinate2D *)coords} count:${2:(NSUInteger)count}

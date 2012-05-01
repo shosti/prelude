@@ -1,5 +1,0 @@
-#name : setSubject
-#group : MFMailComposeViewController
-#key : setSubject
-# --
-setSubject:${1:(NSString *)subject}

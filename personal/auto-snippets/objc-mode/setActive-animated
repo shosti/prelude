@@ -1,5 +1,0 @@
-#name : setActive:animated
-#group : UISearchDisplayController
-#key : setActive:animated
-# --
-setActive:${1:(BOOL)visible} animated:${2:(BOOL)animated}

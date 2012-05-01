@@ -1,5 +1,0 @@
-#name : valueWithUIEdgeInsets
-#group : UIGeometry
-#key : valueWithUIEdgeInsets
-# --
-valueWithUIEdgeInsets:${1:(UIEdgeInsets)insets}

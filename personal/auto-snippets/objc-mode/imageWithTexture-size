@@ -1,5 +1,0 @@
-#name : imageWithTexture:size
-#group : CIImage
-#key : imageWithTexture:size
-# --
-imageWithTexture:${1:(unsigned int)name} size:${2:(CGSize)size}

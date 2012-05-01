@@ -1,5 +1,0 @@
-#name : canFilterByProperty
-#group : MPMediaEntity
-#key : canFilterByProperty
-# --
-canFilterByProperty:${1:(NSString *)property}

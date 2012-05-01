@@ -1,5 +1,0 @@
-#name : initWithTerm
-#group : UIReferenceLibraryViewController
-#key : initWithTerm
-# --
-initWithTerm:${1:(NSString *)term}

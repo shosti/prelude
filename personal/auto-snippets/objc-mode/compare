@@ -1,5 +1,0 @@
-#name : compare
-#group : NSValue
-#key : compare
-# --
-compare:${1:(NSNumber *)otherNumber}

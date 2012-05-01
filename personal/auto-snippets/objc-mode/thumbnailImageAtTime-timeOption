@@ -1,5 +1,0 @@
-#name : thumbnailImageAtTime:timeOption
-#group : MPMoviePlayerController
-#key : thumbnailImageAtTime:timeOption
-# --
-thumbnailImageAtTime:${1:(NSTimeInterval)playbackTime} timeOption:${2:(MPMovieTimeOption)option}

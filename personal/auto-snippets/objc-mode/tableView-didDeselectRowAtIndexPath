@@ -1,5 +1,0 @@
-#name : tableView:didDeselectRowAtIndexPath
-#group : UITableView
-#key : tableView:didDeselectRowAtIndexPath
-# --
-tableView:${1:(UITableView *)tableView} didDeselectRowAtIndexPath:${2:(NSIndexPath *)indexPath}

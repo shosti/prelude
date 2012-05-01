@@ -1,5 +1,0 @@
-#name : initWithFrame
-#group : UIView
-#key : initWithFrame
-# --
-initWithFrame:${1:(CGRect)frame}

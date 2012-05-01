@@ -1,5 +1,0 @@
-#name : indexPathsForRowsInRect
-#group : UITableView
-#key : indexPathsForRowsInRect
-# --
-indexPathsForRowsInRect:${1:(CGRect)rect}

@@ -1,5 +1,0 @@
-#name : waitUntilDate
-#group : NSLock
-#key : waitUntilDate
-# --
-waitUntilDate:${1:(NSDate *)limit}

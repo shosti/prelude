@@ -1,5 +1,0 @@
-#name : itemSetWithPasteboardTypes
-#group : UIPasteboard
-#key : itemSetWithPasteboardTypes
-# --
-itemSetWithPasteboardTypes:${1:(NSArray *)pasteboardTypes}

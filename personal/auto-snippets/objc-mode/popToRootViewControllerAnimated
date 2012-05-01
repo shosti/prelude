@@ -1,5 +1,0 @@
-#name : popToRootViewControllerAnimated
-#group : UINavigationController
-#key : popToRootViewControllerAnimated
-# --
-popToRootViewControllerAnimated:${1:(BOOL)animated}

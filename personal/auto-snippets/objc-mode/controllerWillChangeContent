@@ -1,5 +1,0 @@
-#name : controllerWillChangeContent
-#group : NSFetchedResultsController
-#key : controllerWillChangeContent
-# --
-controllerWillChangeContent:${1:(NSFetchedResultsController *)controller}

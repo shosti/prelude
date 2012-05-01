@@ -1,5 +1,0 @@
-#name : acceptConnectionInBackgroundAndNotifyForModes
-#group : NSFileHandle
-#key : acceptConnectionInBackgroundAndNotifyForModes
-# --
-acceptConnectionInBackgroundAndNotifyForModes:${1:(NSArray *)modes}

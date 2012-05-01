@@ -1,5 +1,0 @@
-#name : initWithMediaTypes
-#group : MPMediaPickerController
-#key : initWithMediaTypes
-# --
-initWithMediaTypes:${1:(MPMediaType)mediaTypes}

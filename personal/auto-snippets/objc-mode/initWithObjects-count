@@ -1,5 +1,0 @@
-#name : initWithObjects:count
-#group : NSSet
-#key : initWithObjects:count
-# --
-initWithObjects:${1:(const id *)objects} count:${2:(NSUInteger)cnt}

@@ -1,5 +1,0 @@
-#name : documentInteractionControllerWillPresentOpenInMenu
-#group : UIDocumentInteractionController
-#key : documentInteractionControllerWillPresentOpenInMenu
-# --
-documentInteractionControllerWillPresentOpenInMenu:${1:(UIDocumentInteractionController *)controller}

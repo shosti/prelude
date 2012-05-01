@@ -1,5 +1,0 @@
-#name : firstMatchInString:options:range
-#group : NSRegularExpression
-#key : firstMatchInString:options:range
-# --
-firstMatchInString:${1:(NSString *)string} options:${2:(NSMatchingOptions)options} range:${3:(NSRange)range}

@@ -1,5 +1,0 @@
-#name : setDiskCapacity
-#group : NSURLCache
-#key : setDiskCapacity
-# --
-setDiskCapacity:${1:(NSUInteger)diskCapacity}

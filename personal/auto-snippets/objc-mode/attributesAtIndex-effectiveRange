@@ -1,5 +1,0 @@
-#name : attributesAtIndex:effectiveRange
-#group : NSAttributedString
-#key : attributesAtIndex:effectiveRange
-# --
-attributesAtIndex:${1:(NSUInteger)location} effectiveRange:${2:(NSRangePointer)range}

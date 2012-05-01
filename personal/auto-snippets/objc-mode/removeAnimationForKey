@@ -1,5 +1,0 @@
-#name : removeAnimationForKey
-#group : CALayer
-#key : removeAnimationForKey
-# --
-removeAnimationForKey:${1:(NSString *)key}

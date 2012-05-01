@@ -1,5 +1,0 @@
-#name : valueWithUIOffset
-#group : UIGeometry
-#key : valueWithUIOffset
-# --
-valueWithUIOffset:${1:(UIOffset)insets}

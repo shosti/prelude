@@ -1,5 +1,0 @@
-#name : functionWithName
-#group : CAValueFunction
-#key : functionWithName
-# --
-functionWithName:${1:(NSString *)name}

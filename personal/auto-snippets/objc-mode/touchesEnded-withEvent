@@ -1,5 +1,0 @@
-#name : touchesEnded:withEvent
-#group : UIResponder
-#key : touchesEnded:withEvent
-# --
-touchesEnded:${1:(NSSet *)touches} withEvent:${2:(UIEvent *)event}

@@ -1,5 +1,0 @@
-#name : addTimeInterval
-#group : NSDate
-#key : addTimeInterval
-# --
-addTimeInterval:${1:(NSTimeInterval)seconds}

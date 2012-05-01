@@ -1,5 +1,0 @@
-#name : peripheral:didDiscoverServices
-#group : CBPeripheral
-#key : peripheral:didDiscoverServices
-# --
-peripheral:${1:(CBPeripheral *)peripheral} didDiscoverServices:${2:(NSError *)error}

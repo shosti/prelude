@@ -1,5 +1,0 @@
-#name : initWithCGAffineTransform
-#group : CIVector
-#key : initWithCGAffineTransform
-# --
-initWithCGAffineTransform:${1:(CGAffineTransform)r}

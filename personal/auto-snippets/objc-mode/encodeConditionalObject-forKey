@@ -1,5 +1,0 @@
-#name : encodeConditionalObject:forKey
-#group : NSKeyedArchiver
-#key : encodeConditionalObject:forKey
-# --
-encodeConditionalObject:${1:(id)objv} forKey:${2:(NSString *)key}

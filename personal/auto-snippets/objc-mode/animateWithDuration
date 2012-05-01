@@ -1,5 +1,0 @@
-#name : animateWithDuration
-#group : UIView
-#key : animateWithDuration
-# --
-animateWithDuration:${1:(NSTimeInterval)duration}

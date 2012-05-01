@@ -1,5 +1,0 @@
-#name : canBePreventedByGestureRecognizer
-#group : UIGestureRecognizerSubclass
-#key : canBePreventedByGestureRecognizer
-# --
-canBePreventedByGestureRecognizer:${1:(UIGestureRecognizer *)preventingGestureRecognizer}

@@ -1,5 +1,0 @@
-#name : contentsForType:error
-#group : UIDocument
-#key : contentsForType:error
-# --
-contentsForType:${1:(NSString *)typeName} error:${2:(NSError **)outError}

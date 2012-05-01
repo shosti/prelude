@@ -1,5 +1,0 @@
-#name : removeTarget:action:forControlEvents
-#group : UIControl
-#key : removeTarget:action:forControlEvents
-# --
-removeTarget:${1:(id)target} action:${2:(SEL)action} forControlEvents:${3:(UIControlEvents)controlEvents}

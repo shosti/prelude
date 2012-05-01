@@ -1,5 +1,0 @@
-#name : parserDidEndDocument
-#group : NSXMLParser
-#key : parserDidEndDocument
-# --
-parserDidEndDocument:${1:(NSXMLParser *)parser}

@@ -1,5 +1,0 @@
-#name : locationInView
-#group : UITouch
-#key : locationInView
-# --
-locationInView:${1:(UIView *)view}

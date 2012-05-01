@@ -1,5 +1,0 @@
-#name : numberWithUnsignedShort
-#group : NSValue
-#key : numberWithUnsignedShort
-# --
-numberWithUnsignedShort:${1:(unsigned short)value}

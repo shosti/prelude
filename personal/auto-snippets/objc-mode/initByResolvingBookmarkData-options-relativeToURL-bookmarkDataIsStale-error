@@ -1,5 +1,0 @@
-#name : initByResolvingBookmarkData:options:relativeToURL:bookmarkDataIsStale:error
-#group : NSURL
-#key : initByResolvingBookmarkData:options:relativeToURL:bookmarkDataIsStale:error
-# --
-initByResolvingBookmarkData:${1:(NSData *)bookmarkData} options:${2:(NSURLBookmarkResolutionOptions)options} relativeToURL:${3:(NSURL *)relativeURL} bookmarkDataIsStale:${4:(BOOL *)isStale} error:${5:(NSError **)error}

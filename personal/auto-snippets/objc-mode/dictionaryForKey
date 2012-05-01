@@ -1,5 +1,0 @@
-#name : dictionaryForKey
-#group : NSUserDefaults
-#key : dictionaryForKey
-# --
-dictionaryForKey:${1:(NSString *)defaultName}

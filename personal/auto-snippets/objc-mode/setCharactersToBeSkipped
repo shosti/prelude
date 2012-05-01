@@ -1,5 +1,0 @@
-#name : setCharactersToBeSkipped
-#group : NSScanner
-#key : setCharactersToBeSkipped
-# --
-setCharactersToBeSkipped:${1:(NSCharacterSet *)set}

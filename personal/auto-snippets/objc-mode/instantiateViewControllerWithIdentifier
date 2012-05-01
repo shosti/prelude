@@ -1,5 +1,0 @@
-#name : instantiateViewControllerWithIdentifier
-#group : UIStoryboard
-#key : instantiateViewControllerWithIdentifier
-# --
-instantiateViewControllerWithIdentifier:${1:(NSString *)identifier}

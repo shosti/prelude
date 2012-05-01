@@ -1,5 +1,0 @@
-#name : hasSameAddressAs
-#group : MIDINetworkSession
-#key : hasSameAddressAs
-# --
-hasSameAddressAs:${1:(MIDINetworkHost *)other}

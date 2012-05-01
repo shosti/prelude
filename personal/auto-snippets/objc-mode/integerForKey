@@ -1,5 +1,0 @@
-#name : integerForKey
-#group : NSUserDefaults
-#key : integerForKey
-# --
-integerForKey:${1:(NSString *)defaultName}

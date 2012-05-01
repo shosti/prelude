@@ -1,5 +1,0 @@
-#name : resourceDataUsingCache
-#group : NSURL
-#key : resourceDataUsingCache
-# --
-resourceDataUsingCache:${1:(BOOL)shouldUseCache}

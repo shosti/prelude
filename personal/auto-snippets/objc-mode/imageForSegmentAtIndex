@@ -1,5 +1,0 @@
-#name : imageForSegmentAtIndex
-#group : UISegmentedControl
-#key : imageForSegmentAtIndex
-# --
-imageForSegmentAtIndex:${1:(NSUInteger)segment}

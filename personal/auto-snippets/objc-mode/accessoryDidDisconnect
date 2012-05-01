@@ -1,5 +1,0 @@
-#name : accessoryDidDisconnect
-#group : EAAccessory
-#key : accessoryDidDisconnect
-# --
-accessoryDidDisconnect:${1:(EAAccessory *)accessory}

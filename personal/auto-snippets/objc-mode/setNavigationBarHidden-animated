@@ -1,5 +1,0 @@
-#name : setNavigationBarHidden:animated
-#group : UINavigationController
-#key : setNavigationBarHidden:animated
-# --
-setNavigationBarHidden:${1:(BOOL)hidden} animated:${2:(BOOL)animated}

@@ -1,5 +1,0 @@
-#name : addIssueWithName:date
-#group : NKLibrary
-#key : addIssueWithName:date
-# --
-addIssueWithName:${1:(NSString *)name} date:${2:(NSDate *)date}

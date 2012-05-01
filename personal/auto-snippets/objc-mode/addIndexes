@@ -1,5 +1,0 @@
-#name : addIndexes
-#group : NSIndexSet
-#key : addIndexes
-# --
-addIndexes:${1:(NSIndexSet *)indexSet}

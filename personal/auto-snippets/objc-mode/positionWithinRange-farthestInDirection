@@ -1,5 +1,0 @@
-#name : positionWithinRange:farthestInDirection
-#group : UITextInput
-#key : positionWithinRange:farthestInDirection
-# --
-positionWithinRange:${1:(UITextRange *)range} farthestInDirection:${2:(UITextLayoutDirection)direction}

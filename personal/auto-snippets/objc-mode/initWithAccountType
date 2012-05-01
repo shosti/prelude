@@ -1,5 +1,0 @@
-#name : initWithAccountType
-#group : ACAccount
-#key : initWithAccountType
-# --
-initWithAccountType:${1:(ACAccountType *)type}

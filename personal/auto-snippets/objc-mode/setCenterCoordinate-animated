@@ -1,5 +1,0 @@
-#name : setCenterCoordinate:animated
-#group : MKMapView
-#key : setCenterCoordinate:animated
-# --
-setCenterCoordinate:${1:(CLLocationCoordinate2D)coordinate} animated:${2:(BOOL)animated}

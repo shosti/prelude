@@ -1,5 +1,0 @@
-#name : presentFromRect:inView:animated:completionHandler
-#group : UIPrintInteractionController
-#key : presentFromRect:inView:animated:completionHandler
-# --
-presentFromRect:${1:(CGRect)rect} inView:${2:(UIView *)view} animated:${3:(BOOL)animated} completionHandler:${4:(UIPrintInteractionCompletionHandler)completion}

@@ -1,5 +1,0 @@
-#name : convertRect:fromView
-#group : UIView
-#key : convertRect:fromView
-# --
-convertRect:${1:(CGRect)rect} fromView:${2:(UIView *)view}

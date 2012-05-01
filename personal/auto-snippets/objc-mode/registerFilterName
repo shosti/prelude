@@ -1,5 +1,0 @@
-#name : registerFilterName
-#group : CIFilter
-#key : registerFilterName
-# --
-registerFilterName:${1:(NSString *)name}

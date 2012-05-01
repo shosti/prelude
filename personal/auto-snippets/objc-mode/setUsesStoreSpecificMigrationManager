@@ -1,5 +1,0 @@
-#name : setUsesStoreSpecificMigrationManager
-#group : NSMigrationManager
-#key : setUsesStoreSpecificMigrationManager
-# --
-setUsesStoreSpecificMigrationManager:${1:(BOOL)flag}

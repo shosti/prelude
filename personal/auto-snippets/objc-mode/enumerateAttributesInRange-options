@@ -1,5 +1,0 @@
-#name : enumerateAttributesInRange:options
-#group : NSAttributedString
-#key : enumerateAttributesInRange:options
-# --
-enumerateAttributesInRange:${1:(NSRange)enumerationRange} options:${2:(NSAttributedStringEnumerationOptions)opts}

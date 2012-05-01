@@ -1,5 +1,0 @@
-#name : centralManagerDidUpdateState
-#group : CBCentralManager
-#key : centralManagerDidUpdateState
-# --
-centralManagerDidUpdateState:${1:(CBCentralManager *)central}

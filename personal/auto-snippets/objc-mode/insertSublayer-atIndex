@@ -1,5 +1,0 @@
-#name : insertSublayer:atIndex
-#group : CALayer
-#key : insertSublayer:atIndex
-# --
-insertSublayer:${1:(CALayer *)layer} atIndex:${2:(unsigned)idx}

@@ -1,5 +1,0 @@
-#name : endEditing
-#group : UITextField
-#key : endEditing
-# --
-endEditing:${1:(BOOL)force}

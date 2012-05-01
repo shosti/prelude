@@ -1,5 +1,0 @@
-#name : sortedArrayUsingDescriptors
-#group : NSSortDescriptor
-#key : sortedArrayUsingDescriptors
-# --
-sortedArrayUsingDescriptors:${1:(NSArray *)sortDescriptors}

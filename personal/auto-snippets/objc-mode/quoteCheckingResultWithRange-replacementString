@@ -1,5 +1,0 @@
-#name : quoteCheckingResultWithRange:replacementString
-#group : NSTextCheckingResult
-#key : quoteCheckingResultWithRange:replacementString
-# --
-quoteCheckingResultWithRange:${1:(NSRange)range} replacementString:${2:(NSString *)replacementString}

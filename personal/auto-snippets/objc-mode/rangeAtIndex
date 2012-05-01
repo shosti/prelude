@@ -1,5 +1,0 @@
-#name : rangeAtIndex
-#group : NSTextCheckingResult
-#key : rangeAtIndex
-# --
-rangeAtIndex:${1:(NSUInteger)idx}

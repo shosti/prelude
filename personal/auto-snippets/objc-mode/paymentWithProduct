@@ -1,5 +1,0 @@
-#name : paymentWithProduct
-#group : SKPayment
-#key : paymentWithProduct
-# --
-paymentWithProduct:${1:(SKProduct *)product}

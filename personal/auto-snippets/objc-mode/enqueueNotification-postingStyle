@@ -1,5 +1,0 @@
-#name : enqueueNotification:postingStyle
-#group : NSNotificationQueue
-#key : enqueueNotification:postingStyle
-# --
-enqueueNotification:${1:(NSNotification *)notification} postingStyle:${2:(NSPostingStyle)postingStyle}

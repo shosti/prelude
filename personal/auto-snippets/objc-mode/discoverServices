@@ -1,5 +1,0 @@
-#name : discoverServices
-#group : CBPeripheral
-#key : discoverServices
-# --
-discoverServices:${1:(NSArray *)serviceUUIDs}

@@ -1,5 +1,0 @@
-#name : encodeArrayOfObjCType:count:at
-#group : NSCoder
-#key : encodeArrayOfObjCType:count:at
-# --
-encodeArrayOfObjCType:${1:(const char *)type} count:${2:(NSUInteger)count} at:${3:(const void *)array}

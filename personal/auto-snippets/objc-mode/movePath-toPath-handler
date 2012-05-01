@@ -1,5 +1,0 @@
-#name : movePath:toPath:handler
-#group : NSFileManager
-#key : movePath:toPath:handler
-# --
-movePath:${1:(NSString *)src} toPath:${2:(NSString *)dest} handler:${3:(id)handler}

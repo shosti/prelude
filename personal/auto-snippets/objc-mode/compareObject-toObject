@@ -1,5 +1,0 @@
-#name : compareObject:toObject
-#group : NSSortDescriptor
-#key : compareObject:toObject
-# --
-compareObject:${1:(id)object1} toObject:${2:(id)object2}

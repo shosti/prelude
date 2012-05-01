@@ -1,5 +1,0 @@
-#name : stringWithCString
-#group : NSString
-#key : stringWithCString
-# --
-stringWithCString:${1:(const char *)bytes}

@@ -1,5 +1,0 @@
-#name : widthForSegmentAtIndex
-#group : UISegmentedControl
-#key : widthForSegmentAtIndex
-# --
-widthForSegmentAtIndex:${1:(NSUInteger)segment}

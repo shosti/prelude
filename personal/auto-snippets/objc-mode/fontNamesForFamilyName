@@ -1,5 +1,0 @@
-#name : fontNamesForFamilyName
-#group : UIFont
-#key : fontNamesForFamilyName
-# --
-fontNamesForFamilyName:${1:(NSString *)familyName}

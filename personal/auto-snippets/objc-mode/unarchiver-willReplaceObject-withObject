@@ -1,5 +1,0 @@
-#name : unarchiver:willReplaceObject:withObject
-#group : NSKeyedArchiver
-#key : unarchiver:willReplaceObject:withObject
-# --
-unarchiver:${1:(NSKeyedUnarchiver *)unarchiver} willReplaceObject:${2:(id)object} withObject:${3:(id)newObject}

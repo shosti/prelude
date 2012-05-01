@@ -1,5 +1,0 @@
-#name : fileManager:shouldProceedAfterError:copyingItemAtPath:toPath
-#group : NSFileManager
-#key : fileManager:shouldProceedAfterError:copyingItemAtPath:toPath
-# --
-fileManager:${1:(NSFileManager *)fileManager} shouldProceedAfterError:${2:(NSError *)error} copyingItemAtPath:${3:(NSString *)srcPath} toPath:${4:(NSString *)dstPath}

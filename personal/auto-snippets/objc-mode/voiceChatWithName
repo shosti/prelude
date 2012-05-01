@@ -1,5 +1,0 @@
-#name : voiceChatWithName
-#group : GKMatch
-#key : voiceChatWithName
-# --
-voiceChatWithName:${1:(NSString *)name}

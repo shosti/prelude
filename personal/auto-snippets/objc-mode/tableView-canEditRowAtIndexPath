@@ -1,5 +1,0 @@
-#name : tableView:canEditRowAtIndexPath
-#group : UITableView
-#key : tableView:canEditRowAtIndexPath
-# --
-tableView:${1:(UITableView *)tableView} canEditRowAtIndexPath:${2:(NSIndexPath *)indexPath}

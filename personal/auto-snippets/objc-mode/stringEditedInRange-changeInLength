@@ -1,5 +1,0 @@
-#name : stringEditedInRange:changeInLength
-#group : NSLinguisticTagger
-#key : stringEditedInRange:changeInLength
-# --
-stringEditedInRange:${1:(NSRange)newRange} changeInLength:${2:(NSInteger)delta}

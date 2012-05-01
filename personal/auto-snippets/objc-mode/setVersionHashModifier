@@ -1,5 +1,0 @@
-#name : setVersionHashModifier
-#group : NSPropertyDescription
-#key : setVersionHashModifier
-# --
-setVersionHashModifier:${1:(NSString *)modifierString}

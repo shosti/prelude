@@ -1,5 +1,0 @@
-#name : containsCoordinate
-#group : CLRegion
-#key : containsCoordinate
-# --
-containsCoordinate:${1:(CLLocationCoordinate2D)coordinate}

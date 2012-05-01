@@ -1,5 +1,0 @@
-#name : valueForPasteboardType
-#group : UIPasteboard
-#key : valueForPasteboardType
-# --
-valueForPasteboardType:${1:(NSString *)pasteboardType}

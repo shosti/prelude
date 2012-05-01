@@ -1,5 +1,0 @@
-#name : predicateForEventsWithStartDate:endDate:calendars
-#group : EKEventStore
-#key : predicateForEventsWithStartDate:endDate:calendars
-# --
-predicateForEventsWithStartDate:${1:(NSDate *)startDate} endDate:${2:(NSDate *)endDate} calendars:${3:(NSArray *)calendars}

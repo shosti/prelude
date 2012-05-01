@@ -1,5 +1,0 @@
-#name : stringWithCapacity
-#group : NSString
-#key : stringWithCapacity
-# --
-stringWithCapacity:${1:(NSUInteger)capacity}

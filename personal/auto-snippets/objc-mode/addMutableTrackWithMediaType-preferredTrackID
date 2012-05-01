@@ -1,5 +1,0 @@
-#name : addMutableTrackWithMediaType:preferredTrackID
-#group : AVComposition
-#key : addMutableTrackWithMediaType:preferredTrackID
-# --
-addMutableTrackWithMediaType:${1:(NSString *)mediaType} preferredTrackID:${2:(CMPersistentTrackID)preferredTrackID}

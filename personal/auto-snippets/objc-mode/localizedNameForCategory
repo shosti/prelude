@@ -1,5 +1,0 @@
-#name : localizedNameForCategory
-#group : CIFilter
-#key : localizedNameForCategory
-# --
-localizedNameForCategory:${1:(NSString *)category}

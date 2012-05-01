@@ -1,5 +1,0 @@
-#name : directoryContentsAtPath
-#group : NSFileManager
-#key : directoryContentsAtPath
-# --
-directoryContentsAtPath:${1:(NSString *)path}

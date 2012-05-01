@@ -1,5 +1,0 @@
-#name : setUserTrackingMode:animated
-#group : MKMapView
-#key : setUserTrackingMode:animated
-# --
-setUserTrackingMode:${1:(MKUserTrackingMode)mode} animated:${2:(BOOL)animated}

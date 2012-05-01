@@ -1,5 +1,0 @@
-#name : initWithProgressViewStyle
-#group : UIProgressView
-#key : initWithProgressViewStyle
-# --
-initWithProgressViewStyle:${1:(UIProgressViewStyle)style}

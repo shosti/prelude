@@ -1,5 +1,0 @@
-#name : prepareForSegue:sender
-#group : UIViewController
-#key : prepareForSegue:sender
-# --
-prepareForSegue:${1:(UIStoryboardSegue *)segue} sender:${2:(id)sender}

@@ -1,5 +1,0 @@
-#name : previousLocationInView
-#group : UITouch
-#key : previousLocationInView
-# --
-previousLocationInView:${1:(UIView *)view}

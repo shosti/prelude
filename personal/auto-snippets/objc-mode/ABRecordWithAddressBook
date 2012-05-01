@@ -1,5 +1,0 @@
-#name : ABRecordWithAddressBook
-#group : EKParticipant
-#key : ABRecordWithAddressBook
-# --
-ABRecordWithAddressBook:${1:(ABAddressBookRef)addressBook}

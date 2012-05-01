@@ -1,5 +1,0 @@
-#name : tableView:titleForDeleteConfirmationButtonForRowAtIndexPath
-#group : UITableView
-#key : tableView:titleForDeleteConfirmationButtonForRowAtIndexPath
-# --
-tableView:${1:(UITableView *)tableView} titleForDeleteConfirmationButtonForRowAtIndexPath:${2:(NSIndexPath *)indexPath}

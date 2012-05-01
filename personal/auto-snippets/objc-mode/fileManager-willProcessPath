@@ -1,5 +1,0 @@
-#name : fileManager:willProcessPath
-#group : NSFileManager
-#key : fileManager:willProcessPath
-# --
-fileManager:${1:(NSFileManager *)fm} willProcessPath:${2:(NSString *)path}

@@ -1,5 +1,0 @@
-#name : initWithContentURL
-#group : MPMoviePlayerViewController
-#key : initWithContentURL
-# --
-initWithContentURL:${1:(NSURL *)contentURL}

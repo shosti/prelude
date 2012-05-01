@@ -1,5 +1,0 @@
-#name : mediaSelectionOptionsFromArray:withLocale
-#group : AVMediaSelectionGroup
-#key : mediaSelectionOptionsFromArray:withLocale
-# --
-mediaSelectionOptionsFromArray:${1:(NSArray *)array} withLocale:${2:(NSLocale *)locale}

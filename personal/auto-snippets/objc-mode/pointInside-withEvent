@@ -1,5 +1,0 @@
-#name : pointInside:withEvent
-#group : UIView
-#key : pointInside:withEvent
-# --
-pointInside:${1:(CGPoint)point} withEvent:${2:(UIEvent *)event}

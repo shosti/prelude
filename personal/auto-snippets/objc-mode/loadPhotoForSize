@@ -1,5 +1,0 @@
-#name : loadPhotoForSize
-#group : GKPlayer
-#key : loadPhotoForSize
-# --
-loadPhotoForSize:${1:(GKPhotoSize)size}

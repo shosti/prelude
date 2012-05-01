@@ -1,5 +1,0 @@
-#name : setVolumeRampFromStartVolume:toEndVolume:timeRange
-#group : AVAudioMix
-#key : setVolumeRampFromStartVolume:toEndVolume:timeRange
-# --
-setVolumeRampFromStartVolume:${1:(float)startVolume} toEndVolume:${2:(float)endVolume} timeRange:${3:(CMTimeRange)timeRange}

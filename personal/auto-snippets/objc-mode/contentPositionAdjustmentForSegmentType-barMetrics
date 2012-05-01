@@ -1,5 +1,0 @@
-#name : contentPositionAdjustmentForSegmentType:barMetrics
-#group : UISegmentedControl
-#key : contentPositionAdjustmentForSegmentType:barMetrics
-# --
-contentPositionAdjustmentForSegmentType:${1:(UISegmentedControlSegment)leftCenterRightOrAlone} barMetrics:${2:(UIBarMetrics)barMetrics}

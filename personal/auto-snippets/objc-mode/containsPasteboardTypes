@@ -1,5 +1,0 @@
-#name : containsPasteboardTypes
-#group : UIPasteboard
-#key : containsPasteboardTypes
-# --
-containsPasteboardTypes:${1:(NSArray *)pasteboardTypes}

@@ -1,5 +1,0 @@
-#name : mapView:didSelectAnnotationView
-#group : MKMapView
-#key : mapView:didSelectAnnotationView
-# --
-mapView:${1:(MKMapView *)mapView} didSelectAnnotationView:${2:(MKAnnotationView *)view}

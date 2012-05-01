@@ -1,5 +1,0 @@
-#name : discoverIncludedServices:forService
-#group : CBPeripheral
-#key : discoverIncludedServices:forService
-# --
-discoverIncludedServices:${1:(NSArray *)includedServiceUUIDs} forService:${2:(CBService *)service}

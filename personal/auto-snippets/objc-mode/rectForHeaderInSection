@@ -1,5 +1,0 @@
-#name : rectForHeaderInSection
-#group : UITableView
-#key : rectForHeaderInSection
-# --
-rectForHeaderInSection:${1:(NSInteger)section}

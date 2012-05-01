@@ -1,5 +1,0 @@
-#name : availableTagSchemesForLanguage
-#group : NSLinguisticTagger
-#key : availableTagSchemesForLanguage
-# --
-availableTagSchemesForLanguage:${1:(NSString *)language}

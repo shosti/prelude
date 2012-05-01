@@ -1,5 +1,0 @@
-#name : addAlarm
-#group : EKCalendarItem
-#key : addAlarm
-# --
-addAlarm:${1:(EKAlarm *)alarm}

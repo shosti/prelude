@@ -1,5 +1,0 @@
-#name : validateValue:forKeyPath:error
-#group : NSKeyValueCoding
-#key : validateValue:forKeyPath:error
-# --
-validateValue:${1:(inout id *)ioValue} forKeyPath:${2:(NSString *)inKeyPath} error:${3:(out NSError **)outError}

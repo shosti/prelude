@@ -1,5 +1,0 @@
-#name : indexesOfObjectsWithOptions
-#group : NSOrderedSet
-#key : indexesOfObjectsWithOptions
-# --
-indexesOfObjectsWithOptions:${1:(NSEnumerationOptions)opts}

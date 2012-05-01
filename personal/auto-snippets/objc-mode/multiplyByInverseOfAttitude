@@ -1,5 +1,0 @@
-#name : multiplyByInverseOfAttitude
-#group : CMAttitude
-#key : multiplyByInverseOfAttitude
-# --
-multiplyByInverseOfAttitude:${1:(CMAttitude *)attitude}

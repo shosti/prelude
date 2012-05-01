@@ -1,5 +1,0 @@
-#name : setNumberStyle
-#group : NSNumberFormatter
-#key : setNumberStyle
-# --
-setNumberStyle:${1:(NSNumberFormatterStyle)style}

@@ -1,5 +1,0 @@
-#name : createFileAtPath:contents:attributes
-#group : NSFileManager
-#key : createFileAtPath:contents:attributes
-# --
-createFileAtPath:${1:(NSString *)path} contents:${2:(NSData *)data} attributes:${3:(NSDictionary *)attr}

@@ -1,5 +1,0 @@
-#name : bezierPathWithRect
-#group : UIBezierPath
-#key : bezierPathWithRect
-# --
-bezierPathWithRect:${1:(CGRect)rect}

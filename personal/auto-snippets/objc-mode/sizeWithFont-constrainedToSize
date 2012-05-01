@@ -1,5 +1,0 @@
-#name : sizeWithFont:constrainedToSize
-#group : UIStringDrawing
-#key : sizeWithFont:constrainedToSize
-# --
-sizeWithFont:${1:(UIFont *)font} constrainedToSize:${2:(CGSize)size}

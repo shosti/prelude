@@ -1,5 +1,0 @@
-#name : setNewsstandIconImage
-#group : UIApplication
-#key : setNewsstandIconImage
-# --
-setNewsstandIconImage:${1:(UIImage *)image}

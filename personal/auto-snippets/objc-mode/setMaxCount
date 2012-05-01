@@ -1,5 +1,0 @@
-#name : setMaxCount
-#group : NSRelationshipDescription
-#key : setMaxCount
-# --
-setMaxCount:${1:(NSUInteger)maxCount}

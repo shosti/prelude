@@ -1,5 +1,0 @@
-#name : insertSubview:atIndex
-#group : UIView
-#key : insertSubview:atIndex
-# --
-insertSubview:${1:(UIView *)view} atIndex:${2:(NSInteger)index}

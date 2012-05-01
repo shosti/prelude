@@ -1,5 +1,0 @@
-#name : scrollRectToVisible:animated
-#group : UIScrollView
-#key : scrollRectToVisible:animated
-# --
-scrollRectToVisible:${1:(CGRect)rect} animated:${2:(BOOL)animated}

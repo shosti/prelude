@@ -1,5 +1,0 @@
-#name : cancelPreviousPerformRequestsWithTarget
-#group : NSRunLoop
-#key : cancelPreviousPerformRequestsWithTarget
-# --
-cancelPreviousPerformRequestsWithTarget:${1:(id)aTarget}

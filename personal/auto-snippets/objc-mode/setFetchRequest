@@ -1,5 +1,0 @@
-#name : setFetchRequest
-#group : NSFetchedPropertyDescription
-#key : setFetchRequest
-# --
-setFetchRequest:${1:(NSFetchRequest *)fetchRequest}

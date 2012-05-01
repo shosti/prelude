@@ -1,5 +1,0 @@
-#name : fileURLWithPathComponents
-#group : NSURL
-#key : fileURLWithPathComponents
-# --
-fileURLWithPathComponents:${1:(NSArray *)components}

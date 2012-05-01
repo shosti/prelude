@@ -1,5 +1,0 @@
-#name : scrollRectToVisible
-#group : CAScrollLayer
-#key : scrollRectToVisible
-# --
-scrollRectToVisible:${1:(CGRect)r}

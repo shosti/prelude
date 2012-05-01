@@ -1,5 +1,0 @@
-#name : enumeratorAtPath
-#group : NSFileManager
-#key : enumeratorAtPath
-# --
-enumeratorAtPath:${1:(NSString *)path}

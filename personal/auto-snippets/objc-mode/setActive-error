@@ -1,5 +1,0 @@
-#name : setActive:error
-#group : AVAudioSession
-#key : setActive:error
-# --
-setActive:${1:(BOOL)beActive} error:${2:(NSError**)outError}

@@ -1,5 +1,0 @@
-#name : interactionControllerWithURL
-#group : UIDocumentInteractionController
-#key : interactionControllerWithURL
-# --
-interactionControllerWithURL:${1:(NSURL *)url}

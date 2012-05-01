@@ -1,5 +1,0 @@
-#name : allKeysForObject
-#group : NSDictionary
-#key : allKeysForObject
-# --
-allKeysForObject:${1:(id)anObject}

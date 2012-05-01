@@ -1,5 +1,0 @@
-#name : turnBasedMatchmakerViewController:didFindMatch
-#group : GKTurnBasedMatchmakerViewController
-#key : turnBasedMatchmakerViewController:didFindMatch
-# --
-turnBasedMatchmakerViewController:${1:(GKTurnBasedMatchmakerViewController *)viewController} didFindMatch:${2:(GKTurnBasedMatch *)match}

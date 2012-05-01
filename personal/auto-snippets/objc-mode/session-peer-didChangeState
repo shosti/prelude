@@ -1,5 +1,0 @@
-#name : session:peer:didChangeState
-#group : GKPublicProtocols
-#key : session:peer:didChangeState
-# --
-session:${1:(GKSession *)session} peer:${2:(NSString *)peerID} didChangeState:${3:(GKPeerConnectionState)state}

@@ -1,5 +1,0 @@
-#name : classNameForClass
-#group : NSKeyedArchiver
-#key : classNameForClass
-# --
-classNameForClass:${1:(Class)cls}

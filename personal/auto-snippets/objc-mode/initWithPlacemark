@@ -1,5 +1,0 @@
-#name : initWithPlacemark
-#group : CLPlacemark
-#key : initWithPlacemark
-# --
-initWithPlacemark:${1:(CLPlacemark *)placemark}

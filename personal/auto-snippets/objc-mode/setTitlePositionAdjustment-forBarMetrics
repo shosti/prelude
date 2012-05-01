@@ -1,5 +1,0 @@
-#name : setTitlePositionAdjustment:forBarMetrics
-#group : UIBarButtonItem
-#key : setTitlePositionAdjustment:forBarMetrics
-# --
-setTitlePositionAdjustment:${1:(UIOffset)adjustment} forBarMetrics:${2:(UIBarMetrics)barMetrics}

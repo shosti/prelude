@@ -1,5 +1,0 @@
-#name : raise:format
-#group : NSException
-#key : raise:format
-# --
-raise:${1:(NSString *)name} format:${2:(NSString *)format}

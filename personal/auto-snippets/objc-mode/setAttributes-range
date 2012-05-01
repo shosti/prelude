@@ -1,5 +1,0 @@
-#name : setAttributes:range
-#group : NSAttributedString
-#key : setAttributes:range
-# --
-setAttributes:${1:(NSDictionary *)attrs} range:${2:(NSRange)range}

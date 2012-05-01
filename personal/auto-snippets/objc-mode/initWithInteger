@@ -1,5 +1,0 @@
-#name : initWithInteger
-#group : NSValue
-#key : initWithInteger
-# --
-initWithInteger:${1:(NSInteger)value}

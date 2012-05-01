@@ -1,5 +1,0 @@
-#name : imageByCroppingToRect
-#group : CIImage
-#key : imageByCroppingToRect
-# --
-imageByCroppingToRect:${1:(CGRect)r}

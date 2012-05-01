@@ -1,5 +1,0 @@
-#name : setZeroSymbol
-#group : NSNumberFormatter
-#key : setZeroSymbol
-# --
-setZeroSymbol:${1:(NSString *)string}

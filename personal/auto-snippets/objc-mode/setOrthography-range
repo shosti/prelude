@@ -1,5 +1,0 @@
-#name : setOrthography:range
-#group : NSLinguisticTagger
-#key : setOrthography:range
-# --
-setOrthography:${1:(NSOrthography *)orthography} range:${2:(NSRange)range}

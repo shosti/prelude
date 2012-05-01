@@ -1,5 +1,0 @@
-#name : addChildViewController
-#group : UIViewController
-#key : addChildViewController
-# --
-addChildViewController:${1:(UIViewController *)childController}

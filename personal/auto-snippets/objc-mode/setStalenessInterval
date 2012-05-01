@@ -1,5 +1,0 @@
-#name : setStalenessInterval
-#group : NSManagedObjectContext
-#key : setStalenessInterval
-# --
-setStalenessInterval:${1:(NSTimeInterval)expiration}

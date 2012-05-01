@@ -1,5 +1,0 @@
-#name : propertyForKey
-#group : NSURL
-#key : propertyForKey
-# --
-propertyForKey:${1:(NSString *)propertyKey}

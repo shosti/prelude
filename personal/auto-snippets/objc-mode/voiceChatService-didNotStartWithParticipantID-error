@@ -1,5 +1,0 @@
-#name : voiceChatService:didNotStartWithParticipantID:error
-#group : GKPublicProtocols
-#key : voiceChatService:didNotStartWithParticipantID:error
-# --
-voiceChatService:${1:(GKVoiceChatService *)voiceChatService} didNotStartWithParticipantID:${2:(NSString *)participantID} error:${3:(NSError *)error}

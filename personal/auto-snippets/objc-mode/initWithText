@@ -1,5 +1,0 @@
-#name : initWithText
-#group : UIPrintFormatter
-#key : initWithText
-# --
-initWithText:${1:(NSString *)text}

@@ -1,5 +1,0 @@
-#name : numberOfMatchesInString:options:range
-#group : NSRegularExpression
-#key : numberOfMatchesInString:options:range
-# --
-numberOfMatchesInString:${1:(NSString *)string} options:${2:(NSMatchingOptions)options} range:${3:(NSRange)range}

@@ -1,5 +1,0 @@
-#name : stringFromNumber
-#group : NSNumberFormatter
-#key : stringFromNumber
-# --
-stringFromNumber:${1:(NSNumber *)number}

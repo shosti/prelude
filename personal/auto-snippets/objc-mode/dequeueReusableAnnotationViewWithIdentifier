@@ -1,5 +1,0 @@
-#name : dequeueReusableAnnotationViewWithIdentifier
-#group : MKMapView
-#key : dequeueReusableAnnotationViewWithIdentifier
-# --
-dequeueReusableAnnotationViewWithIdentifier:${1:(NSString *)identifier}

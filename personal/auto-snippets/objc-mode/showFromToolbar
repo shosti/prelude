@@ -1,5 +1,0 @@
-#name : showFromToolbar
-#group : UIActionSheet
-#key : showFromToolbar
-# --
-showFromToolbar:${1:(UIToolbar *)view}

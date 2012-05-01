@@ -1,5 +1,0 @@
-#name : laterDate
-#group : NSDate
-#key : laterDate
-# --
-laterDate:${1:(NSDate *)anotherDate}

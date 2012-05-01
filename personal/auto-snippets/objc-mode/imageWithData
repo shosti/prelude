@@ -1,5 +1,0 @@
-#name : imageWithData
-#group : UIImage
-#key : imageWithData
-# --
-imageWithData:${1:(NSData *)data}

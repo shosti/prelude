@@ -1,5 +1,0 @@
-#name : didMoveToParentViewController
-#group : UIViewController
-#key : didMoveToParentViewController
-# --
-didMoveToParentViewController:${1:(UIViewController *)parent}

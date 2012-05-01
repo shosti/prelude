@@ -1,5 +1,0 @@
-#name : setTimeStyle
-#group : NSDateFormatter
-#key : setTimeStyle
-# --
-setTimeStyle:${1:(NSDateFormatterStyle)style}

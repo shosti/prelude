@@ -1,5 +1,0 @@
-#name : scrollPoint
-#group : CAScrollLayer
-#key : scrollPoint
-# --
-scrollPoint:${1:(CGPoint)p}

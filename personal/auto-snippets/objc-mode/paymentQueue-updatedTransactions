@@ -1,5 +1,0 @@
-#name : paymentQueue:updatedTransactions
-#group : SKPaymentQueue
-#key : paymentQueue:updatedTransactions
-# --
-paymentQueue:${1:(SKPaymentQueue *)queue} updatedTransactions:${2:(NSArray *)transactions}

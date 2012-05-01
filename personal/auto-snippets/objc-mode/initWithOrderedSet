@@ -1,5 +1,0 @@
-#name : initWithOrderedSet
-#group : NSOrderedSet
-#key : initWithOrderedSet
-# --
-initWithOrderedSet:${1:(NSOrderedSet *)set}

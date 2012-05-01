@@ -1,5 +1,0 @@
-#name : imageWithCVPixelBuffer:options
-#group : CIImage
-#key : imageWithCVPixelBuffer:options
-# --
-imageWithCVPixelBuffer:${1:(CVPixelBufferRef)buffer} options:${2:(NSDictionary *)dict}

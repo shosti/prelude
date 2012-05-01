@@ -1,5 +1,0 @@
-#name : connection:didCancelAuthenticationChallenge
-#group : NSURLConnection
-#key : connection:didCancelAuthenticationChallenge
-# --
-connection:${1:(NSURLConnection *)connection} didCancelAuthenticationChallenge:${2:(NSURLAuthenticationChallenge *)challenge}

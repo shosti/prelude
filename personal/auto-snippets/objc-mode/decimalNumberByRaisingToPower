@@ -1,5 +1,0 @@
-#name : decimalNumberByRaisingToPower
-#group : NSDecimalNumber
-#key : decimalNumberByRaisingToPower
-# --
-decimalNumberByRaisingToPower:${1:(NSUInteger)power}

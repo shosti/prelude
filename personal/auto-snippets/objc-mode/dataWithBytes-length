@@ -1,5 +1,0 @@
-#name : dataWithBytes:length
-#group : NSData
-#key : dataWithBytes:length
-# --
-dataWithBytes:${1:(const void *)bytes} length:${2:(NSUInteger)length}

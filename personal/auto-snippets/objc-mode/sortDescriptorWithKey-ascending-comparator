@@ -1,5 +1,0 @@
-#name : sortDescriptorWithKey:ascending:comparator
-#group : NSSortDescriptor
-#key : sortDescriptorWithKey:ascending:comparator
-# --
-sortDescriptorWithKey:${1:(NSString *)key} ascending:${2:(BOOL)ascending} comparator:${3:(NSComparator)cmptr}

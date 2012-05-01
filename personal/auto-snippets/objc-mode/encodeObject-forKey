@@ -1,5 +1,0 @@
-#name : encodeObject:forKey
-#group : NSKeyedArchiver
-#key : encodeObject:forKey
-# --
-encodeObject:${1:(id)objv} forKey:${2:(NSString *)key}

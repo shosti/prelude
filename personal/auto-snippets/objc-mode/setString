@@ -1,5 +1,0 @@
-#name : setString
-#group : NSString
-#key : setString
-# --
-setString:${1:(NSString *)aString}

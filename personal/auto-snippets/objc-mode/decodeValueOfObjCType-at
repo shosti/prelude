@@ -1,5 +1,0 @@
-#name : decodeValueOfObjCType:at
-#group : NSCoder
-#key : decodeValueOfObjCType:at
-# --
-decodeValueOfObjCType:${1:(const char *)type} at:${2:(void *)data}

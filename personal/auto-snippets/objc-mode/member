@@ -1,5 +1,0 @@
-#name : member
-#group : NSSet
-#key : member
-# --
-member:${1:(id)object}

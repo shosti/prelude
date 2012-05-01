@@ -1,5 +1,0 @@
-#name : requestDidFinish
-#group : SKRequest
-#key : requestDidFinish
-# --
-requestDidFinish:${1:(SKRequest *)request}

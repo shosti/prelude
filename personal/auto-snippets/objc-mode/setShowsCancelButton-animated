@@ -1,5 +1,0 @@
-#name : setShowsCancelButton:animated
-#group : UISearchBar
-#key : setShowsCancelButton:animated
-# --
-setShowsCancelButton:${1:(BOOL)showsCancelButton} animated:${2:(BOOL)animated}

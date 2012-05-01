@@ -1,5 +1,0 @@
-#name : presentedSubitemDidAppearAtURL
-#group : NSFilePresenter
-#key : presentedSubitemDidAppearAtURL
-# --
-presentedSubitemDidAppearAtURL:${1:(NSURL *)url}

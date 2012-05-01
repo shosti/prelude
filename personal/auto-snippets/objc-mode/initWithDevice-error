@@ -1,5 +1,0 @@
-#name : initWithDevice:error
-#group : AVCaptureInput
-#key : initWithDevice:error
-# --
-initWithDevice:${1:(AVCaptureDevice *)device} error:${2:(NSError **)outError}

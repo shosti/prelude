@@ -1,5 +1,0 @@
-#name : filterUsingPredicate
-#group : NSPredicate
-#key : filterUsingPredicate
-# --
-filterUsingPredicate:${1:(NSPredicate *)predicate}

@@ -1,5 +1,0 @@
-#name : setObjectZone
-#group : NSCoder
-#key : setObjectZone
-# --
-setObjectZone:${1:(NSZone *)zone}

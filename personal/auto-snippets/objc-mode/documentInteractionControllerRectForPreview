@@ -1,5 +1,0 @@
-#name : documentInteractionControllerRectForPreview
-#group : UIDocumentInteractionController
-#key : documentInteractionControllerRectForPreview
-# --
-documentInteractionControllerRectForPreview:${1:(UIDocumentInteractionController *)controller}

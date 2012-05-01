@@ -1,5 +1,0 @@
-#name : tableView:willSelectRowAtIndexPath
-#group : UITableView
-#key : tableView:willSelectRowAtIndexPath
-# --
-tableView:${1:(UITableView *)tableView} willSelectRowAtIndexPath:${2:(NSIndexPath *)indexPath}

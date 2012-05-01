@@ -1,5 +1,0 @@
-#name : comparePosition:toPosition
-#group : UITextInput
-#key : comparePosition:toPosition
-# --
-comparePosition:${1:(UITextPosition *)position} toPosition:${2:(UITextPosition *)other}

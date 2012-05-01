@@ -1,5 +1,0 @@
-#name : paymentWithProductIdentifier
-#group : SKPayment
-#key : paymentWithProductIdentifier
-# --
-paymentWithProductIdentifier:${1:(NSString *)identifier}

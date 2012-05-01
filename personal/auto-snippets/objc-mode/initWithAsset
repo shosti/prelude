@@ -1,5 +1,0 @@
-#name : initWithAsset
-#group : AVPlayerItem
-#key : initWithAsset
-# --
-initWithAsset:${1:(AVAsset *)asset}

@@ -1,5 +1,0 @@
-#name : netServiceDidResolveAddress
-#group : NSNetServices
-#key : netServiceDidResolveAddress
-# --
-netServiceDidResolveAddress:${1:(NSNetService *)sender}

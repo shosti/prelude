@@ -1,5 +1,0 @@
-#name : expressionWithFormat
-#group : NSExpression
-#key : expressionWithFormat
-# --
-expressionWithFormat:${1:(NSString *)expressionFormat}

@@ -1,5 +1,0 @@
-#name : subarrayWithRange
-#group : NSArray
-#key : subarrayWithRange
-# --
-subarrayWithRange:${1:(NSRange)range}

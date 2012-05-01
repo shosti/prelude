@@ -1,5 +1,0 @@
-#name : valueForKey
-#group : CATransaction
-#key : valueForKey
-# --
-valueForKey:${1:(NSString *)key}

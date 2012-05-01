@@ -1,5 +1,0 @@
-#name : addURL
-#group : TWTweetComposeViewController
-#key : addURL
-# --
-addURL:${1:(NSURL *)url}

@@ -1,5 +1,0 @@
-#name : initWithSharegroup
-#group : GLKTextureLoader
-#key : initWithSharegroup
-# --
-initWithSharegroup:${1:(EAGLSharegroup*)sharegroup}

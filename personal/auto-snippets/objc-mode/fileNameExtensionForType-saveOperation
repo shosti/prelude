@@ -1,5 +1,0 @@
-#name : fileNameExtensionForType:saveOperation
-#group : UIDocument
-#key : fileNameExtensionForType:saveOperation
-# --
-fileNameExtensionForType:${1:(NSString *)typeName} saveOperation:${2:(UIDocumentSaveOperation)saveOperation}

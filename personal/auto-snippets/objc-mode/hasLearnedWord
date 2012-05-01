@@ -1,5 +1,0 @@
-#name : hasLearnedWord
-#group : UITextChecker
-#key : hasLearnedWord
-# --
-hasLearnedWord:${1:(NSString *)word}

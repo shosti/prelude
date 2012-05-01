@@ -1,5 +1,0 @@
-#name : removeOutput
-#group : AVCaptureSession
-#key : removeOutput
-# --
-removeOutput:${1:(AVCaptureOutput *)output}

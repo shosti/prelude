@@ -1,5 +1,0 @@
-#name : encodeNXObject
-#group : NSCoder
-#key : encodeNXObject
-# --
-encodeNXObject:${1:(id)object}

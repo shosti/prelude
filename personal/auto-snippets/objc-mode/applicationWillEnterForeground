@@ -1,5 +1,0 @@
-#name : applicationWillEnterForeground
-#group : UIApplication
-#key : applicationWillEnterForeground
-# --
-applicationWillEnterForeground:${1:(UIApplication *)application}

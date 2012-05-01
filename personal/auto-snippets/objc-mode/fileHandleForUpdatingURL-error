@@ -1,5 +1,0 @@
-#name : fileHandleForUpdatingURL:error
-#group : NSFileHandle
-#key : fileHandleForUpdatingURL:error
-# --
-fileHandleForUpdatingURL:${1:(NSURL *)url} error:${2:(NSError **)error}

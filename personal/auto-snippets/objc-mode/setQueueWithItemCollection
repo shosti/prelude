@@ -1,5 +1,0 @@
-#name : setQueueWithItemCollection
-#group : MPMusicPlayerController
-#key : setQueueWithItemCollection
-# --
-setQueueWithItemCollection:${1:(MPMediaItemCollection *)itemCollection}

@@ -1,5 +1,0 @@
-#name : setPositiveInfinitySymbol
-#group : NSNumberFormatter
-#key : setPositiveInfinitySymbol
-# --
-setPositiveInfinitySymbol:${1:(NSString *)string}

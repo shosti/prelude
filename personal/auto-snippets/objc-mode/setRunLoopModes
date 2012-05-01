@@ -1,5 +1,0 @@
-#name : setRunLoopModes
-#group : NSUndoManager
-#key : setRunLoopModes
-# --
-setRunLoopModes:${1:(NSArray *)runLoopModes}

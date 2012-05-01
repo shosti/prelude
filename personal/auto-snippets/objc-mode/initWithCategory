@@ -1,5 +1,0 @@
-#name : initWithCategory
-#group : GKScore
-#key : initWithCategory
-# --
-initWithCategory:${1:(NSString *)category}

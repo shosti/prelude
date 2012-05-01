@@ -1,5 +1,0 @@
-#name : interstitialAd:didFailWithError
-#group : ADInterstitialAd
-#key : interstitialAd:didFailWithError
-# --
-interstitialAd:${1:(ADInterstitialAd *)interstitialAd} didFailWithError:${2:(NSError *)error}

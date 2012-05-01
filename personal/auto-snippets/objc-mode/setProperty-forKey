@@ -1,5 +1,0 @@
-#name : setProperty:forKey
-#group : NSURL
-#key : setProperty:forKey
-# --
-setProperty:${1:(id)property} forKey:${2:(NSString *)propertyKey}

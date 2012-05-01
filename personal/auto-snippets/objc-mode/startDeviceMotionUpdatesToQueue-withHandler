@@ -1,5 +1,0 @@
-#name : startDeviceMotionUpdatesToQueue:withHandler
-#group : CMMotionManager
-#key : startDeviceMotionUpdatesToQueue:withHandler
-# --
-startDeviceMotionUpdatesToQueue:${1:(NSOperationQueue *)queue} withHandler:${2:(CMDeviceMotionHandler)handler}

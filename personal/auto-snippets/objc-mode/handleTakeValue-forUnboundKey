@@ -1,5 +1,0 @@
-#name : handleTakeValue:forUnboundKey
-#group : NSKeyValueCoding
-#key : handleTakeValue:forUnboundKey
-# --
-handleTakeValue:${1:(id)value} forUnboundKey:${2:(NSString *)key}

@@ -1,5 +1,0 @@
-#name : selectRow:inComponent:animated
-#group : UIPickerView
-#key : selectRow:inComponent:animated
-# --
-selectRow:${1:(NSInteger)row} inComponent:${2:(NSInteger)component} animated:${3:(BOOL)animated}

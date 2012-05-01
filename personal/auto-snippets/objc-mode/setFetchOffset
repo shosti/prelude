@@ -1,5 +1,0 @@
-#name : setFetchOffset
-#group : NSFetchRequest
-#key : setFetchOffset
-# --
-setFetchOffset:${1:(NSUInteger)offset}

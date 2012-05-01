@@ -1,5 +1,0 @@
-#name : detectorOfType:context:options
-#group : CIDetector
-#key : detectorOfType:context:options
-# --
-detectorOfType:${1:(NSString*)type} context:${2:(CIContext *)context} options:${3:(NSDictionary *)options}

@@ -1,5 +1,0 @@
-#name : isPosition:withinTextUnit:inDirection
-#group : UITextInput
-#key : isPosition:withinTextUnit:inDirection
-# --
-isPosition:${1:(UITextPosition *)position} withinTextUnit:${2:(UITextGranularity)granularity} inDirection:${3:(UITextDirection)direction}

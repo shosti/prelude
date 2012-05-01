@@ -1,5 +1,0 @@
-#name : removeIndexes
-#group : NSIndexSet
-#key : removeIndexes
-# --
-removeIndexes:${1:(NSIndexSet *)indexSet}

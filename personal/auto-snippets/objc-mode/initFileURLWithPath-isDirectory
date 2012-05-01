@@ -1,5 +1,0 @@
-#name : initFileURLWithPath:isDirectory
-#group : NSURL
-#key : initFileURLWithPath:isDirectory
-# --
-initFileURLWithPath:${1:(NSString *)path} isDirectory:${2:(BOOL)isDir}

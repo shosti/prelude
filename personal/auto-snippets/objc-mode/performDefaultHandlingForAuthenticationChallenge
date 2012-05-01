@@ -1,5 +1,0 @@
-#name : performDefaultHandlingForAuthenticationChallenge
-#group : NSURLAuthenticationChallenge
-#key : performDefaultHandlingForAuthenticationChallenge
-# --
-performDefaultHandlingForAuthenticationChallenge:${1:(NSURLAuthenticationChallenge *)challenge}

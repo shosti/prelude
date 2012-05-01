@@ -1,5 +1,0 @@
-#name : initWithCString:encoding
-#group : NSString
-#key : initWithCString:encoding
-# --
-initWithCString:${1:(const char *)nullTerminatedCString} encoding:${2:(NSStringEncoding)encoding}

@@ -1,5 +1,0 @@
-#name : mutableTrackCompatibleWithTrack
-#group : AVComposition
-#key : mutableTrackCompatibleWithTrack
-# --
-mutableTrackCompatibleWithTrack:${1:(AVAssetTrack *)track}

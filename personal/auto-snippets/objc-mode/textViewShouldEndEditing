@@ -1,5 +1,0 @@
-#name : textViewShouldEndEditing
-#group : UITextView
-#key : textViewShouldEndEditing
-# --
-textViewShouldEndEditing:${1:(UITextView *)textView}

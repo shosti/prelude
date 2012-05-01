@@ -1,5 +1,0 @@
-#name : deleteRowsAtIndexPaths:withRowAnimation
-#group : UITableView
-#key : deleteRowsAtIndexPaths:withRowAnimation
-# --
-deleteRowsAtIndexPaths:${1:(NSArray *)indexPaths} withRowAnimation:${2:(UITableViewRowAnimation)animation}

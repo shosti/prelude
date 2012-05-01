@@ -1,5 +1,0 @@
-#name : insertObject:atIndex
-#group : NSOrderedSet
-#key : insertObject:atIndex
-# --
-insertObject:${1:(id)object} atIndex:${2:(NSUInteger)idx}

@@ -1,5 +1,0 @@
-#name : representationForUTI
-#group : ALAsset
-#key : representationForUTI
-# --
-representationForUTI:${1:(NSString *)representationUTI}

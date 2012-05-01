@@ -1,5 +1,0 @@
-#name : vectorWithX
-#group : CIVector
-#key : vectorWithX
-# --
-vectorWithX:${1:(CGFloat)x}

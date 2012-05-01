@@ -1,5 +1,0 @@
-#name : getRed:green:blue:alpha
-#group : UIColor
-#key : getRed:green:blue:alpha
-# --
-getRed:${1:(CGFloat *)red} green:${2:(CGFloat *)green} blue:${3:(CGFloat *)blue} alpha:${4:(CGFloat *)alpha}

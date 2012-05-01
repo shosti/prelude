@@ -1,5 +1,0 @@
-#name : isEqual
-#group : NSObject
-#key : isEqual
-# --
-isEqual:${1:(id)object}

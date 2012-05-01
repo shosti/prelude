@@ -1,5 +1,0 @@
-#name : encodePropertyList
-#group : NSCoder
-#key : encodePropertyList
-# --
-encodePropertyList:${1:(id)aPropertyList}

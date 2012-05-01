@@ -1,5 +1,0 @@
-#name : issueWithName
-#group : NKLibrary
-#key : issueWithName
-# --
-issueWithName:${1:(NSString *)name}

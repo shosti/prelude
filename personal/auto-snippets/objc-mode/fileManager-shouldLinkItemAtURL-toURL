@@ -1,5 +1,0 @@
-#name : fileManager:shouldLinkItemAtURL:toURL
-#group : NSFileManager
-#key : fileManager:shouldLinkItemAtURL:toURL
-# --
-fileManager:${1:(NSFileManager *)fileManager} shouldLinkItemAtURL:${2:(NSURL *)srcURL} toURL:${3:(NSURL *)dstURL}

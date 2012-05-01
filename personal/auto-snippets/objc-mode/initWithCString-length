@@ -1,5 +1,0 @@
-#name : initWithCString:length
-#group : NSString
-#key : initWithCString:length
-# --
-initWithCString:${1:(const char *)bytes} length:${2:(NSUInteger)length}

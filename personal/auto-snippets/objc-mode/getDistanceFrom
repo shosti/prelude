@@ -1,5 +1,0 @@
-#name : getDistanceFrom
-#group : CLLocation
-#key : getDistanceFrom
-# --
-getDistanceFrom:${1:(const CLLocation *)location}

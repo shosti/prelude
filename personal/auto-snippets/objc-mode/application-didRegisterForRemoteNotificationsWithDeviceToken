@@ -1,5 +1,0 @@
-#name : application:didRegisterForRemoteNotificationsWithDeviceToken
-#group : UIApplication
-#key : application:didRegisterForRemoteNotificationsWithDeviceToken
-# --
-application:${1:(UIApplication *)application} didRegisterForRemoteNotificationsWithDeviceToken:${2:(NSData *)deviceToken}

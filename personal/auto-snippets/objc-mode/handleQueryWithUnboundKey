@@ -1,5 +1,0 @@
-#name : handleQueryWithUnboundKey
-#group : NSKeyValueCoding
-#key : handleQueryWithUnboundKey
-# --
-handleQueryWithUnboundKey:${1:(NSString *)key}

@@ -1,5 +1,0 @@
-#name : initWithIndexSet
-#group : NSIndexSet
-#key : initWithIndexSet
-# --
-initWithIndexSet:${1:(NSIndexSet *)indexSet}

@@ -1,5 +1,0 @@
-#name : sizeWithFont
-#group : UIStringDrawing
-#key : sizeWithFont
-# --
-sizeWithFont:${1:(UIFont *)font}

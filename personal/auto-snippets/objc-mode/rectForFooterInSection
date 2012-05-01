@@ -1,5 +1,0 @@
-#name : rectForFooterInSection
-#group : UITableView
-#key : rectForFooterInSection
-# --
-rectForFooterInSection:${1:(NSInteger)section}

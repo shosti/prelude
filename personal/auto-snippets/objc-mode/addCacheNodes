@@ -1,5 +1,0 @@
-#name : addCacheNodes
-#group : NSAtomicStore
-#key : addCacheNodes
-# --
-addCacheNodes:${1:(NSSet *)cacheNodes}

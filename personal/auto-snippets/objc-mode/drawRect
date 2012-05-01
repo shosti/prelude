@@ -1,5 +1,0 @@
-#name : drawRect
-#group : UIView
-#key : drawRect
-# --
-drawRect:${1:(CGRect)rect}

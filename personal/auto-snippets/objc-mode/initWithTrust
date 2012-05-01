@@ -1,5 +1,0 @@
-#name : initWithTrust
-#group : NSURLCredential
-#key : initWithTrust
-# --
-initWithTrust:${1:(SecTrustRef)trust}

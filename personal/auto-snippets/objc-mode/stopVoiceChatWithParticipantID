@@ -1,5 +1,0 @@
-#name : stopVoiceChatWithParticipantID
-#group : GKVoiceChatService
-#key : stopVoiceChatWithParticipantID
-# --
-stopVoiceChatWithParticipantID:${1:(NSString *)participantID}

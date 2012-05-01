@@ -1,5 +1,0 @@
-#name : accelerometer:didAccelerate
-#group : UIAccelerometer
-#key : accelerometer:didAccelerate
-# --
-accelerometer:${1:(UIAccelerometer *)accelerometer} didAccelerate:${2:(UIAcceleration *)acceleration}

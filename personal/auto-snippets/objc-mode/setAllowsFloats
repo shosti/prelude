@@ -1,5 +1,0 @@
-#name : setAllowsFloats
-#group : NSNumberFormatter
-#key : setAllowsFloats
-# --
-setAllowsFloats:${1:(BOOL)flag}

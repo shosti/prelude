@@ -1,5 +1,0 @@
-#name : isEqualToData
-#group : NSData
-#key : isEqualToData
-# --
-isEqualToData:${1:(NSData *)other}

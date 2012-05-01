@@ -1,5 +1,0 @@
-#name : setMovieControlMode
-#group : MPMoviePlayerController
-#key : setMovieControlMode
-# --
-setMovieControlMode:${1:(MPMovieControlMode)movieControlMode}

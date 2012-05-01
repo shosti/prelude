@@ -1,5 +1,0 @@
-#name : playerItemWithURL
-#group : AVPlayerItem
-#key : playerItemWithURL
-# --
-playerItemWithURL:${1:(NSURL *)URL}

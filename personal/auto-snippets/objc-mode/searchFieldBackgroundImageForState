@@ -1,5 +1,0 @@
-#name : searchFieldBackgroundImageForState
-#group : UISearchBar
-#key : searchFieldBackgroundImageForState
-# --
-searchFieldBackgroundImageForState:${1:(UIControlState)state}

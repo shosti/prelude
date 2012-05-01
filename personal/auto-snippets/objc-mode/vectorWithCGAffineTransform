@@ -1,5 +1,0 @@
-#name : vectorWithCGAffineTransform
-#group : CIVector
-#key : vectorWithCGAffineTransform
-# --
-vectorWithCGAffineTransform:${1:(CGAffineTransform)t}

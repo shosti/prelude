@@ -1,5 +1,0 @@
-#name : appendSampleBuffer
-#group : AVAssetWriterInput
-#key : appendSampleBuffer
-# --
-appendSampleBuffer:${1:(CMSampleBufferRef)sampleBuffer}

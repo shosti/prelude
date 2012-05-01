@@ -1,5 +1,0 @@
-#name : dataDetectorWithTypes:error
-#group : NSRegularExpression
-#key : dataDetectorWithTypes:error
-# --
-dataDetectorWithTypes:${1:(NSTextCheckingTypes)checkingTypes} error:${2:(NSError **)error}

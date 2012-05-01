@@ -1,5 +1,0 @@
-#name : appendPixelBuffer:withPresentationTime
-#group : AVAssetWriterInput
-#key : appendPixelBuffer:withPresentationTime
-# --
-appendPixelBuffer:${1:(CVPixelBufferRef)pixelBuffer} withPresentationTime:${2:(CMTime)presentationTime}

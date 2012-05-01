@@ -1,5 +1,0 @@
-#name : fileManager:shouldRemoveItemAtURL
-#group : NSFileManager
-#key : fileManager:shouldRemoveItemAtURL
-# --
-fileManager:${1:(NSFileManager *)fileManager} shouldRemoveItemAtURL:${2:(NSURL *)URL}

@@ -1,5 +1,0 @@
-#name : mappingModelFromBundles:forSourceModel:destinationModel
-#group : NSMappingModel
-#key : mappingModelFromBundles:forSourceModel:destinationModel
-# --
-mappingModelFromBundles:${1:(NSArray *)bundles} forSourceModel:${2:(NSManagedObjectModel *)sourceModel} destinationModel:${3:(NSManagedObjectModel *)destinationModel}

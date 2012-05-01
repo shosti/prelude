@@ -1,5 +1,0 @@
-#name : controller:sectionIndexTitleForSectionName
-#group : NSFetchedResultsController
-#key : controller:sectionIndexTitleForSectionName
-# --
-controller:${1:(NSFetchedResultsController *)controller} sectionIndexTitleForSectionName:${2:(NSString *)sectionName}

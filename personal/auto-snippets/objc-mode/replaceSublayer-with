@@ -1,5 +1,0 @@
-#name : replaceSublayer:with
-#group : CALayer
-#key : replaceSublayer:with
-# --
-replaceSublayer:${1:(CALayer *)layer} with:${2:(CALayer *)layer2}

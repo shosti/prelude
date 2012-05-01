@@ -1,5 +1,0 @@
-#name : indexPathForObject
-#group : NSFetchedResultsController
-#key : indexPathForObject
-# --
-indexPathForObject:${1:(id)object}

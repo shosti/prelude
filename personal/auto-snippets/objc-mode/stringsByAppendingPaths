@@ -1,5 +1,0 @@
-#name : stringsByAppendingPaths
-#group : NSPathUtilities
-#key : stringsByAppendingPaths
-# --
-stringsByAppendingPaths:${1:(NSArray *)paths}

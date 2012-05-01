@@ -1,5 +1,0 @@
-#name : valueWithCMTimeMapping
-#group : AVTime
-#key : valueWithCMTimeMapping
-# --
-valueWithCMTimeMapping:${1:(CMTimeMapping)timeMapping}

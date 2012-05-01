@@ -1,5 +1,0 @@
-#name : contextWithCGLContext
-#group : CIContext
-#key : contextWithCGLContext
-# --
-contextWithCGLContext:${1:(CGLContextObj)ctx}

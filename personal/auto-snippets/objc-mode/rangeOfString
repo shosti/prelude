@@ -1,5 +1,0 @@
-#name : rangeOfString
-#group : NSString
-#key : rangeOfString
-# --
-rangeOfString:${1:(NSString *)aString}

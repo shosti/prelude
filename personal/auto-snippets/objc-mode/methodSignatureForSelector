@@ -1,5 +1,0 @@
-#name : methodSignatureForSelector
-#group : NSProxy
-#key : methodSignatureForSelector
-# --
-methodSignatureForSelector:${1:(SEL)sel}

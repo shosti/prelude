@@ -1,5 +1,0 @@
-#name : hasSuffix
-#group : NSString
-#key : hasSuffix
-# --
-hasSuffix:${1:(NSString *)aString}

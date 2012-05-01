@@ -1,5 +1,0 @@
-#name : bundleWithURL
-#group : NSBundle
-#key : bundleWithURL
-# --
-bundleWithURL:${1:(NSURL *)url}

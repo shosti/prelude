@@ -1,5 +1,0 @@
-#name : cancelMigrationWithError
-#group : NSMigrationManager
-#key : cancelMigrationWithError
-# --
-cancelMigrationWithError:${1:(NSError *)error}

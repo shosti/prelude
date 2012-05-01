@@ -1,5 +1,0 @@
-#name : caseInsensitiveCompare
-#group : NSString
-#key : caseInsensitiveCompare
-# --
-caseInsensitiveCompare:${1:(NSString *)string}

@@ -1,5 +1,0 @@
-#name : componentsSeparatedByCharactersInSet
-#group : NSString
-#key : componentsSeparatedByCharactersInSet
-# --
-componentsSeparatedByCharactersInSet:${1:(NSCharacterSet *)separator}

@@ -1,5 +1,0 @@
-#name : arrayWithArray
-#group : NSArray
-#key : arrayWithArray
-# --
-arrayWithArray:${1:(NSArray *)array}

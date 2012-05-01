@@ -1,5 +1,0 @@
-#name : mapView:regionWillChangeAnimated
-#group : MKMapView
-#key : mapView:regionWillChangeAnimated
-# --
-mapView:${1:(MKMapView *)mapView} regionWillChangeAnimated:${2:(BOOL)animated}

@@ -1,5 +1,0 @@
-#name : fileManager:shouldProceedAfterError:removingItemAtURL
-#group : NSFileManager
-#key : fileManager:shouldProceedAfterError:removingItemAtURL
-# --
-fileManager:${1:(NSFileManager *)fileManager} shouldProceedAfterError:${2:(NSError *)error} removingItemAtURL:${3:(NSURL *)URL}

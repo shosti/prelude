@@ -1,5 +1,0 @@
-#name : setUsesSignificantDigits
-#group : NSNumberFormatter
-#key : setUsesSignificantDigits
-# --
-setUsesSignificantDigits:${1:(BOOL)b}

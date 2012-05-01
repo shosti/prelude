@@ -1,5 +1,0 @@
-#name : initWithName:reason:userInfo
-#group : NSException
-#key : initWithName:reason:userInfo
-# --
-initWithName:${1:(NSString *)aName} reason:${2:(NSString *)aReason} userInfo:${3:(NSDictionary *)aUserInfo}

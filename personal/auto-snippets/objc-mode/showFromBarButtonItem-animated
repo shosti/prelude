@@ -1,5 +1,0 @@
-#name : showFromBarButtonItem:animated
-#group : UIActionSheet
-#key : showFromBarButtonItem:animated
-# --
-showFromBarButtonItem:${1:(UIBarButtonItem *)item} animated:${2:(BOOL)animated}

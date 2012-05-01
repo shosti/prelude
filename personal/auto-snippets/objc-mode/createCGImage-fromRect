@@ -1,5 +1,0 @@
-#name : createCGImage:fromRect
-#group : CIContext
-#key : createCGImage:fromRect
-# --
-createCGImage:${1:(CIImage *)im} fromRect:${2:(CGRect)r}

@@ -1,5 +1,0 @@
-#name : setContentViewController:animated
-#group : UIPopoverController
-#key : setContentViewController:animated
-# --
-setContentViewController:${1:(UIViewController *)viewController} animated:${2:(BOOL)animated}

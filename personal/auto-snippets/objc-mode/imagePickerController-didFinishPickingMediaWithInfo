@@ -1,5 +1,0 @@
-#name : imagePickerController:didFinishPickingMediaWithInfo
-#group : UIImagePickerController
-#key : imagePickerController:didFinishPickingMediaWithInfo
-# --
-imagePickerController:${1:(UIImagePickerController *)picker} didFinishPickingMediaWithInfo:${2:(NSDictionary *)info}

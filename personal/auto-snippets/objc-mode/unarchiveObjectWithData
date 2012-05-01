@@ -1,5 +1,0 @@
-#name : unarchiveObjectWithData
-#group : NSKeyedArchiver
-#key : unarchiveObjectWithData
-# --
-unarchiveObjectWithData:${1:(NSData *)data}

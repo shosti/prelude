@@ -1,5 +1,0 @@
-#name : setEditing:animated
-#group : UIViewController
-#key : setEditing:animated
-# --
-setEditing:${1:(BOOL)editing} animated:${2:(BOOL)animated}

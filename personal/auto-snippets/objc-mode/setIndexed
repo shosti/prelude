@@ -1,5 +1,0 @@
-#name : setIndexed
-#group : NSPropertyDescription
-#key : setIndexed
-# --
-setIndexed:${1:(BOOL)flag}

@@ -1,5 +1,0 @@
-#name : validateForUpdate
-#group : NSManagedObject
-#key : validateForUpdate
-# --
-validateForUpdate:${1:(NSError **)error}

@@ -1,5 +1,0 @@
-#name : initWithName:data
-#group : NSTimeZone
-#key : initWithName:data
-# --
-initWithName:${1:(NSString *)tzName} data:${2:(NSData *)aData}

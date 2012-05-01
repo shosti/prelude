@@ -1,5 +1,0 @@
-#name : translationInView
-#group : UIPanGestureRecognizer
-#key : translationInView
-# --
-translationInView:${1:(UIView *)view}

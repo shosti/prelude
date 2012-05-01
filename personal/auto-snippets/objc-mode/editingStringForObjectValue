@@ -1,5 +1,0 @@
-#name : editingStringForObjectValue
-#group : NSFormatter
-#key : editingStringForObjectValue
-# --
-editingStringForObjectValue:${1:(id)obj}

@@ -1,5 +1,0 @@
-#name : polylineWithCoordinates:count
-#group : MKPolyline
-#key : polylineWithCoordinates:count
-# --
-polylineWithCoordinates:${1:(CLLocationCoordinate2D *)coords} count:${2:(NSUInteger)count}

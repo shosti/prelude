@@ -1,5 +1,0 @@
-#name : isSubclassOfClass
-#group : NSObject
-#key : isSubclassOfClass
-# --
-isSubclassOfClass:${1:(Class)aClass}

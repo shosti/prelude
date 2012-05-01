@@ -1,5 +1,0 @@
-#name : rowSizeForComponent
-#group : UIPickerView
-#key : rowSizeForComponent
-# --
-rowSizeForComponent:${1:(NSInteger)component}

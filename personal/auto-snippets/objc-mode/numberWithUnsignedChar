@@ -1,5 +1,0 @@
-#name : numberWithUnsignedChar
-#group : NSValue
-#key : numberWithUnsignedChar
-# --
-numberWithUnsignedChar:${1:(unsigned char)value}

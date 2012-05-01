@@ -1,5 +1,0 @@
-#name : turnBasedMatchmakerViewController:didFailWithError
-#group : GKTurnBasedMatchmakerViewController
-#key : turnBasedMatchmakerViewController:didFailWithError
-# --
-turnBasedMatchmakerViewController:${1:(GKTurnBasedMatchmakerViewController *)viewController} didFailWithError:${2:(NSError *)error}

@@ -1,5 +1,0 @@
-#name : applicationWillTerminate
-#group : UIApplication
-#key : applicationWillTerminate
-# --
-applicationWillTerminate:${1:(UIApplication *)application}

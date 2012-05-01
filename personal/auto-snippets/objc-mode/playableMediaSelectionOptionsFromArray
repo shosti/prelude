@@ -1,5 +1,0 @@
-#name : playableMediaSelectionOptionsFromArray
-#group : AVMediaSelectionGroup
-#key : playableMediaSelectionOptionsFromArray
-# --
-playableMediaSelectionOptionsFromArray:${1:(NSArray *)array}

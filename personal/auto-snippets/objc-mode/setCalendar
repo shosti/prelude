@@ -1,5 +1,0 @@
-#name : setCalendar
-#group : NSDateFormatter
-#key : setCalendar
-# --
-setCalendar:${1:(NSCalendar *)calendar}

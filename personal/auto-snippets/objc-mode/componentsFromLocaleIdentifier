@@ -1,5 +1,0 @@
-#name : componentsFromLocaleIdentifier
-#group : NSLocale
-#key : componentsFromLocaleIdentifier
-# --
-componentsFromLocaleIdentifier:${1:(NSString *)string}

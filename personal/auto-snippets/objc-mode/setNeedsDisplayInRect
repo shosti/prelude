@@ -1,5 +1,0 @@
-#name : setNeedsDisplayInRect
-#group : UIView
-#key : setNeedsDisplayInRect
-# --
-setNeedsDisplayInRect:${1:(CGRect)rect}

@@ -1,5 +1,0 @@
-#name : removeInput
-#group : AVCaptureSession
-#key : removeInput
-# --
-removeInput:${1:(AVCaptureInput *)input}

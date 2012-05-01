@@ -1,5 +1,0 @@
-#name : fileHandleForWritingToURL:error
-#group : NSFileHandle
-#key : fileHandleForWritingToURL:error
-# --
-fileHandleForWritingToURL:${1:(NSURL *)url} error:${2:(NSError **)error}

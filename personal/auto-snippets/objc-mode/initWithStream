@@ -1,5 +1,0 @@
-#name : initWithStream
-#group : NSXMLParser
-#key : initWithStream
-# --
-initWithStream:${1:(NSInputStream *)stream}

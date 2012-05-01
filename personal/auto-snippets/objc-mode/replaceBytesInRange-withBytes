@@ -1,5 +1,0 @@
-#name : replaceBytesInRange:withBytes
-#group : NSData
-#key : replaceBytesInRange:withBytes
-# --
-replaceBytesInRange:${1:(NSRange)range} withBytes:${2:(const void *)bytes}

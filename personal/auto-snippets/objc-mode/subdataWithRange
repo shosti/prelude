@@ -1,5 +1,0 @@
-#name : subdataWithRange
-#group : NSData
-#key : subdataWithRange
-# --
-subdataWithRange:${1:(NSRange)range}

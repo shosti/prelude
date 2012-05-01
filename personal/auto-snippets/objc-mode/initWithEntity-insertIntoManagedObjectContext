@@ -1,5 +1,0 @@
-#name : initWithEntity:insertIntoManagedObjectContext
-#group : NSManagedObject
-#key : initWithEntity:insertIntoManagedObjectContext
-# --
-initWithEntity:${1:(NSEntityDescription *)entity} insertIntoManagedObjectContext:${2:(NSManagedObjectContext *)context}

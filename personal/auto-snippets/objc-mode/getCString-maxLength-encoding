@@ -1,5 +1,0 @@
-#name : getCString:maxLength:encoding
-#group : NSString
-#key : getCString:maxLength:encoding
-# --
-getCString:${1:(char *)buffer} maxLength:${2:(NSUInteger)maxBufferCount} encoding:${3:(NSStringEncoding)encoding}

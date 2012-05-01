@@ -1,5 +1,0 @@
-#name : printInteractionControllerParentViewController
-#group : UIPrintInteractionController
-#key : printInteractionControllerParentViewController
-# --
-printInteractionControllerParentViewController:${1:(UIPrintInteractionController *)printInteractionController}

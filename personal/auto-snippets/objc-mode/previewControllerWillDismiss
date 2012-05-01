@@ -1,5 +1,0 @@
-#name : previewControllerWillDismiss
-#group : QLPreviewController
-#key : previewControllerWillDismiss
-# --
-previewControllerWillDismiss:${1:(QLPreviewController *)controller}

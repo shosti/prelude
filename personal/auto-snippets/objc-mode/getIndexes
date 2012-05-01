@@ -1,5 +1,0 @@
-#name : getIndexes
-#group : NSIndexPath
-#key : getIndexes
-# --
-getIndexes:${1:(NSUInteger *)indexes}

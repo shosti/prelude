@@ -1,5 +1,0 @@
-#name : setMinimumFractionDigits
-#group : NSNumberFormatter
-#key : setMinimumFractionDigits
-# --
-setMinimumFractionDigits:${1:(NSUInteger)number}

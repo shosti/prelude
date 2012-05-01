@@ -1,5 +1,0 @@
-#name : volatileDomainForName
-#group : NSUserDefaults
-#key : volatileDomainForName
-# --
-volatileDomainForName:${1:(NSString *)domainName}

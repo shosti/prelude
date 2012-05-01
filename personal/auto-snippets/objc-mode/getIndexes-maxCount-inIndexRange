@@ -1,5 +1,0 @@
-#name : getIndexes:maxCount:inIndexRange
-#group : NSIndexSet
-#key : getIndexes:maxCount:inIndexRange
-# --
-getIndexes:${1:(NSUInteger *)indexBuffer} maxCount:${2:(NSUInteger)bufferSize} inIndexRange:${3:(NSRangePointer)range}

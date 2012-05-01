@@ -1,5 +1,0 @@
-#name : locationManager
-#group : CLLocationManagerDelegate
-#key : locationManager
-# --
-locationManager:${1:(CLLocationManager *)manager}

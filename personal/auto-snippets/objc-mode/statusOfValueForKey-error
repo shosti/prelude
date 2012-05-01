@@ -1,5 +1,0 @@
-#name : statusOfValueForKey:error
-#group : AVMetadataItem
-#key : statusOfValueForKey:error
-# --
-statusOfValueForKey:${1:(NSString *)key} error:${2:(NSError **)outError}

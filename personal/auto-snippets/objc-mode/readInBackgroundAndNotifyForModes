@@ -1,5 +1,0 @@
-#name : readInBackgroundAndNotifyForModes
-#group : NSFileHandle
-#key : readInBackgroundAndNotifyForModes
-# --
-readInBackgroundAndNotifyForModes:${1:(NSArray *)modes}

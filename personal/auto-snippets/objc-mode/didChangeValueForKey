@@ -1,5 +1,0 @@
-#name : didChangeValueForKey
-#group : NSKeyValueObserving
-#key : didChangeValueForKey
-# --
-didChangeValueForKey:${1:(NSString *)key}

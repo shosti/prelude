@@ -1,5 +1,0 @@
-#name : encodeDouble:forKey
-#group : NSKeyedArchiver
-#key : encodeDouble:forKey
-# --
-encodeDouble:${1:(double)realv} forKey:${2:(NSString *)key}

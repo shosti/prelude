@@ -1,5 +1,0 @@
-#name : setCurrencyCode
-#group : NSNumberFormatter
-#key : setCurrencyCode
-# --
-setCurrencyCode:${1:(NSString *)string}

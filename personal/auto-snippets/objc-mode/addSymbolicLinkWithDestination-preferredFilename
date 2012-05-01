@@ -1,5 +1,0 @@
-#name : addSymbolicLinkWithDestination:preferredFilename
-#group : NSFileWrapper
-#key : addSymbolicLinkWithDestination:preferredFilename
-# --
-addSymbolicLinkWithDestination:${1:(NSString *)path} preferredFilename:${2:(NSString *)filename}

@@ -1,5 +1,0 @@
-#name : canonicalRequestForRequest
-#group : NSURLProtocol
-#key : canonicalRequestForRequest
-# --
-canonicalRequestForRequest:${1:(NSURLRequest *)request}

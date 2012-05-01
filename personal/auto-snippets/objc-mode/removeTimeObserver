@@ -1,5 +1,0 @@
-#name : removeTimeObserver
-#group : AVPlayer
-#key : removeTimeObserver
-# --
-removeTimeObserver:${1:(id)observer}

@@ -1,5 +1,0 @@
-#name : updateChangeCountWithToken:forSaveOperation
-#group : UIDocument
-#key : updateChangeCountWithToken:forSaveOperation
-# --
-updateChangeCountWithToken:${1:(id)changeCountToken} forSaveOperation:${2:(UIDocumentSaveOperation)saveOperation}

@@ -1,5 +1,0 @@
-#name : setFetchBatchSize
-#group : NSFetchRequest
-#key : setFetchBatchSize
-# --
-setFetchBatchSize:${1:(NSUInteger)bsize}

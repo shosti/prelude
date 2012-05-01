@@ -1,5 +1,0 @@
-#name : scrollViewDidEndDecelerating
-#group : UIScrollView
-#key : scrollViewDidEndDecelerating
-# --
-scrollViewDidEndDecelerating:${1:(UIScrollView *)scrollView}

@@ -1,5 +1,0 @@
-#name : indexOfObjectIdenticalTo:inRange
-#group : NSArray
-#key : indexOfObjectIdenticalTo:inRange
-# --
-indexOfObjectIdenticalTo:${1:(id)anObject} inRange:${2:(NSRange)range}

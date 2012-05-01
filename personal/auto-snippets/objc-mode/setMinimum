@@ -1,5 +1,0 @@
-#name : setMinimum
-#group : NSNumberFormatter
-#key : setMinimum
-# --
-setMinimum:${1:(NSNumber *)number}

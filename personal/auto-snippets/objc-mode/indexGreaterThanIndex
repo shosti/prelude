@@ -1,5 +1,0 @@
-#name : indexGreaterThanIndex
-#group : NSIndexSet
-#key : indexGreaterThanIndex
-# --
-indexGreaterThanIndex:${1:(NSUInteger)value}

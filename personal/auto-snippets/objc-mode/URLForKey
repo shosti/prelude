@@ -1,5 +1,0 @@
-#name : URLForKey
-#group : NSUserDefaults
-#key : URLForKey
-# --
-URLForKey:${1:(NSString *)defaultName}

@@ -1,5 +1,0 @@
-#name : isEqualToAttributedString
-#group : NSAttributedString
-#key : isEqualToAttributedString
-# --
-isEqualToAttributedString:${1:(NSAttributedString *)other}

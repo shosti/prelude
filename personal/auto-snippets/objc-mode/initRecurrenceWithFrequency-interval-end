@@ -1,5 +1,0 @@
-#name : initRecurrenceWithFrequency:interval:end
-#group : EKRecurrenceRule
-#key : initRecurrenceWithFrequency:interval:end
-# --
-initRecurrenceWithFrequency:${1:(EKRecurrenceFrequency)type} interval:${2:(NSInteger)interval} end:${3:(EKRecurrenceEnd *)end}

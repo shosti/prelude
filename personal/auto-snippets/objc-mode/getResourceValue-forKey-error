@@ -1,5 +1,0 @@
-#name : getResourceValue:forKey:error
-#group : NSURL
-#key : getResourceValue:forKey:error
-# --
-getResourceValue:${1:(out id *)value} forKey:${2:(NSString *)key} error:${3:(out NSError **)error}

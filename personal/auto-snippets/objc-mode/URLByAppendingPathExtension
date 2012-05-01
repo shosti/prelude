@@ -1,5 +1,0 @@
-#name : URLByAppendingPathExtension
-#group : NSURL
-#key : URLByAppendingPathExtension
-# --
-URLByAppendingPathExtension:${1:(NSString *)pathExtension}

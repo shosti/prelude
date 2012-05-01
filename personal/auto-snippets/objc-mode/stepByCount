@@ -1,5 +1,0 @@
-#name : stepByCount
-#group : AVPlayerItem
-#key : stepByCount
-# --
-stepByCount:${1:(NSInteger)stepCount}

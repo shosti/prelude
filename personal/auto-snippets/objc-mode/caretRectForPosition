@@ -1,5 +1,0 @@
-#name : caretRectForPosition
-#group : UITextInput
-#key : caretRectForPosition
-# --
-caretRectForPosition:${1:(UITextPosition *)position}

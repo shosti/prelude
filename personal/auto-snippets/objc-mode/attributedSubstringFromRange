@@ -1,5 +1,0 @@
-#name : attributedSubstringFromRange
-#group : NSAttributedString
-#key : attributedSubstringFromRange
-# --
-attributedSubstringFromRange:${1:(NSRange)range}

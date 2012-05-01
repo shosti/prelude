@@ -1,5 +1,0 @@
-#name : removeDependency
-#group : NSOperation
-#key : removeDependency
-# --
-removeDependency:${1:(NSOperation *)op}

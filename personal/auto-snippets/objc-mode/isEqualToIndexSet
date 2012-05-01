@@ -1,5 +1,0 @@
-#name : isEqualToIndexSet
-#group : NSIndexSet
-#key : isEqualToIndexSet
-# --
-isEqualToIndexSet:${1:(NSIndexSet *)indexSet}

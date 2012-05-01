@@ -1,5 +1,0 @@
-#name : signatureWithObjCTypes
-#group : NSMethodSignature
-#key : signatureWithObjCTypes
-# --
-signatureWithObjCTypes:${1:(const char *)types}

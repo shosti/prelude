@@ -1,5 +1,0 @@
-#name : bundleForClass
-#group : NSBundle
-#key : bundleForClass
-# --
-bundleForClass:${1:(Class)aClass}

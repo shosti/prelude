@@ -1,5 +1,0 @@
-#name : hasMediaCharacteristic
-#group : AVMediaSelectionGroup
-#key : hasMediaCharacteristic
-# --
-hasMediaCharacteristic:${1:(NSString *)mediaCharacteristic}

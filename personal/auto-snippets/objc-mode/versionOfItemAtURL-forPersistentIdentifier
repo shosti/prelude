@@ -1,5 +1,0 @@
-#name : versionOfItemAtURL:forPersistentIdentifier
-#group : NSFileVersion
-#key : versionOfItemAtURL:forPersistentIdentifier
-# --
-versionOfItemAtURL:${1:(NSURL *)url} forPersistentIdentifier:${2:(id)persistentIdentifier}

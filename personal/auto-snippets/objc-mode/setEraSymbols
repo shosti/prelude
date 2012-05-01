@@ -1,5 +1,0 @@
-#name : setEraSymbols
-#group : NSDateFormatter
-#key : setEraSymbols
-# --
-setEraSymbols:${1:(NSArray *)array}

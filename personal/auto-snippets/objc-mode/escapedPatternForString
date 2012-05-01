@@ -1,5 +1,0 @@
-#name : escapedPatternForString
-#group : NSRegularExpression
-#key : escapedPatternForString
-# --
-escapedPatternForString:${1:(NSString *)string}

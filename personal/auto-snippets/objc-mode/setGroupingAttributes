@@ -1,5 +1,0 @@
-#name : setGroupingAttributes
-#group : NSMetadata
-#key : setGroupingAttributes
-# --
-setGroupingAttributes:${1:(NSArray *)attrs}

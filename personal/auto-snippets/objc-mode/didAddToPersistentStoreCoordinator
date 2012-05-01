@@ -1,5 +1,0 @@
-#name : didAddToPersistentStoreCoordinator
-#group : NSPersistentStore
-#key : didAddToPersistentStoreCoordinator
-# --
-didAddToPersistentStoreCoordinator:${1:(NSPersistentStoreCoordinator *)coordinator}

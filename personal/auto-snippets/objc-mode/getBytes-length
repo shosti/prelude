@@ -1,5 +1,0 @@
-#name : getBytes:length
-#group : NSData
-#key : getBytes:length
-# --
-getBytes:${1:(void *)buffer} length:${2:(NSUInteger)length}

@@ -1,5 +1,0 @@
-#name : contentsOfDirectoryAtPath:error
-#group : NSFileManager
-#key : contentsOfDirectoryAtPath:error
-# --
-contentsOfDirectoryAtPath:${1:(NSString *)path} error:${2:(NSError **)error}

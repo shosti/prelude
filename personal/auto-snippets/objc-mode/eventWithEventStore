@@ -1,5 +1,0 @@
-#name : eventWithEventStore
-#group : EKEvent
-#key : eventWithEventStore
-# --
-eventWithEventStore:${1:(EKEventStore *)eventStore}

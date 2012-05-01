@@ -1,5 +1,0 @@
-#name : didRotateFromInterfaceOrientation
-#group : UIViewController
-#key : didRotateFromInterfaceOrientation
-# --
-didRotateFromInterfaceOrientation:${1:(UIInterfaceOrientation)fromInterfaceOrientation}

@@ -1,5 +1,0 @@
-#name : initWithTransitionStyle:navigationOrientation:options
-#group : UIPageViewController
-#key : initWithTransitionStyle:navigationOrientation:options
-# --
-initWithTransitionStyle:${1:(UIPageViewControllerTransitionStyle)style} navigationOrientation:${2:(UIPageViewControllerNavigationOrientation)navigationOrientation} options:${3:(NSDictionary *)options}

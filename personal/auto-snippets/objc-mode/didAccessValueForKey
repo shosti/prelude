@@ -1,5 +1,0 @@
-#name : didAccessValueForKey
-#group : NSManagedObject
-#key : didAccessValueForKey
-# --
-didAccessValueForKey:${1:(NSString *)key}

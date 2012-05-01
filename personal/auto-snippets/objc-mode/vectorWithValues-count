@@ -1,5 +1,0 @@
-#name : vectorWithValues:count
-#group : CIVector
-#key : vectorWithValues:count
-# --
-vectorWithValues:${1:(const CGFloat *)values} count:${2:(size_t)count}

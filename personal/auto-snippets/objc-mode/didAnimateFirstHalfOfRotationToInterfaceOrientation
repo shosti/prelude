@@ -1,5 +1,0 @@
-#name : didAnimateFirstHalfOfRotationToInterfaceOrientation
-#group : UIViewController
-#key : didAnimateFirstHalfOfRotationToInterfaceOrientation
-# --
-didAnimateFirstHalfOfRotationToInterfaceOrientation:${1:(UIInterfaceOrientation)toInterfaceOrientation}

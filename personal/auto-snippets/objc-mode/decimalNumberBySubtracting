@@ -1,5 +1,0 @@
-#name : decimalNumberBySubtracting
-#group : NSDecimalNumber
-#key : decimalNumberBySubtracting
-# --
-decimalNumberBySubtracting:${1:(NSDecimalNumber *)decimalNumber}

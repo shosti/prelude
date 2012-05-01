@@ -1,5 +1,0 @@
-#name : makeObjectsPerformSelector
-#group : NSSet
-#key : makeObjectsPerformSelector
-# --
-makeObjectsPerformSelector:${1:(SEL)aSelector}

@@ -1,5 +1,0 @@
-#name : fileHandleForReadingAtPath
-#group : NSFileHandle
-#key : fileHandleForReadingAtPath
-# --
-fileHandleForReadingAtPath:${1:(NSString *)path}

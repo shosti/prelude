@@ -1,5 +1,0 @@
-#name : initWithMarkupText
-#group : UIPrintFormatter
-#key : initWithMarkupText
-# --
-initWithMarkupText:${1:(NSString *)markupText}
