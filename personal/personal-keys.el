@@ -25,8 +25,5 @@
 ;;compile
 (define-key prelude-mode-map "\C-ck" 'compile)
 
-;;gnus
-;; (global-set-key "\C-zg" '(lambda ()
-;;                               (interactive)
-;;                               (elscreen-create)
-;;                               (gnus)))
+;; miscellaneous
+(global-set-key (kbd "C-M-h") 'mark-defun) ; undo prelude-mode binding

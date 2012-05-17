@@ -12,7 +12,7 @@
 (add-hook 'clojure-mode-hook
           '(lambda ()
              (font-lock-add-keywords nil
-                                     '(("(\\|)\\|\\[\\|\\]" . 'paren-face)))))
+                                     '(("(\\|)\\|\\[\\|\\]\\|{\\|}" . 'paren-face)))))
 
 (defun set-up-emacs-lisp-mode ()
   (elisp-slime-nav-mode 1))
