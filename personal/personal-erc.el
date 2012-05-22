@@ -31,10 +31,10 @@
   (bitlbee-start)
   (erc :server "localhost" :password erc-pass))
 
-;; (require 'elscreen)
-;; (global-set-key "\C-ze"
-;;                 '(lambda ()
-;;                    (interactive)
-;;                    (elscreen-create)
-;;                    (my-erc-connect)
-;;                    (gtalk)))
+(require 'elscreen)
+(global-set-key "\C-ze"
+                '(lambda ()
+                   (interactive)
+                   (elscreen-create)
+                   (my-erc-connect)
+                   (gtalk)))
