@@ -1,3 +1,4 @@
+alias npmi npm install -g $*
 alias testrb sh ~/.rbenv/shims/testrb $*
 alias ri sh ~/.rbenv/shims/ri $*
 alias rdoc sh ~/.rbenv/shims/rdoc $*
@@ -37,3 +38,4 @@ alias gp git push $*
 alias cds cd ~/src
 alias gmerge git merge $*
 alias gfu git fetch upstream
+alias gc git clone $*
