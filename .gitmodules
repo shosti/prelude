@@ -1,3 +1,0 @@
-[submodule "vendor/emacs-w3m"]
-	path = vendor/emacs-w3m
-	url = https://github.com/emacsmirror/w3m.git
