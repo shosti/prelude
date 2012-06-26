@@ -1,7 +1,7 @@
 (require 'personal-packages)
 
 ;; I like my arrow keys occasionally!
-(prelude-restore-arrow-keys)
+(guru-mode 0)
 
 (setq visible-bell t)
 (setq disabled-command-function nil)
