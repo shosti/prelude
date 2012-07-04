@@ -11,7 +11,8 @@
           '(ac-slime ace-jump-mode ascope auto-complete bitlbee buffer-move
                      elscreen gnuplot google-c-style highlight-parentheses
                      js-comint parenface pretty-mode smex undo-tree
-                     c-eldoc elisp-slime-nav coffee-mode python mark-multiple))
+                     c-eldoc elisp-slime-nav coffee-mode python mark-multiple
+                     yaml-mode))
   "A list of packages to ensure are installed at launch.")
 
 (defun personal-packages-installed-p ()

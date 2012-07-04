@@ -10,6 +10,7 @@ personal/auto-snippets
 elpa
 el-get
 semanticdb
+savefile
 url
 ede-projects.el
 .DS_Store
