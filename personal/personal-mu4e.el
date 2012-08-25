@@ -17,3 +17,5 @@
       user-full-name "Emanuel Evans"
       message-send-mail-function 'message-send-mail-with-sendmail
       message-kill-buffer-on-exit t)
+
+(global-set-key "\C-cm" 'mu4e)
