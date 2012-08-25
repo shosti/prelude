@@ -17,3 +17,4 @@ ede-projects.el
 ac-comphist.dat
 swank
 /abbrev_defs
+/tramp
