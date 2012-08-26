@@ -29,10 +29,12 @@
             elscreen
             gnuplot
             google-c-style
+            google-contacts
             highlight-parentheses
             jinja2-mode
             js-comint
             mark-multiple
+            offlineimap
             parenface
             pretty-mode
             python
