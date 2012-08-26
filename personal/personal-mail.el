@@ -19,5 +19,10 @@
       message-send-mail-function 'message-send-mail-with-sendmail
       message-kill-buffer-on-exit t)
 
+(add-hook 'message-mode-hook
+          (lambda ()
+            (turn-on-auto-fill)
+            (turn-on-orgstruct++)))
+
 (global-set-key "\C-cm" 'mu4e)
 (offlineimap)

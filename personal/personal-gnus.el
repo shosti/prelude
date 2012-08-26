@@ -9,8 +9,3 @@
       mm-inline-text-html-with-images t
       mm-w3m-safe-url-regexp nil
       mm-inline-large-images nil)
-
-(add-hook 'message-mode-hook
-          (lambda ()
-            (turn-on-orgstruct++)
-            (turn-on-auto-fill)))
