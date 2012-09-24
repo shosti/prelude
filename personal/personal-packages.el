@@ -33,14 +33,13 @@
             highlight-parentheses
             jinja2-mode
             js-comint
-            mark-multiple
-            offlineimap
             parenface
             pretty-mode
             python
             smex
             undo-tree
-            yaml-mode))
+            yaml-mode
+            multiple-cursors))
   "A list of packages to ensure are installed at launch.")
 
 (defun personal-packages-installed-p ()
