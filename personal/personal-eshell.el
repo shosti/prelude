@@ -24,4 +24,8 @@
             (dirtrack-mode 1)
             (shell-dirtrack-mode 0)))
 
+(eshell)
+(setq eshell-visual-commands
+      (append eshell-visual-commands '("mu" "sl")))
+
 (provide 'personal-eshell)

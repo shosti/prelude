@@ -9,6 +9,5 @@
     (load password-file)))
 
 (server-start)
-(eshell)
 
 (provide 'personal-init)
