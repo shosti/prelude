@@ -3,6 +3,7 @@
 
 (defun set-up-lisp-coding ()
   (show-paren-mode 0)
+  (rainbow-delimiters-mode 0)
   (highlight-parentheses-mode 1)
   (local-set-key (kbd "RET") 'paredit-newline))
 
