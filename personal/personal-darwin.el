@@ -8,8 +8,11 @@
 (defvar locate-dirs
   '("~/.emacs.d" "~/src" "~/org" "~/Dropbox/src"))
 
+(setq helm-case-fold-search t)
+(setq helm-locate-case-fold-search t)
+
 (setq helm-c-locate-command
       (mapconcat 'identity
-                 (cons "mdfind -name %s"
+                 (cons "mdfind %s -name %s"
                        locate-dirs)
                  " -onlyin "))
