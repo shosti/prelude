@@ -1,5 +1,8 @@
 (require 'personal-functions)
 
+(add-to-list 'package-archives
+             '("marmalade" . "http://marmalade-repo.org/packages/") t)
+
 (defvar personal-prelude-modules
   '(prelude-c
     prelude-clojure

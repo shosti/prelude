@@ -1,2 +1,2 @@
 (setq package-archive-exclude-alist
-      '(("melpa" . 'slime)))
+      '(("melpa" . (slime slime-ritz))))

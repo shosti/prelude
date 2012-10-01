@@ -17,8 +17,6 @@
 (eval-after-load "auto-complete"
   '(add-to-list 'ac-modes 'slime-repl-mode))
 
-(setq slime-protocol-version "20101113")
-
 ;; Ritz stuff
 (require 'projectile)
 (defun ritz-server-filter (process output)
@@ -36,3 +34,9 @@
          (ritz-process (start-process-shell-command
                         "ritz" "*ritz*" ritz-cmd)))
     (set-process-filter ritz-process 'ritz-server-filter)))
+
+;; Hack to get rid of version check
+(defadvice slime-check-version (before version-hack)
+  (setq slime-protocol-version 'ignore))
+
+(ad-activate 'slime-check-version)
