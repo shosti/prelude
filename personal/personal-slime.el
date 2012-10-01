@@ -3,7 +3,8 @@
 (slime-setup '(slime-repl
                slime-autodoc
                slime-fuzzy
-               slime-scratch))
+               slime-scratch
+               slime-ritz))
 
 (defadvice slime-scratch (after switch-to-clojure-mode)
   "Switch slime scratch buffer to clojure mode"

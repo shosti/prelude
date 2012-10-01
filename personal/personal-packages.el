@@ -36,6 +36,7 @@
             parenface
             pretty-mode
             python
+            slime-ritz
             smex
             undo-tree
             yaml-mode
