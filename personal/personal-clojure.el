@@ -7,7 +7,32 @@
 
 (define-key clojure-mode-map "\C-c\C-dr" 'open-clojure-docs)
 
-;; (add-hook 'nrepl-mode-hook 'ac-nrepl-setup)
-;; (add-hook 'nrepl-interaction-mode-hook 'ac-nrepl-setup)
-;; (eval-after-load "auto-complete"
-;;   '(add-to-list 'ac-modes 'nrepl-mode))
+(require 'projectile)
+(defun drawbridge-connect (url user passwd)
+  (interactive (list
+                (read-from-minibuffer
+                 "URL: "
+                 (format "https://%s.herokuapp.com/repl"
+                         (car (last
+                               (split-string (projectile-project-root)
+                                             "/") 2))))
+                (read-from-minibuffer "User: ")
+                (read-passwd "Password: ")))
+  (let* ((url-components (split-string url "://"))
+         (url (car (last url-components)))
+         (protocol (if (= (length url-components) 1)
+                       "https"
+                     (car url-components)))
+         (connection-string (format "lein repl :connect %s://%s:%s@%s"
+                                    protocol
+                                    user
+                                    passwd
+                                    url)))
+    (message "Connecting to drawbridge...")
+    (run-lisp connection-string)))
+
+(defun set-up-clojure-mode ()
+  (setq resize-mini-windows nil))
+
+(add-hook 'clojure-mode-hook
+          'set-up-clojure-mode)
