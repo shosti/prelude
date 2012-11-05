@@ -59,6 +59,12 @@ ELPA (or MELPA).")
 (add-to-list 'load-path prelude-modules-dir)
 (add-to-list 'load-path prelude-vendor-dir)
 
+;; load cedet early, or else it complains
+(let ((cedet-load-file
+       (expand-file-name "~/src/ext/cedet/cedet-devel-load.el")))
+  (when (file-exists-p cedet-load-file)
+    (load-file cedet-load-file)))
+
 ;; the core stuff
 (require 'prelude-packages)
 (require 'prelude-ui)
