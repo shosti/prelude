@@ -7,15 +7,13 @@
 
 (define-key clojure-mode-map "\C-c\C-dr" 'open-clojure-docs)
 
-(require 'projectile)
+(require 'personal-functions)
 (defun drawbridge-connect (url user passwd)
   (interactive (list
                 (read-from-minibuffer
                  "URL: "
                  (format "https://%s.herokuapp.com/repl"
-                         (car (last
-                               (split-string (projectile-project-root)
-                                             "/") 2))))
+                         (current-project-name)))
                 (read-from-minibuffer "User: ")
                 (read-passwd "Password: ")))
   (let* ((url-components (split-string url "://"))

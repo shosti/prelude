@@ -96,4 +96,9 @@ it to exec-path and the PATH variable"
   sint occaecat cupidatat non proident, sunt in culpa qui officia
   deserunt mollit anim id est laborum."))
 
+(require 'projectile)
+(defun current-project-name ()
+  (car (last
+        (split-string (projectile-project-root) "/") 2)))
+
 (provide 'personal-functions)
