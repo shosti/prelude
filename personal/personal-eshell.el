@@ -3,7 +3,7 @@
 
 (setq eshell-scroll-to-bottom-on-input t)
 (setq eshell-scroll-show-maximum-output nil)
-(setq eshell-directory-name (concat prelude-personal-dir "eshell/"))
+(setq eshell-directory-name (concat prelude-personal-dir "/eshell/"))
 
 (path-from-file "~/.path")
 
