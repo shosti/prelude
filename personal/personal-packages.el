@@ -28,6 +28,7 @@
             buffer-move
             c-eldoc
             coffee-mode
+            edit-server
             elisp-slime-nav
             elscreen
             gnuplot
@@ -38,7 +39,6 @@
             js-comint
             parenface
             pretty-mode
-            python
             slime-ritz
             smex
             undo-tree
