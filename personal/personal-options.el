@@ -26,3 +26,5 @@
           (lambda ()
             (byte-recompile-directory prelude-modules-dir)
             (byte-recompile-file (concat user-emacs-directory "init.el"))))
+
+(setq tetris-score-file (concat user-emacs-directory "tetris-scores"))

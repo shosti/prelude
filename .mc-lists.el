@@ -3,6 +3,7 @@
 
 (setq mc/cmds-to-run-for-all
       '(
+        beginning-of-visual-line
         paredit-forward-delete
         paredit-forward-kill-word
         undo-tree-visualizer-quit
@@ -10,6 +11,6 @@
 
 (setq mc/cmds-to-run-once
       '(
-        coffee-dedent-line-backspace
+        mouse-buffer-menu
         paredit-backward-delete
         ))
