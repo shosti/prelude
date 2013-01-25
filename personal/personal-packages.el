@@ -35,11 +35,11 @@
             google-c-style
             google-contacts
             highlight-parentheses
+            jedi
             jinja2-mode
             js-comint
             parenface
             pretty-mode
-            python
             slime-ritz
             smex
             undo-tree

@@ -1,5 +1,4 @@
 (require 'personal-packages)
-(require 'pymacs)
 
 (defun set-up-python-mode ()
   (local-set-key (kbd "RET") 'my-py-newline-and-indent))
