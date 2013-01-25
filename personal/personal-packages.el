@@ -39,6 +39,7 @@
             js-comint
             parenface
             pretty-mode
+            python
             slime-ritz
             smex
             undo-tree
