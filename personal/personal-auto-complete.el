@@ -9,7 +9,8 @@
 (ac-flyspell-workaround)
 
 (defun set-up-auto-complete-mode ()
-  (setq ac-sources (remove 'ac-source-yasnippet ac-sources)))
+  ;;  (setq ac-sources (remove 'ac-source-yasnippet ac-sources))
+  )
 
 (mapc (lambda (hook)
         (add-hook hook 'set-up-auto-complete-mode t))

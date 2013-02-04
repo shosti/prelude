@@ -2,7 +2,6 @@
 
 (require 'yasnippet)
 
-(setq yas/snippet-dirs (list (concat prelude-personal-dir "snippets")))
-;; Play nice with auto-complete
-(setq yas/trigger-key "\C-m")
-(yas/reload-all)
+(setq yas-snippet-dirs (list (concat prelude-personal-dir "/snippets")))
+(yas-reload-all)
+(yas-global-mode 1)
